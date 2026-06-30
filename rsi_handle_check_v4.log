@@ -1,0 +1,215 @@
+Checking 82 map names for RSI handle availability...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/82]   200  TAKEN       Inferno                    https://robertsspaceindustries.com/en/citizens/Inferno
+[  2/82]   200  TAKEN       Nuke                       https://robertsspaceindustries.com/en/citizens/Nuke
+[  3/82]   200  TAKEN       Train                      https://robertsspaceindustries.com/en/citizens/Train
+[  4/82]   200  TAKEN       Aztec                      https://robertsspaceindustries.com/en/citizens/Aztec
+[  5/82]   200  TAKEN       Cobblestone                https://robertsspaceindustries.com/en/citizens/Cobblestone
+[  6/82]   200  TAKEN       Cache                      https://robertsspaceindustries.com/en/citizens/Cache
+[  7/82]   200  TAKEN       Mirage                     https://robertsspaceindustries.com/en/citizens/Mirage
+[  8/82]   404  AVAILABLE   Italy                      https://robertsspaceindustries.com/en/citizens/Italy
+[  9/82]   200  TAKEN       Office                     https://robertsspaceindustries.com/en/citizens/Office
+[ 10/82]   200  TAKEN       Assault                    https://robertsspaceindustries.com/en/citizens/Assault
+[ 11/82]   200  TAKEN       Militia                    https://robertsspaceindustries.com/en/citizens/Militia
+[ 12/82]   200  TAKEN       Prodigy                    https://robertsspaceindustries.com/en/citizens/Prodigy
+[ 13/82]   200  TAKEN       Tuscan                     https://robertsspaceindustries.com/en/citizens/Tuscan
+[ 14/82]   200  TAKEN       Piranesi                   https://robertsspaceindustries.com/en/citizens/Piranesi
+[ 15/82]   200  TAKEN       Chateau                    https://robertsspaceindustries.com/en/citizens/Chateau
+[ 16/82]   200  TAKEN       Tides                      https://robertsspaceindustries.com/en/citizens/Tides
+[ 17/82]   200  TAKEN       Depot                      https://robertsspaceindustries.com/en/citizens/Depot
+[ 18/82]   200  TAKEN       Season                     https://robertsspaceindustries.com/en/citizens/Season
+[ 19/82]   200  TAKEN       Vertigo                    https://robertsspaceindustries.com/en/citizens/Vertigo
+[ 20/82]   404  AVAILABLE   Overpass                   https://robertsspaceindustries.com/en/citizens/Overpass
+[ 21/82]   200  TAKEN       Breach                     https://robertsspaceindustries.com/en/citizens/Breach
+[ 22/82]   404  AVAILABLE   TwoFort                    https://robertsspaceindustries.com/en/citizens/TwoFort
+[ 23/82]   404  AVAILABLE   Dustbowl                   https://robertsspaceindustries.com/en/citizens/Dustbowl
+[ 24/82]   200  TAKEN       Badlands                   https://robertsspaceindustries.com/en/citizens/Badlands
+[ 25/82]   404  AVAILABLE   Granary                    https://robertsspaceindustries.com/en/citizens/Granary
+[ 26/82]   200  TAKEN       Gravelpit                  https://robertsspaceindustries.com/en/citizens/Gravelpit
+[ 27/82]   200  TAKEN       Goldrush                   https://robertsspaceindustries.com/en/citizens/Goldrush
+[ 28/82]   200  TAKEN       Badwater                   https://robertsspaceindustries.com/en/citizens/Badwater
+[ 29/82]   200  TAKEN       Upward                     https://robertsspaceindustries.com/en/citizens/Upward
+[ 30/82]   200  TAKEN       Hydro                      https://robertsspaceindustries.com/en/citizens/Hydro
+[ 31/82]   404  AVAILABLE   Gorge                      https://robertsspaceindustries.com/en/citizens/Gorge
+[ 32/82]   200  TAKEN       Coldfront                  https://robertsspaceindustries.com/en/citizens/Coldfront
+[ 33/82]   200  TAKEN       Mercenary                  https://robertsspaceindustries.com/en/citizens/Mercenary
+[ 34/82]   404  AVAILABLE   Barnblitz                  https://robertsspaceindustries.com/en/citizens/Barnblitz
+[ 35/82]   200  TAKEN       Hightower                  https://robertsspaceindustries.com/en/citizens/Hightower
+[ 36/82]   404  AVAILABLE   Mannhattan                 https://robertsspaceindustries.com/en/citizens/Mannhattan
+[ 37/82]   404  AVAILABLE   BloodGulch                 https://robertsspaceindustries.com/en/citizens/BloodGulch
+[ 38/82]   200  TAKEN       HangEmHigh                 https://robertsspaceindustries.com/en/citizens/HangEmHigh
+[ 39/82]   200  TAKEN       Sidewinder                 https://robertsspaceindustries.com/en/citizens/Sidewinder
+[ 40/82]   200  TAKEN       Damnation                  https://robertsspaceindustries.com/en/citizens/Damnation
+[ 41/82]   200  TAKEN       Longest                    https://robertsspaceindustries.com/en/citizens/Longest
+[ 42/82]   200  TAKEN       Prisoner                   https://robertsspaceindustries.com/en/citizens/Prisoner
+[ 43/82]   404  AVAILABLE   BattleCreek                https://robertsspaceindustries.com/en/citizens/BattleCreek
+[ 44/82]   200  TAKEN       ChillOut                   https://robertsspaceindustries.com/en/citizens/ChillOut
+[ 45/82]   200  TAKEN       Wizard                     https://robertsspaceindustries.com/en/citizens/Wizard
+[ 46/82]   200  TAKEN       RatRace                    https://robertsspaceindustries.com/en/citizens/RatRace
+[ 47/82]   200  TAKEN       Chiron                     https://robertsspaceindustries.com/en/citizens/Chiron
+[ 48/82]   200  TAKEN       Infinity                   https://robertsspaceindustries.com/en/citizens/Infinity
+[ 49/82]   404  AVAILABLE   DeathIsland                https://robertsspaceindustries.com/en/citizens/DeathIsland
+[ 50/82]   404  AVAILABLE   IceFields                  https://robertsspaceindustries.com/en/citizens/IceFields
+[ 51/82]   404  AVAILABLE   Gephyrophobia              https://robertsspaceindustries.com/en/citizens/Gephyrophobia
+[ 52/82]   404  AVAILABLE   BoardingAction             https://robertsspaceindustries.com/en/citizens/BoardingAction
+[ 53/82]   200  TAKEN       Lockout                    https://robertsspaceindustries.com/en/citizens/Lockout
+[ 54/82]   200  TAKEN       Midship                    https://robertsspaceindustries.com/en/citizens/Midship
+[ 55/82]   200  TAKEN       Zanzibar                   https://robertsspaceindustries.com/en/citizens/Zanzibar
+[ 56/82]   200  TAKEN       Ascension                  https://robertsspaceindustries.com/en/citizens/Ascension
+[ 57/82]   404  AVAILABLE   Headlong                   https://robertsspaceindustries.com/en/citizens/Headlong
+[ 58/82]   404  AVAILABLE   Coagulation                https://robertsspaceindustries.com/en/citizens/Coagulation
+[ 59/82]   200  TAKEN       Foundation                 https://robertsspaceindustries.com/en/citizens/Foundation
+[ 60/82]   200  TAKEN       IvoryTower                 https://robertsspaceindustries.com/en/citizens/IvoryTower
+[ 61/82]   200  TAKEN       Colossus                   https://robertsspaceindustries.com/en/citizens/Colossus
+[ 62/82]   404  AVAILABLE   BurialMounds               https://robertsspaceindustries.com/en/citizens/BurialMounds
+[ 63/82]   200  TAKEN       Terminal                   https://robertsspaceindustries.com/en/citizens/Terminal
+[ 64/82]   200  TAKEN       Sanctuary                  https://robertsspaceindustries.com/en/citizens/Sanctuary
+[ 65/82]   404  AVAILABLE   BeaverCreek                https://robertsspaceindustries.com/en/citizens/BeaverCreek
+[ 66/82]   200  TAKEN       Turf                       https://robertsspaceindustries.com/en/citizens/Turf
+[ 67/82]   200  TAKEN       Waterworks                 https://robertsspaceindustries.com/en/citizens/Waterworks
+[ 68/82]   200  TAKEN       Gemini                     https://robertsspaceindustries.com/en/citizens/Gemini
+[ 69/82]   200  TAKEN       Aerowalk                   https://robertsspaceindustries.com/en/citizens/Aerowalk
+[ 70/82]   404  AVAILABLE   Campgrounds                https://robertsspaceindustries.com/en/citizens/Campgrounds
+[ 71/82]   200  TAKEN       Toxicity                   https://robertsspaceindustries.com/en/citizens/Toxicity
+[ 72/82]   200  TAKEN       Ztn                        https://robertsspaceindustries.com/en/citizens/Ztn
+[ 73/82]   200  TAKEN       Phrantic                   https://robertsspaceindustries.com/en/citizens/Phrantic
+[ 74/82]   404  AVAILABLE   Cpm1a                      https://robertsspaceindustries.com/en/citizens/Cpm1a
+[ 75/82]   200  TAKEN       FacingWorlds               https://robertsspaceindustries.com/en/citizens/FacingWorlds
+[ 76/82]   200  TAKEN       Morpheus                   https://robertsspaceindustries.com/en/citizens/Morpheus
+[ 77/82]   404  AVAILABLE   DeckSixteen                https://robertsspaceindustries.com/en/citizens/DeckSixteen
+[ 78/82]   200  TAKEN       Phobos                     https://robertsspaceindustries.com/en/citizens/Phobos
+[ 79/82]   200  TAKEN       Stalwart                   https://robertsspaceindustries.com/en/citizens/Stalwart
+[ 80/82]   200  TAKEN       Rankin                     https://robertsspaceindustries.com/en/citizens/Rankin
+[ 81/82]   200  TAKEN       Asbestos                   https://robertsspaceindustries.com/en/citizens/Asbestos
+[ 82/82]   404  AVAILABLE   LavaGiant                  https://robertsspaceindustries.com/en/citizens/LavaGiant
+
+==============================================================================================================
+RESULTS BY GAME
+==============================================================================================================
+
+✅  Counter-Strike — AVAILABLE:
+   Italy                      https://robertsspaceindustries.com/en/citizens/Italy
+   Overpass                   https://robertsspaceindustries.com/en/citizens/Overpass
+
+✅  Team Fortress 2 / TFC — AVAILABLE:
+   TwoFort                    https://robertsspaceindustries.com/en/citizens/TwoFort
+   Dustbowl                   https://robertsspaceindustries.com/en/citizens/Dustbowl
+   Granary                    https://robertsspaceindustries.com/en/citizens/Granary
+   Gorge                      https://robertsspaceindustries.com/en/citizens/Gorge
+   Barnblitz                  https://robertsspaceindustries.com/en/citizens/Barnblitz
+   Mannhattan                 https://robertsspaceindustries.com/en/citizens/Mannhattan
+
+✅  Halo CE — AVAILABLE:
+   BloodGulch                 https://robertsspaceindustries.com/en/citizens/BloodGulch
+   BattleCreek                https://robertsspaceindustries.com/en/citizens/BattleCreek
+   DeathIsland                https://robertsspaceindustries.com/en/citizens/DeathIsland
+   IceFields                  https://robertsspaceindustries.com/en/citizens/IceFields
+   Gephyrophobia              https://robertsspaceindustries.com/en/citizens/Gephyrophobia
+   BoardingAction             https://robertsspaceindustries.com/en/citizens/BoardingAction
+
+✅  Halo 2 — AVAILABLE:
+   Headlong                   https://robertsspaceindustries.com/en/citizens/Headlong
+   Coagulation                https://robertsspaceindustries.com/en/citizens/Coagulation
+   BurialMounds               https://robertsspaceindustries.com/en/citizens/BurialMounds
+   BeaverCreek                https://robertsspaceindustries.com/en/citizens/BeaverCreek
+
+✅  Quake — AVAILABLE:
+   Campgrounds                https://robertsspaceindustries.com/en/citizens/Campgrounds
+   Cpm1a                      https://robertsspaceindustries.com/en/citizens/Cpm1a
+
+✅  Unreal Tournament — AVAILABLE:
+   DeckSixteen                https://robertsspaceindustries.com/en/citizens/DeckSixteen
+   LavaGiant                  https://robertsspaceindustries.com/en/citizens/LavaGiant
+
+
+✅  ALL AVAILABLE (22):
+   Italy                      https://robertsspaceindustries.com/en/citizens/Italy
+   Overpass                   https://robertsspaceindustries.com/en/citizens/Overpass
+   TwoFort                    https://robertsspaceindustries.com/en/citizens/TwoFort
+   Dustbowl                   https://robertsspaceindustries.com/en/citizens/Dustbowl
+   Granary                    https://robertsspaceindustries.com/en/citizens/Granary
+   Gorge                      https://robertsspaceindustries.com/en/citizens/Gorge
+   Barnblitz                  https://robertsspaceindustries.com/en/citizens/Barnblitz
+   Mannhattan                 https://robertsspaceindustries.com/en/citizens/Mannhattan
+   BloodGulch                 https://robertsspaceindustries.com/en/citizens/BloodGulch
+   BattleCreek                https://robertsspaceindustries.com/en/citizens/BattleCreek
+   DeathIsland                https://robertsspaceindustries.com/en/citizens/DeathIsland
+   IceFields                  https://robertsspaceindustries.com/en/citizens/IceFields
+   Gephyrophobia              https://robertsspaceindustries.com/en/citizens/Gephyrophobia
+   BoardingAction             https://robertsspaceindustries.com/en/citizens/BoardingAction
+   Headlong                   https://robertsspaceindustries.com/en/citizens/Headlong
+   Coagulation                https://robertsspaceindustries.com/en/citizens/Coagulation
+   BurialMounds               https://robertsspaceindustries.com/en/citizens/BurialMounds
+   BeaverCreek                https://robertsspaceindustries.com/en/citizens/BeaverCreek
+   Campgrounds                https://robertsspaceindustries.com/en/citizens/Campgrounds
+   Cpm1a                      https://robertsspaceindustries.com/en/citizens/Cpm1a
+   DeckSixteen                https://robertsspaceindustries.com/en/citizens/DeckSixteen
+   LavaGiant                  https://robertsspaceindustries.com/en/citizens/LavaGiant
+
+❌  TAKEN (60):
+   Inferno                    https://robertsspaceindustries.com/en/citizens/Inferno
+   Nuke                       https://robertsspaceindustries.com/en/citizens/Nuke
+   Train                      https://robertsspaceindustries.com/en/citizens/Train
+   Aztec                      https://robertsspaceindustries.com/en/citizens/Aztec
+   Cobblestone                https://robertsspaceindustries.com/en/citizens/Cobblestone
+   Cache                      https://robertsspaceindustries.com/en/citizens/Cache
+   Mirage                     https://robertsspaceindustries.com/en/citizens/Mirage
+   Office                     https://robertsspaceindustries.com/en/citizens/Office
+   Assault                    https://robertsspaceindustries.com/en/citizens/Assault
+   Militia                    https://robertsspaceindustries.com/en/citizens/Militia
+   Prodigy                    https://robertsspaceindustries.com/en/citizens/Prodigy
+   Tuscan                     https://robertsspaceindustries.com/en/citizens/Tuscan
+   Piranesi                   https://robertsspaceindustries.com/en/citizens/Piranesi
+   Chateau                    https://robertsspaceindustries.com/en/citizens/Chateau
+   Tides                      https://robertsspaceindustries.com/en/citizens/Tides
+   Depot                      https://robertsspaceindustries.com/en/citizens/Depot
+   Season                     https://robertsspaceindustries.com/en/citizens/Season
+   Vertigo                    https://robertsspaceindustries.com/en/citizens/Vertigo
+   Breach                     https://robertsspaceindustries.com/en/citizens/Breach
+   Badlands                   https://robertsspaceindustries.com/en/citizens/Badlands
+   Gravelpit                  https://robertsspaceindustries.com/en/citizens/Gravelpit
+   Goldrush                   https://robertsspaceindustries.com/en/citizens/Goldrush
+   Badwater                   https://robertsspaceindustries.com/en/citizens/Badwater
+   Upward                     https://robertsspaceindustries.com/en/citizens/Upward
+   Hydro                      https://robertsspaceindustries.com/en/citizens/Hydro
+   Coldfront                  https://robertsspaceindustries.com/en/citizens/Coldfront
+   Mercenary                  https://robertsspaceindustries.com/en/citizens/Mercenary
+   Hightower                  https://robertsspaceindustries.com/en/citizens/Hightower
+   HangEmHigh                 https://robertsspaceindustries.com/en/citizens/HangEmHigh
+   Sidewinder                 https://robertsspaceindustries.com/en/citizens/Sidewinder
+   Damnation                  https://robertsspaceindustries.com/en/citizens/Damnation
+   Longest                    https://robertsspaceindustries.com/en/citizens/Longest
+   Prisoner                   https://robertsspaceindustries.com/en/citizens/Prisoner
+   ChillOut                   https://robertsspaceindustries.com/en/citizens/ChillOut
+   Wizard                     https://robertsspaceindustries.com/en/citizens/Wizard
+   RatRace                    https://robertsspaceindustries.com/en/citizens/RatRace
+   Chiron                     https://robertsspaceindustries.com/en/citizens/Chiron
+   Infinity                   https://robertsspaceindustries.com/en/citizens/Infinity
+   Lockout                    https://robertsspaceindustries.com/en/citizens/Lockout
+   Midship                    https://robertsspaceindustries.com/en/citizens/Midship
+   Zanzibar                   https://robertsspaceindustries.com/en/citizens/Zanzibar
+   Ascension                  https://robertsspaceindustries.com/en/citizens/Ascension
+   Foundation                 https://robertsspaceindustries.com/en/citizens/Foundation
+   IvoryTower                 https://robertsspaceindustries.com/en/citizens/IvoryTower
+   Colossus                   https://robertsspaceindustries.com/en/citizens/Colossus
+   Terminal                   https://robertsspaceindustries.com/en/citizens/Terminal
+   Sanctuary                  https://robertsspaceindustries.com/en/citizens/Sanctuary
+   Turf                       https://robertsspaceindustries.com/en/citizens/Turf
+   Waterworks                 https://robertsspaceindustries.com/en/citizens/Waterworks
+   Gemini                     https://robertsspaceindustries.com/en/citizens/Gemini
+   Aerowalk                   https://robertsspaceindustries.com/en/citizens/Aerowalk
+   Toxicity                   https://robertsspaceindustries.com/en/citizens/Toxicity
+   Ztn                        https://robertsspaceindustries.com/en/citizens/Ztn
+   Phrantic                   https://robertsspaceindustries.com/en/citizens/Phrantic
+   FacingWorlds               https://robertsspaceindustries.com/en/citizens/FacingWorlds
+   Morpheus                   https://robertsspaceindustries.com/en/citizens/Morpheus
+   Phobos                     https://robertsspaceindustries.com/en/citizens/Phobos
+   Stalwart                   https://robertsspaceindustries.com/en/citizens/Stalwart
+   Rankin                     https://robertsspaceindustries.com/en/citizens/Rankin
+   Asbestos                   https://robertsspaceindustries.com/en/citizens/Asbestos
+/workspace/check_rsi_handles_v4.py:223: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Full results saved to rsi_handle_results_v4.json
