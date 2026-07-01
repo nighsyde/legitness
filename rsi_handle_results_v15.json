@@ -1,0 +1,209 @@
+{
+  "checked_at": "2026-07-01T18:58:45.418894Z",
+  "total": 50,
+  "available": [
+    {
+      "name": "MorePewPew",
+      "url": "https://robertsspaceindustries.com/en/citizens/MorePewPew"
+    },
+    {
+      "name": "QQnoob",
+      "url": "https://robertsspaceindustries.com/en/citizens/QQnoob"
+    },
+    {
+      "name": "Shazbot2",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shazbot2"
+    },
+    {
+      "name": "Imbagon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Imbagon"
+    },
+    {
+      "name": "Dinged",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dinged"
+    },
+    {
+      "name": "Gratzies",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gratzies"
+    },
+    {
+      "name": "Wort",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wort"
+    },
+    {
+      "name": "Ggnombre",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ggnombre"
+    },
+    {
+      "name": "Leeroyed",
+      "url": "https://robertsspaceindustries.com/en/citizens/Leeroyed"
+    },
+    {
+      "name": "Dolphindive",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dolphindive"
+    },
+    {
+      "name": "Dolphindiving",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dolphindiving"
+    },
+    {
+      "name": "Yarly",
+      "url": "https://robertsspaceindustries.com/en/citizens/Yarly"
+    },
+    {
+      "name": "Nowai",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nowai"
+    },
+    {
+      "name": "Brbbio",
+      "url": "https://robertsspaceindustries.com/en/citizens/Brbbio"
+    },
+    {
+      "name": "Omgwtf",
+      "url": "https://robertsspaceindustries.com/en/citizens/Omgwtf"
+    },
+    {
+      "name": "Mobbing",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mobbing"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "QQmore",
+      "url": "https://robertsspaceindustries.com/en/citizens/QQmore"
+    },
+    {
+      "name": "LessQQ",
+      "url": "https://robertsspaceindustries.com/en/citizens/LessQQ"
+    },
+    {
+      "name": "PewPew",
+      "url": "https://robertsspaceindustries.com/en/citizens/PewPew"
+    },
+    {
+      "name": "Shazbot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shazbot"
+    },
+    {
+      "name": "Gosu",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gosu"
+    },
+    {
+      "name": "Imba",
+      "url": "https://robertsspaceindustries.com/en/citizens/Imba"
+    },
+    {
+      "name": "Ding",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ding"
+    },
+    {
+      "name": "Gratz",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gratz"
+    },
+    {
+      "name": "Grats",
+      "url": "https://robertsspaceindustries.com/en/citizens/Grats"
+    },
+    {
+      "name": "Llama",
+      "url": "https://robertsspaceindustries.com/en/citizens/Llama"
+    },
+    {
+      "name": "Kthxbye",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kthxbye"
+    },
+    {
+      "name": "Kthx",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kthx"
+    },
+    {
+      "name": "Wtfbbq",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wtfbbq"
+    },
+    {
+      "name": "Omgwtfbbq",
+      "url": "https://robertsspaceindustries.com/en/citizens/Omgwtfbbq"
+    },
+    {
+      "name": "Ggnore",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ggnore"
+    },
+    {
+      "name": "Nubcakes",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nubcakes"
+    },
+    {
+      "name": "Toasty",
+      "url": "https://robertsspaceindustries.com/en/citizens/Toasty"
+    },
+    {
+      "name": "Uber",
+      "url": "https://robertsspaceindustries.com/en/citizens/Uber"
+    },
+    {
+      "name": "Basshunter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Basshunter"
+    },
+    {
+      "name": "Orly",
+      "url": "https://robertsspaceindustries.com/en/citizens/Orly"
+    },
+    {
+      "name": "Moar",
+      "url": "https://robertsspaceindustries.com/en/citizens/Moar"
+    },
+    {
+      "name": "Sammich",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sammich"
+    },
+    {
+      "name": "Nublet",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nublet"
+    },
+    {
+      "name": "Facepalm",
+      "url": "https://robertsspaceindustries.com/en/citizens/Facepalm"
+    },
+    {
+      "name": "Plox",
+      "url": "https://robertsspaceindustries.com/en/citizens/Plox"
+    },
+    {
+      "name": "Pl0x",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pl0x"
+    },
+    {
+      "name": "Lowpinger",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lowpinger"
+    },
+    {
+      "name": "Leet",
+      "url": "https://robertsspaceindustries.com/en/citizens/Leet"
+    },
+    {
+      "name": "Zomg",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zomg"
+    },
+    {
+      "name": "Flamewar",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flamewar"
+    },
+    {
+      "name": "PKer",
+      "url": "https://robertsspaceindustries.com/en/citizens/PKer"
+    },
+    {
+      "name": "PKing",
+      "url": "https://robertsspaceindustries.com/en/citizens/PKing"
+    },
+    {
+      "name": "Train",
+      "url": "https://robertsspaceindustries.com/en/citizens/Train"
+    },
+    {
+      "name": "Grue",
+      "url": "https://robertsspaceindustries.com/en/citizens/Grue"
+    }
+  ],
+  "errors": []
+}
