@@ -1,0 +1,357 @@
+{
+  "checked_at": "2026-07-01T18:54:46.411903Z",
+  "total": 87,
+  "available": [
+    {
+      "name": "Jumpad",
+      "url": "https://robertsspaceindustries.com/en/citizens/Jumpad"
+    },
+    {
+      "name": "Fraglimit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fraglimit"
+    },
+    {
+      "name": "Railwhore",
+      "url": "https://robertsspaceindustries.com/en/citizens/Railwhore"
+    },
+    {
+      "name": "Rocketwhore",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rocketwhore"
+    },
+    {
+      "name": "Rocketjumped",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rocketjumped"
+    },
+    {
+      "name": "BigWigs",
+      "url": "https://robertsspaceindustries.com/en/citizens/BigWigs"
+    },
+    {
+      "name": "Questhelper",
+      "url": "https://robertsspaceindustries.com/en/citizens/Questhelper"
+    },
+    {
+      "name": "Atlasloot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Atlasloot"
+    },
+    {
+      "name": "Deadlyboss",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deadlyboss"
+    },
+    {
+      "name": "Softenrage",
+      "url": "https://robertsspaceindustries.com/en/citizens/Softenrage"
+    },
+    {
+      "name": "Hardenrage",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hardenrage"
+    },
+    {
+      "name": "Pullcount",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pullcount"
+    },
+    {
+      "name": "Innervate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Innervate"
+    },
+    {
+      "name": "Rebirth",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rebirth"
+    },
+    {
+      "name": "Layonhands",
+      "url": "https://robertsspaceindustries.com/en/citizens/Layonhands"
+    },
+    {
+      "name": "Tranquility",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tranquility"
+    },
+    {
+      "name": "Stampeding",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stampeding"
+    },
+    {
+      "name": "Horadric",
+      "url": "https://robertsspaceindustries.com/en/citizens/Horadric"
+    },
+    {
+      "name": "HellforTorch",
+      "url": "https://robertsspaceindustries.com/en/citizens/HellforTorch"
+    },
+    {
+      "name": "StonneOfJordan",
+      "url": "https://robertsspaceindustries.com/en/citizens/StonneOfJordan"
+    },
+    {
+      "name": "SoJTrade",
+      "url": "https://robertsspaceindustries.com/en/citizens/SoJTrade"
+    },
+    {
+      "name": "Runeword",
+      "url": "https://robertsspaceindustries.com/en/citizens/Runeword"
+    },
+    {
+      "name": "Ber",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ber"
+    },
+    {
+      "name": "Corpsecamp",
+      "url": "https://robertsspaceindustries.com/en/citizens/Corpsecamp"
+    },
+    {
+      "name": "Gravecamp",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gravecamp"
+    },
+    {
+      "name": "Ganksquad",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ganksquad"
+    },
+    {
+      "name": "Shadowweave",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shadowweave"
+    },
+    {
+      "name": "TASrun",
+      "url": "https://robertsspaceindustries.com/en/citizens/TASrun"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Telefrag",
+      "url": "https://robertsspaceindustries.com/en/citizens/Telefrag"
+    },
+    {
+      "name": "Telefragged",
+      "url": "https://robertsspaceindustries.com/en/citizens/Telefragged"
+    },
+    {
+      "name": "Airshot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Airshot"
+    },
+    {
+      "name": "Shafted",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shafted"
+    },
+    {
+      "name": "Railed",
+      "url": "https://robertsspaceindustries.com/en/citizens/Railed"
+    },
+    {
+      "name": "Strafe",
+      "url": "https://robertsspaceindustries.com/en/citizens/Strafe"
+    },
+    {
+      "name": "Strafed",
+      "url": "https://robertsspaceindustries.com/en/citizens/Strafed"
+    },
+    {
+      "name": "Deathmatch",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deathmatch"
+    },
+    {
+      "name": "Fragfest",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fragfest"
+    },
+    {
+      "name": "Overtime",
+      "url": "https://robertsspaceindustries.com/en/citizens/Overtime"
+    },
+    {
+      "name": "GrandMarshal",
+      "url": "https://robertsspaceindustries.com/en/citizens/GrandMarshal"
+    },
+    {
+      "name": "HighWarlord",
+      "url": "https://robertsspaceindustries.com/en/citizens/HighWarlord"
+    },
+    {
+      "name": "FieldMarshal",
+      "url": "https://robertsspaceindustries.com/en/citizens/FieldMarshal"
+    },
+    {
+      "name": "BloodGuard",
+      "url": "https://robertsspaceindustries.com/en/citizens/BloodGuard"
+    },
+    {
+      "name": "Legionnaire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Legionnaire"
+    },
+    {
+      "name": "Stoneguard",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stoneguard"
+    },
+    {
+      "name": "Challenger",
+      "url": "https://robertsspaceindustries.com/en/citizens/Challenger"
+    },
+    {
+      "name": "Gladiator",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gladiator"
+    },
+    {
+      "name": "Duelist",
+      "url": "https://robertsspaceindustries.com/en/citizens/Duelist"
+    },
+    {
+      "name": "Rival",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rival"
+    },
+    {
+      "name": "Recount",
+      "url": "https://robertsspaceindustries.com/en/citizens/Recount"
+    },
+    {
+      "name": "Omen",
+      "url": "https://robertsspaceindustries.com/en/citizens/Omen"
+    },
+    {
+      "name": "Decursive",
+      "url": "https://robertsspaceindustries.com/en/citizens/Decursive"
+    },
+    {
+      "name": "Bartender",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bartender"
+    },
+    {
+      "name": "Gatherer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gatherer"
+    },
+    {
+      "name": "Auctioneer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Auctioneer"
+    },
+    {
+      "name": "Decursed",
+      "url": "https://robertsspaceindustries.com/en/citizens/Decursed"
+    },
+    {
+      "name": "Readycheck",
+      "url": "https://robertsspaceindustries.com/en/citizens/Readycheck"
+    },
+    {
+      "name": "Soulstone",
+      "url": "https://robertsspaceindustries.com/en/citizens/Soulstone"
+    },
+    {
+      "name": "Ankh",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ankh"
+    },
+    {
+      "name": "Annihilus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Annihilus"
+    },
+    {
+      "name": "Hellfire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hellfire"
+    },
+    {
+      "name": "Tristram",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tristram"
+    },
+    {
+      "name": "Catacombs",
+      "url": "https://robertsspaceindustries.com/en/citizens/Catacombs"
+    },
+    {
+      "name": "Arreat",
+      "url": "https://robertsspaceindustries.com/en/citizens/Arreat"
+    },
+    {
+      "name": "Worldstone",
+      "url": "https://robertsspaceindustries.com/en/citizens/Worldstone"
+    },
+    {
+      "name": "Enigma",
+      "url": "https://robertsspaceindustries.com/en/citizens/Enigma"
+    },
+    {
+      "name": "Grief",
+      "url": "https://robertsspaceindustries.com/en/citizens/Grief"
+    },
+    {
+      "name": "Insight",
+      "url": "https://robertsspaceindustries.com/en/citizens/Insight"
+    },
+    {
+      "name": "Infinity",
+      "url": "https://robertsspaceindustries.com/en/citizens/Infinity"
+    },
+    {
+      "name": "Fortitude",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fortitude"
+    },
+    {
+      "name": "Breath",
+      "url": "https://robertsspaceindustries.com/en/citizens/Breath"
+    },
+    {
+      "name": "Zod",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zod"
+    },
+    {
+      "name": "Jah",
+      "url": "https://robertsspaceindustries.com/en/citizens/Jah"
+    },
+    {
+      "name": "Vex",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vex"
+    },
+    {
+      "name": "Ohm",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ohm"
+    },
+    {
+      "name": "Sur",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sur"
+    },
+    {
+      "name": "Gul",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gul"
+    },
+    {
+      "name": "Twinking",
+      "url": "https://robertsspaceindustries.com/en/citizens/Twinking"
+    },
+    {
+      "name": "Swiftmend",
+      "url": "https://robertsspaceindustries.com/en/citizens/Swiftmend"
+    },
+    {
+      "name": "Lifebloom",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lifebloom"
+    },
+    {
+      "name": "Vampiric",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vampiric"
+    },
+    {
+      "name": "Shadowpriest",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shadowpriest"
+    },
+    {
+      "name": "Roguelike",
+      "url": "https://robertsspaceindustries.com/en/citizens/Roguelike"
+    },
+    {
+      "name": "Permadeath",
+      "url": "https://robertsspaceindustries.com/en/citizens/Permadeath"
+    },
+    {
+      "name": "Ironman",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ironman"
+    },
+    {
+      "name": "Speedrun",
+      "url": "https://robertsspaceindustries.com/en/citizens/Speedrun"
+    },
+    {
+      "name": "Deathless",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deathless"
+    },
+    {
+      "name": "Zerohour",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zerohour"
+    }
+  ],
+  "errors": []
+}
