@@ -1,0 +1,437 @@
+{
+  "checked_at": "2026-07-01T23:35:09.856769Z",
+  "total": 107,
+  "available": [
+    {
+      "name": "Highlords",
+      "url": "https://robertsspaceindustries.com/en/citizens/Highlords"
+    },
+    {
+      "name": "Ribcracker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ribcracker"
+    },
+    {
+      "name": "Razortail",
+      "url": "https://robertsspaceindustries.com/en/citizens/Razortail"
+    },
+    {
+      "name": "Obedience",
+      "url": "https://robertsspaceindustries.com/en/citizens/Obedience"
+    },
+    {
+      "name": "Overpower",
+      "url": "https://robertsspaceindustries.com/en/citizens/Overpower"
+    },
+    {
+      "name": "Counterspell",
+      "url": "https://robertsspaceindustries.com/en/citizens/Counterspell"
+    },
+    {
+      "name": "Vampirictouch",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vampirictouch"
+    },
+    {
+      "name": "Earthshock",
+      "url": "https://robertsspaceindustries.com/en/citizens/Earthshock"
+    },
+    {
+      "name": "Arcaneblast",
+      "url": "https://robertsspaceindustries.com/en/citizens/Arcaneblast"
+    },
+    {
+      "name": "Entangling",
+      "url": "https://robertsspaceindustries.com/en/citizens/Entangling"
+    },
+    {
+      "name": "Barkskin",
+      "url": "https://robertsspaceindustries.com/en/citizens/Barkskin"
+    },
+    {
+      "name": "Conflagrate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Conflagrate"
+    },
+    {
+      "name": "TNT2",
+      "url": "https://robertsspaceindustries.com/en/citizens/TNT2"
+    },
+    {
+      "name": "Jumppeek",
+      "url": "https://robertsspaceindustries.com/en/citizens/Jumppeek"
+    },
+    {
+      "name": "Counterstraf",
+      "url": "https://robertsspaceindustries.com/en/citizens/Counterstraf"
+    },
+    {
+      "name": "Spraycontrol",
+      "url": "https://robertsspaceindustries.com/en/citizens/Spraycontrol"
+    },
+    {
+      "name": "GuiltyS",
+      "url": "https://robertsspaceindustries.com/en/citizens/GuiltyS"
+    },
+    {
+      "name": "Ringworld",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ringworld"
+    },
+    {
+      "name": "Jaedong",
+      "url": "https://robertsspaceindustries.com/en/citizens/Jaedong"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Mutalisk",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mutalisk"
+    },
+    {
+      "name": "Lurker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lurker"
+    },
+    {
+      "name": "Defiler",
+      "url": "https://robertsspaceindustries.com/en/citizens/Defiler"
+    },
+    {
+      "name": "Reaver",
+      "url": "https://robertsspaceindustries.com/en/citizens/Reaver"
+    },
+    {
+      "name": "Corsair",
+      "url": "https://robertsspaceindustries.com/en/citizens/Corsair"
+    },
+    {
+      "name": "Devourer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Devourer"
+    },
+    {
+      "name": "Ultralisk",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ultralisk"
+    },
+    {
+      "name": "Dragoon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dragoon"
+    },
+    {
+      "name": "Goliath",
+      "url": "https://robertsspaceindustries.com/en/citizens/Goliath"
+    },
+    {
+      "name": "Valkyrie",
+      "url": "https://robertsspaceindustries.com/en/citizens/Valkyrie"
+    },
+    {
+      "name": "Battlecruiser",
+      "url": "https://robertsspaceindustries.com/en/citizens/Battlecruiser"
+    },
+    {
+      "name": "Yamato",
+      "url": "https://robertsspaceindustries.com/en/citizens/Yamato"
+    },
+    {
+      "name": "Medic",
+      "url": "https://robertsspaceindustries.com/en/citizens/Medic"
+    },
+    {
+      "name": "Firebat",
+      "url": "https://robertsspaceindustries.com/en/citizens/Firebat"
+    },
+    {
+      "name": "Wraith",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wraith"
+    },
+    {
+      "name": "Overlord",
+      "url": "https://robertsspaceindustries.com/en/citizens/Overlord"
+    },
+    {
+      "name": "Larva",
+      "url": "https://robertsspaceindustries.com/en/citizens/Larva"
+    },
+    {
+      "name": "Hydralisk",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hydralisk"
+    },
+    {
+      "name": "Zergling",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zergling"
+    },
+    {
+      "name": "Zealot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zealot"
+    },
+    {
+      "name": "Arbiter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Arbiter"
+    },
+    {
+      "name": "Ravenfrost",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ravenfrost"
+    },
+    {
+      "name": "Maras",
+      "url": "https://robertsspaceindustries.com/en/citizens/Maras"
+    },
+    {
+      "name": "Arachnid",
+      "url": "https://robertsspaceindustries.com/en/citizens/Arachnid"
+    },
+    {
+      "name": "Nosferatu",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nosferatu"
+    },
+    {
+      "name": "Verdungo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Verdungo"
+    },
+    {
+      "name": "Buriza",
+      "url": "https://robertsspaceindustries.com/en/citizens/Buriza"
+    },
+    {
+      "name": "Nightwing",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nightwing"
+    },
+    {
+      "name": "Lycander",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lycander"
+    },
+    {
+      "name": "Titan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Titan"
+    },
+    {
+      "name": "Shaftstop",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shaftstop"
+    },
+    {
+      "name": "Treachery",
+      "url": "https://robertsspaceindustries.com/en/citizens/Treachery"
+    },
+    {
+      "name": "Duress",
+      "url": "https://robertsspaceindustries.com/en/citizens/Duress"
+    },
+    {
+      "name": "Delirium",
+      "url": "https://robertsspaceindustries.com/en/citizens/Delirium"
+    },
+    {
+      "name": "Exile",
+      "url": "https://robertsspaceindustries.com/en/citizens/Exile"
+    },
+    {
+      "name": "Passion",
+      "url": "https://robertsspaceindustries.com/en/citizens/Passion"
+    },
+    {
+      "name": "Eviscerate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Eviscerate"
+    },
+    {
+      "name": "Hemorrhage",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hemorrhage"
+    },
+    {
+      "name": "Ambush",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ambush"
+    },
+    {
+      "name": "Thunderclap",
+      "url": "https://robertsspaceindustries.com/en/citizens/Thunderclap"
+    },
+    {
+      "name": "Bloodrage",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bloodrage"
+    },
+    {
+      "name": "Hamstring",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hamstring"
+    },
+    {
+      "name": "Intercept",
+      "url": "https://robertsspaceindustries.com/en/citizens/Intercept"
+    },
+    {
+      "name": "Shadowmeld",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shadowmeld"
+    },
+    {
+      "name": "Combustion",
+      "url": "https://robertsspaceindustries.com/en/citizens/Combustion"
+    },
+    {
+      "name": "Polymorph",
+      "url": "https://robertsspaceindustries.com/en/citizens/Polymorph"
+    },
+    {
+      "name": "Shadowform",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shadowform"
+    },
+    {
+      "name": "Mindblast",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mindblast"
+    },
+    {
+      "name": "Dispersion",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dispersion"
+    },
+    {
+      "name": "Windfury",
+      "url": "https://robertsspaceindustries.com/en/citizens/Windfury"
+    },
+    {
+      "name": "Frostnova",
+      "url": "https://robertsspaceindustries.com/en/citizens/Frostnova"
+    },
+    {
+      "name": "Fireblast",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fireblast"
+    },
+    {
+      "name": "Lifebloom",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lifebloom"
+    },
+    {
+      "name": "Swiftmend",
+      "url": "https://robertsspaceindustries.com/en/citizens/Swiftmend"
+    },
+    {
+      "name": "Cyclone",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cyclone"
+    },
+    {
+      "name": "Faeriefire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Faeriefire"
+    },
+    {
+      "name": "Lifeblood",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lifeblood"
+    },
+    {
+      "name": "Soulfire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Soulfire"
+    },
+    {
+      "name": "Shadowbolt",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shadowbolt"
+    },
+    {
+      "name": "Immolate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Immolate"
+    },
+    {
+      "name": "Corruption",
+      "url": "https://robertsspaceindustries.com/en/citizens/Corruption"
+    },
+    {
+      "name": "Voodoo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Voodoo"
+    },
+    {
+      "name": "Voodoo2",
+      "url": "https://robertsspaceindustries.com/en/citizens/Voodoo2"
+    },
+    {
+      "name": "Glide",
+      "url": "https://robertsspaceindustries.com/en/citizens/Glide"
+    },
+    {
+      "name": "GeForce",
+      "url": "https://robertsspaceindustries.com/en/citizens/GeForce"
+    },
+    {
+      "name": "Radeon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Radeon"
+    },
+    {
+      "name": "SoundBlaster",
+      "url": "https://robertsspaceindustries.com/en/citizens/SoundBlaster"
+    },
+    {
+      "name": "Laughingskull",
+      "url": "https://robertsspaceindustries.com/en/citizens/Laughingskull"
+    },
+    {
+      "name": "Stormrage",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stormrage"
+    },
+    {
+      "name": "Mannoroth",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mannoroth"
+    },
+    {
+      "name": "Archimonde",
+      "url": "https://robertsspaceindustries.com/en/citizens/Archimonde"
+    },
+    {
+      "name": "Medivh",
+      "url": "https://robertsspaceindustries.com/en/citizens/Medivh"
+    },
+    {
+      "name": "Dalvengyr",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dalvengyr"
+    },
+    {
+      "name": "Headglitch",
+      "url": "https://robertsspaceindustries.com/en/citizens/Headglitch"
+    },
+    {
+      "name": "Dropshot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dropshot"
+    },
+    {
+      "name": "Prefire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Prefire"
+    },
+    {
+      "name": "Gravemind",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gravemind"
+    },
+    {
+      "name": "Reclaimer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Reclaimer"
+    },
+    {
+      "name": "Installation",
+      "url": "https://robertsspaceindustries.com/en/citizens/Installation"
+    },
+    {
+      "name": "Forerunner",
+      "url": "https://robertsspaceindustries.com/en/citizens/Forerunner"
+    },
+    {
+      "name": "Monitor",
+      "url": "https://robertsspaceindustries.com/en/citizens/Monitor"
+    },
+    {
+      "name": "Index",
+      "url": "https://robertsspaceindustries.com/en/citizens/Index"
+    },
+    {
+      "name": "Flash",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flash"
+    },
+    {
+      "name": "Bisu",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bisu"
+    },
+    {
+      "name": "Boxer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Boxer"
+    },
+    {
+      "name": "Nada",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nada"
+    },
+    {
+      "name": "Yellow",
+      "url": "https://robertsspaceindustries.com/en/citizens/Yellow"
+    },
+    {
+      "name": "Reach",
+      "url": "https://robertsspaceindustries.com/en/citizens/Reach"
+    }
+  ],
+  "errors": []
+}
