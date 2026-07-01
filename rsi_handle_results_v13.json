@@ -1,0 +1,305 @@
+{
+  "checked_at": "2026-07-01T18:48:25.878903Z",
+  "total": 74,
+  "available": [
+    {
+      "name": "Wtfpwned",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wtfpwned"
+    },
+    {
+      "name": "Roflstomp",
+      "url": "https://robertsspaceindustries.com/en/citizens/Roflstomp"
+    },
+    {
+      "name": "FPSDoug",
+      "url": "https://robertsspaceindustries.com/en/citizens/FPSDoug"
+    },
+    {
+      "name": "BoomHeadshot",
+      "url": "https://robertsspaceindustries.com/en/citizens/BoomHeadshot"
+    },
+    {
+      "name": "ImPumped",
+      "url": "https://robertsspaceindustries.com/en/citizens/ImPumped"
+    },
+    {
+      "name": "T1Line",
+      "url": "https://robertsspaceindustries.com/en/citizens/T1Line"
+    },
+    {
+      "name": "Dialupper",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dialupper"
+    },
+    {
+      "name": "Zerged",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zerged"
+    },
+    {
+      "name": "Pubstomp",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pubstomp"
+    },
+    {
+      "name": "Pubstomping",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pubstomping"
+    },
+    {
+      "name": "Facerolled",
+      "url": "https://robertsspaceindustries.com/en/citizens/Facerolled"
+    },
+    {
+      "name": "Teabagged",
+      "url": "https://robertsspaceindustries.com/en/citizens/Teabagged"
+    },
+    {
+      "name": "Flamebait",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flamebait"
+    },
+    {
+      "name": "Noscoped",
+      "url": "https://robertsspaceindustries.com/en/citizens/Noscoped"
+    },
+    {
+      "name": "Stomped",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stomped"
+    },
+    {
+      "name": "USEast",
+      "url": "https://robertsspaceindustries.com/en/citizens/USEast"
+    },
+    {
+      "name": "BaalRun",
+      "url": "https://robertsspaceindustries.com/en/citizens/BaalRun"
+    },
+    {
+      "name": "CowRun",
+      "url": "https://robertsspaceindustries.com/en/citizens/CowRun"
+    },
+    {
+      "name": "MephRun",
+      "url": "https://robertsspaceindustries.com/en/citizens/MephRun"
+    },
+    {
+      "name": "PinRun",
+      "url": "https://robertsspaceindustries.com/en/citizens/PinRun"
+    },
+    {
+      "name": "RushPlz",
+      "url": "https://robertsspaceindustries.com/en/citizens/RushPlz"
+    },
+    {
+      "name": "Rushb",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rushb"
+    },
+    {
+      "name": "EcoRound",
+      "url": "https://robertsspaceindustries.com/en/citizens/EcoRound"
+    },
+    {
+      "name": "ForceRound",
+      "url": "https://robertsspaceindustries.com/en/citizens/ForceRound"
+    },
+    {
+      "name": "AntiEco",
+      "url": "https://robertsspaceindustries.com/en/citizens/AntiEco"
+    },
+    {
+      "name": "HalfBuy",
+      "url": "https://robertsspaceindustries.com/en/citizens/HalfBuy"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Teh",
+      "url": "https://robertsspaceindustries.com/en/citizens/Teh"
+    },
+    {
+      "name": "Pwnt",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pwnt"
+    },
+    {
+      "name": "Noob",
+      "url": "https://robertsspaceindustries.com/en/citizens/Noob"
+    },
+    {
+      "name": "N00b",
+      "url": "https://robertsspaceindustries.com/en/citizens/N00b"
+    },
+    {
+      "name": "Nub",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nub"
+    },
+    {
+      "name": "Hax",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hax"
+    },
+    {
+      "name": "Suxxor",
+      "url": "https://robertsspaceindustries.com/en/citizens/Suxxor"
+    },
+    {
+      "name": "Roxxor",
+      "url": "https://robertsspaceindustries.com/en/citizens/Roxxor"
+    },
+    {
+      "name": "Pwnage",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pwnage"
+    },
+    {
+      "name": "Zomg",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zomg"
+    },
+    {
+      "name": "Lolwut",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lolwut"
+    },
+    {
+      "name": "Rofl",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rofl"
+    },
+    {
+      "name": "Roflcopter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Roflcopter"
+    },
+    {
+      "name": "Lmaoplane",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lmaoplane"
+    },
+    {
+      "name": "LPB",
+      "url": "https://robertsspaceindustries.com/en/citizens/LPB"
+    },
+    {
+      "name": "HPB",
+      "url": "https://robertsspaceindustries.com/en/citizens/HPB"
+    },
+    {
+      "name": "Aggro",
+      "url": "https://robertsspaceindustries.com/en/citizens/Aggro"
+    },
+    {
+      "name": "Proc",
+      "url": "https://robertsspaceindustries.com/en/citizens/Proc"
+    },
+    {
+      "name": "Crit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Crit"
+    },
+    {
+      "name": "Nerf",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nerf"
+    },
+    {
+      "name": "Buff",
+      "url": "https://robertsspaceindustries.com/en/citizens/Buff"
+    },
+    {
+      "name": "Kite",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kite"
+    },
+    {
+      "name": "Cheese",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cheese"
+    },
+    {
+      "name": "Turtle",
+      "url": "https://robertsspaceindustries.com/en/citizens/Turtle"
+    },
+    {
+      "name": "Stun",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stun"
+    },
+    {
+      "name": "Snare",
+      "url": "https://robertsspaceindustries.com/en/citizens/Snare"
+    },
+    {
+      "name": "Root",
+      "url": "https://robertsspaceindustries.com/en/citizens/Root"
+    },
+    {
+      "name": "Burst",
+      "url": "https://robertsspaceindustries.com/en/citizens/Burst"
+    },
+    {
+      "name": "Nuke",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nuke"
+    },
+    {
+      "name": "Wipe",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wipe"
+    },
+    {
+      "name": "Faceroll",
+      "url": "https://robertsspaceindustries.com/en/citizens/Faceroll"
+    },
+    {
+      "name": "Teabag",
+      "url": "https://robertsspaceindustries.com/en/citizens/Teabag"
+    },
+    {
+      "name": "Splatter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Splatter"
+    },
+    {
+      "name": "Betrayal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Betrayal"
+    },
+    {
+      "name": "Noscope",
+      "url": "https://robertsspaceindustries.com/en/citizens/Noscope"
+    },
+    {
+      "name": "Oddball",
+      "url": "https://robertsspaceindustries.com/en/citizens/Oddball"
+    },
+    {
+      "name": "Juggernaut",
+      "url": "https://robertsspaceindustries.com/en/citizens/Juggernaut"
+    },
+    {
+      "name": "Troll",
+      "url": "https://robertsspaceindustries.com/en/citizens/Troll"
+    },
+    {
+      "name": "Flamed",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flamed"
+    },
+    {
+      "name": "Epic",
+      "url": "https://robertsspaceindustries.com/en/citizens/Epic"
+    },
+    {
+      "name": "Legendary",
+      "url": "https://robertsspaceindustries.com/en/citizens/Legendary"
+    },
+    {
+      "name": "Clutch",
+      "url": "https://robertsspaceindustries.com/en/citizens/Clutch"
+    },
+    {
+      "name": "Dunked",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dunked"
+    },
+    {
+      "name": "Griefed",
+      "url": "https://robertsspaceindustries.com/en/citizens/Griefed"
+    },
+    {
+      "name": "Hamachi",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hamachi"
+    },
+    {
+      "name": "Xfire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Xfire"
+    },
+    {
+      "name": "mIRC",
+      "url": "https://robertsspaceindustries.com/en/citizens/mIRC"
+    },
+    {
+      "name": "GameRanger",
+      "url": "https://robertsspaceindustries.com/en/citizens/GameRanger"
+    }
+  ],
+  "errors": []
+}
