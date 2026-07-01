@@ -1,0 +1,305 @@
+{
+  "checked_at": "2026-07-01T00:34:21.594745Z",
+  "total": 74,
+  "available": [
+    {
+      "name": "notarget",
+      "url": "https://robertsspaceindustries.com/en/citizens/notarget"
+    },
+    {
+      "name": "timedemo",
+      "url": "https://robertsspaceindustries.com/en/citizens/timedemo"
+    },
+    {
+      "name": "playdemo",
+      "url": "https://robertsspaceindustries.com/en/citizens/playdemo"
+    },
+    {
+      "name": "developer",
+      "url": "https://robertsspaceindustries.com/en/citizens/developer"
+    },
+    {
+      "name": "unbindall",
+      "url": "https://robertsspaceindustries.com/en/citizens/unbindall"
+    },
+    {
+      "name": "getpos",
+      "url": "https://robertsspaceindustries.com/en/citizens/getpos"
+    },
+    {
+      "name": "setpos",
+      "url": "https://robertsspaceindustries.com/en/citizens/setpos"
+    },
+    {
+      "name": "listdemos",
+      "url": "https://robertsspaceindustries.com/en/citizens/listdemos"
+    },
+    {
+      "name": "startdemos",
+      "url": "https://robertsspaceindustries.com/en/citizens/startdemos"
+    },
+    {
+      "name": "cfg",
+      "url": "https://robertsspaceindustries.com/en/citizens/cfg"
+    },
+    {
+      "name": "buyscript",
+      "url": "https://robertsspaceindustries.com/en/citizens/buyscript"
+    },
+    {
+      "name": "jumpscript",
+      "url": "https://robertsspaceindustries.com/en/citizens/jumpscript"
+    },
+    {
+      "name": "fpsbananaa",
+      "url": "https://robertsspaceindustries.com/en/citizens/fpsbananaa"
+    },
+    {
+      "name": "cstrike",
+      "url": "https://robertsspaceindustries.com/en/citizens/cstrike"
+    },
+    {
+      "name": "goldsrc",
+      "url": "https://robertsspaceindustries.com/en/citizens/goldsrc"
+    },
+    {
+      "name": "goldsource",
+      "url": "https://robertsspaceindustries.com/en/citizens/goldsource"
+    },
+    {
+      "name": "hlss",
+      "url": "https://robertsspaceindustries.com/en/citizens/hlss"
+    },
+    {
+      "name": "gamevox",
+      "url": "https://robertsspaceindustries.com/en/citizens/gamevox"
+    },
+    {
+      "name": "strafejump",
+      "url": "https://robertsspaceindustries.com/en/citizens/strafejump"
+    },
+    {
+      "name": "airstrafing",
+      "url": "https://robertsspaceindustries.com/en/citizens/airstrafing"
+    },
+    {
+      "name": "longstrafe",
+      "url": "https://robertsspaceindustries.com/en/citizens/longstrafe"
+    },
+    {
+      "name": "walljump",
+      "url": "https://robertsspaceindustries.com/en/citizens/walljump"
+    },
+    {
+      "name": "duckjump",
+      "url": "https://robertsspaceindustries.com/en/citizens/duckjump"
+    },
+    {
+      "name": "circlejump",
+      "url": "https://robertsspaceindustries.com/en/citizens/circlejump"
+    },
+    {
+      "name": "fragmovie",
+      "url": "https://robertsspaceindustries.com/en/citizens/fragmovie"
+    },
+    {
+      "name": "topfrag",
+      "url": "https://robertsspaceindustries.com/en/citizens/topfrag"
+    },
+    {
+      "name": "pixelwalk",
+      "url": "https://robertsspaceindustries.com/en/citizens/pixelwalk"
+    },
+    {
+      "name": "skyboost",
+      "url": "https://robertsspaceindustries.com/en/citizens/skyboost"
+    },
+    {
+      "name": "warcraftmod",
+      "url": "https://robertsspaceindustries.com/en/citizens/warcraftmod"
+    },
+    {
+      "name": "wc3mod",
+      "url": "https://robertsspaceindustries.com/en/citizens/wc3mod"
+    },
+    {
+      "name": "rawaccel",
+      "url": "https://robertsspaceindustries.com/en/citizens/rawaccel"
+    },
+    {
+      "name": "rawinput",
+      "url": "https://robertsspaceindustries.com/en/citizens/rawinput"
+    },
+    {
+      "name": "zoomratio",
+      "url": "https://robertsspaceindustries.com/en/citizens/zoomratio"
+    },
+    {
+      "name": "recoilscript",
+      "url": "https://robertsspaceindustries.com/en/citizens/recoilscript"
+    },
+    {
+      "name": "lanparty",
+      "url": "https://robertsspaceindustries.com/en/citizens/lanparty"
+    },
+    {
+      "name": "gameroom",
+      "url": "https://robertsspaceindustries.com/en/citizens/gameroom"
+    },
+    {
+      "name": "newegg",
+      "url": "https://robertsspaceindustries.com/en/citizens/newegg"
+    },
+    {
+      "name": "bunnytrack",
+      "url": "https://robertsspaceindustries.com/en/citizens/bunnytrack"
+    },
+    {
+      "name": "promode",
+      "url": "https://robertsspaceindustries.com/en/citizens/promode"
+    },
+    {
+      "name": "spraylogo",
+      "url": "https://robertsspaceindustries.com/en/citizens/spraylogo"
+    },
+    {
+      "name": "flashedout",
+      "url": "https://robertsspaceindustries.com/en/citizens/flashedout"
+    },
+    {
+      "name": "rushb",
+      "url": "https://robertsspaceindustries.com/en/citizens/rushb"
+    },
+    {
+      "name": "fullrush",
+      "url": "https://robertsspaceindustries.com/en/citizens/fullrush"
+    },
+    {
+      "name": "econround",
+      "url": "https://robertsspaceindustries.com/en/citizens/econround"
+    },
+    {
+      "name": "forceround",
+      "url": "https://robertsspaceindustries.com/en/citizens/forceround"
+    },
+    {
+      "name": "wonnetwork",
+      "url": "https://robertsspaceindustries.com/en/citizens/wonnetwork"
+    },
+    {
+      "name": "steamapps",
+      "url": "https://robertsspaceindustries.com/en/citizens/steamapps"
+    },
+    {
+      "name": "steamgames",
+      "url": "https://robertsspaceindustries.com/en/citizens/steamgames"
+    },
+    {
+      "name": "valveanti",
+      "url": "https://robertsspaceindustries.com/en/citizens/valveanti"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "alias",
+      "url": "https://robertsspaceindustries.com/en/citizens/alias"
+    },
+    {
+      "name": "toggle",
+      "url": "https://robertsspaceindustries.com/en/citizens/toggle"
+    },
+    {
+      "name": "heartbeat",
+      "url": "https://robertsspaceindustries.com/en/citizens/heartbeat"
+    },
+    {
+      "name": "screenshot",
+      "url": "https://robertsspaceindustries.com/en/citizens/screenshot"
+    },
+    {
+      "name": "record",
+      "url": "https://robertsspaceindustries.com/en/citizens/record"
+    },
+    {
+      "name": "maps",
+      "url": "https://robertsspaceindustries.com/en/citizens/maps"
+    },
+    {
+      "name": "cvar",
+      "url": "https://robertsspaceindustries.com/en/citizens/cvar"
+    },
+    {
+      "name": "fpsbanana",
+      "url": "https://robertsspaceindustries.com/en/citizens/fpsbanana"
+    },
+    {
+      "name": "ventrilo",
+      "url": "https://robertsspaceindustries.com/en/citizens/ventrilo"
+    },
+    {
+      "name": "teamspeak",
+      "url": "https://robertsspaceindustries.com/en/citizens/teamspeak"
+    },
+    {
+      "name": "roger",
+      "url": "https://robertsspaceindustries.com/en/citizens/roger"
+    },
+    {
+      "name": "edgebug",
+      "url": "https://robertsspaceindustries.com/en/citizens/edgebug"
+    },
+    {
+      "name": "prefire",
+      "url": "https://robertsspaceindustries.com/en/citizens/prefire"
+    },
+    {
+      "name": "wallbang",
+      "url": "https://robertsspaceindustries.com/en/citizens/wallbang"
+    },
+    {
+      "name": "silent",
+      "url": "https://robertsspaceindustries.com/en/citizens/silent"
+    },
+    {
+      "name": "chainlightning",
+      "url": "https://robertsspaceindustries.com/en/citizens/chainlightning"
+    },
+    {
+      "name": "crosshair",
+      "url": "https://robertsspaceindustries.com/en/citizens/crosshair"
+    },
+    {
+      "name": "sensitivity",
+      "url": "https://robertsspaceindustries.com/en/citizens/sensitivity"
+    },
+    {
+      "name": "cybercafe",
+      "url": "https://robertsspaceindustries.com/en/citizens/cybercafe"
+    },
+    {
+      "name": "frys",
+      "url": "https://robertsspaceindustries.com/en/citizens/frys"
+    },
+    {
+      "name": "rocketjump",
+      "url": "https://robertsspaceindustries.com/en/citizens/rocketjump"
+    },
+    {
+      "name": "railgun",
+      "url": "https://robertsspaceindustries.com/en/citizens/railgun"
+    },
+    {
+      "name": "warmup",
+      "url": "https://robertsspaceindustries.com/en/citizens/warmup"
+    },
+    {
+      "name": "twoshot",
+      "url": "https://robertsspaceindustries.com/en/citizens/twoshot"
+    },
+    {
+      "name": "smokeout",
+      "url": "https://robertsspaceindustries.com/en/citizens/smokeout"
+    }
+  ],
+  "errors": []
+}

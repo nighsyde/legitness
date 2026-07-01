@@ -1,0 +1,162 @@
+Checking 74 names — hunting for the next noclip...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/74]   404  AVAILABLE   notarget                   https://robertsspaceindustries.com/en/citizens/notarget
+[  2/74]   404  AVAILABLE   timedemo                   https://robertsspaceindustries.com/en/citizens/timedemo
+[  3/74]   404  AVAILABLE   playdemo                   https://robertsspaceindustries.com/en/citizens/playdemo
+[  4/74]   404  AVAILABLE   developer                  https://robertsspaceindustries.com/en/citizens/developer
+[  5/74]   404  AVAILABLE   unbindall                  https://robertsspaceindustries.com/en/citizens/unbindall
+[  6/74]   200  TAKEN       alias                      https://robertsspaceindustries.com/en/citizens/alias
+[  7/74]   200  TAKEN       toggle                     https://robertsspaceindustries.com/en/citizens/toggle
+[  8/74]   404  AVAILABLE   getpos                     https://robertsspaceindustries.com/en/citizens/getpos
+[  9/74]   404  AVAILABLE   setpos                     https://robertsspaceindustries.com/en/citizens/setpos
+[ 10/74]   200  TAKEN       heartbeat                  https://robertsspaceindustries.com/en/citizens/heartbeat
+[ 11/74]   404  AVAILABLE   listdemos                  https://robertsspaceindustries.com/en/citizens/listdemos
+[ 12/74]   404  AVAILABLE   startdemos                 https://robertsspaceindustries.com/en/citizens/startdemos
+[ 13/74]   200  TAKEN       screenshot                 https://robertsspaceindustries.com/en/citizens/screenshot
+[ 14/74]   200  TAKEN       record                     https://robertsspaceindustries.com/en/citizens/record
+[ 15/74]   200  TAKEN       maps                       https://robertsspaceindustries.com/en/citizens/maps
+[ 16/74]   200  TAKEN       cvar                       https://robertsspaceindustries.com/en/citizens/cvar
+[ 17/74]   404  AVAILABLE   cfg                        https://robertsspaceindustries.com/en/citizens/cfg
+[ 18/74]   404  AVAILABLE   buyscript                  https://robertsspaceindustries.com/en/citizens/buyscript
+[ 19/74]   404  AVAILABLE   jumpscript                 https://robertsspaceindustries.com/en/citizens/jumpscript
+[ 20/74]   200  TAKEN       fpsbanana                  https://robertsspaceindustries.com/en/citizens/fpsbanana
+[ 21/74]   404  AVAILABLE   fpsbananaa                 https://robertsspaceindustries.com/en/citizens/fpsbananaa
+[ 22/74]   404  AVAILABLE   cstrike                    https://robertsspaceindustries.com/en/citizens/cstrike
+[ 23/74]   404  AVAILABLE   goldsrc                    https://robertsspaceindustries.com/en/citizens/goldsrc
+[ 24/74]   404  AVAILABLE   goldsource                 https://robertsspaceindustries.com/en/citizens/goldsource
+[ 25/74]   404  AVAILABLE   hlss                       https://robertsspaceindustries.com/en/citizens/hlss
+[ 26/74]   200  TAKEN       ventrilo                   https://robertsspaceindustries.com/en/citizens/ventrilo
+[ 27/74]   200  TAKEN       teamspeak                  https://robertsspaceindustries.com/en/citizens/teamspeak
+[ 28/74]   404  AVAILABLE   gamevox                    https://robertsspaceindustries.com/en/citizens/gamevox
+[ 29/74]   200  TAKEN       roger                      https://robertsspaceindustries.com/en/citizens/roger
+[ 30/74]   404  AVAILABLE   strafejump                 https://robertsspaceindustries.com/en/citizens/strafejump
+[ 31/74]   404  AVAILABLE   airstrafing                https://robertsspaceindustries.com/en/citizens/airstrafing
+[ 32/74]   404  AVAILABLE   longstrafe                 https://robertsspaceindustries.com/en/citizens/longstrafe
+[ 33/74]   404  AVAILABLE   walljump                   https://robertsspaceindustries.com/en/citizens/walljump
+[ 34/74]   200  TAKEN       edgebug                    https://robertsspaceindustries.com/en/citizens/edgebug
+[ 35/74]   404  AVAILABLE   duckjump                   https://robertsspaceindustries.com/en/citizens/duckjump
+[ 36/74]   404  AVAILABLE   circlejump                 https://robertsspaceindustries.com/en/citizens/circlejump
+[ 37/74]   404  AVAILABLE   fragmovie                  https://robertsspaceindustries.com/en/citizens/fragmovie
+[ 38/74]   404  AVAILABLE   topfrag                    https://robertsspaceindustries.com/en/citizens/topfrag
+[ 39/74]   200  TAKEN       prefire                    https://robertsspaceindustries.com/en/citizens/prefire
+[ 40/74]   200  TAKEN       wallbang                   https://robertsspaceindustries.com/en/citizens/wallbang
+[ 41/74]   404  AVAILABLE   pixelwalk                  https://robertsspaceindustries.com/en/citizens/pixelwalk
+[ 42/74]   404  AVAILABLE   skyboost                   https://robertsspaceindustries.com/en/citizens/skyboost
+[ 43/74]   200  TAKEN       silent                     https://robertsspaceindustries.com/en/citizens/silent
+[ 44/74]   404  AVAILABLE   warcraftmod                https://robertsspaceindustries.com/en/citizens/warcraftmod
+[ 45/74]   404  AVAILABLE   wc3mod                     https://robertsspaceindustries.com/en/citizens/wc3mod
+[ 46/74]   200  TAKEN       chainlightning             https://robertsspaceindustries.com/en/citizens/chainlightning
+[ 47/74]   200  TAKEN       crosshair                  https://robertsspaceindustries.com/en/citizens/crosshair
+[ 48/74]   200  TAKEN       sensitivity                https://robertsspaceindustries.com/en/citizens/sensitivity
+[ 49/74]   404  AVAILABLE   rawaccel                   https://robertsspaceindustries.com/en/citizens/rawaccel
+[ 50/74]   404  AVAILABLE   rawinput                   https://robertsspaceindustries.com/en/citizens/rawinput
+[ 51/74]   404  AVAILABLE   zoomratio                  https://robertsspaceindustries.com/en/citizens/zoomratio
+[ 52/74]   404  AVAILABLE   recoilscript               https://robertsspaceindustries.com/en/citizens/recoilscript
+[ 53/74]   404  AVAILABLE   lanparty                   https://robertsspaceindustries.com/en/citizens/lanparty
+[ 54/74]   200  TAKEN       cybercafe                  https://robertsspaceindustries.com/en/citizens/cybercafe
+[ 55/74]   404  AVAILABLE   gameroom                   https://robertsspaceindustries.com/en/citizens/gameroom
+[ 56/74]   404  AVAILABLE   newegg                     https://robertsspaceindustries.com/en/citizens/newegg
+[ 57/74]   200  TAKEN       frys                       https://robertsspaceindustries.com/en/citizens/frys
+[ 58/74]   200  TAKEN       rocketjump                 https://robertsspaceindustries.com/en/citizens/rocketjump
+[ 59/74]   200  TAKEN       railgun                    https://robertsspaceindustries.com/en/citizens/railgun
+[ 60/74]   404  AVAILABLE   bunnytrack                 https://robertsspaceindustries.com/en/citizens/bunnytrack
+[ 61/74]   404  AVAILABLE   promode                    https://robertsspaceindustries.com/en/citizens/promode
+[ 62/74]   404  AVAILABLE   spraylogo                  https://robertsspaceindustries.com/en/citizens/spraylogo
+[ 63/74]   200  TAKEN       warmup                     https://robertsspaceindustries.com/en/citizens/warmup
+[ 64/74]   200  TAKEN       twoshot                    https://robertsspaceindustries.com/en/citizens/twoshot
+[ 65/74]   404  AVAILABLE   flashedout                 https://robertsspaceindustries.com/en/citizens/flashedout
+[ 66/74]   200  TAKEN       smokeout                   https://robertsspaceindustries.com/en/citizens/smokeout
+[ 67/74]   404  AVAILABLE   rushb                      https://robertsspaceindustries.com/en/citizens/rushb
+[ 68/74]   404  AVAILABLE   fullrush                   https://robertsspaceindustries.com/en/citizens/fullrush
+[ 69/74]   404  AVAILABLE   econround                  https://robertsspaceindustries.com/en/citizens/econround
+[ 70/74]   404  AVAILABLE   forceround                 https://robertsspaceindustries.com/en/citizens/forceround
+[ 71/74]   404  AVAILABLE   wonnetwork                 https://robertsspaceindustries.com/en/citizens/wonnetwork
+[ 72/74]   404  AVAILABLE   steamapps                  https://robertsspaceindustries.com/en/citizens/steamapps
+[ 73/74]   404  AVAILABLE   steamgames                 https://robertsspaceindustries.com/en/citizens/steamgames
+[ 74/74]   404  AVAILABLE   valveanti                  https://robertsspaceindustries.com/en/citizens/valveanti
+
+==============================================================================================================
+
+✅  AVAILABLE (49):
+   notarget                        https://robertsspaceindustries.com/en/citizens/notarget
+   timedemo                        https://robertsspaceindustries.com/en/citizens/timedemo
+   playdemo                        https://robertsspaceindustries.com/en/citizens/playdemo
+   developer                       https://robertsspaceindustries.com/en/citizens/developer
+   unbindall                       https://robertsspaceindustries.com/en/citizens/unbindall
+   getpos                          https://robertsspaceindustries.com/en/citizens/getpos
+   setpos                          https://robertsspaceindustries.com/en/citizens/setpos
+   listdemos                       https://robertsspaceindustries.com/en/citizens/listdemos
+   startdemos                      https://robertsspaceindustries.com/en/citizens/startdemos
+   cfg                             https://robertsspaceindustries.com/en/citizens/cfg
+   buyscript                       https://robertsspaceindustries.com/en/citizens/buyscript
+   jumpscript                      https://robertsspaceindustries.com/en/citizens/jumpscript
+   fpsbananaa                      https://robertsspaceindustries.com/en/citizens/fpsbananaa
+   cstrike                         https://robertsspaceindustries.com/en/citizens/cstrike
+   goldsrc                         https://robertsspaceindustries.com/en/citizens/goldsrc
+   goldsource                      https://robertsspaceindustries.com/en/citizens/goldsource
+   hlss                            https://robertsspaceindustries.com/en/citizens/hlss
+   gamevox                         https://robertsspaceindustries.com/en/citizens/gamevox
+   strafejump                      https://robertsspaceindustries.com/en/citizens/strafejump
+   airstrafing                     https://robertsspaceindustries.com/en/citizens/airstrafing
+   longstrafe                      https://robertsspaceindustries.com/en/citizens/longstrafe
+   walljump                        https://robertsspaceindustries.com/en/citizens/walljump
+   duckjump                        https://robertsspaceindustries.com/en/citizens/duckjump
+   circlejump                      https://robertsspaceindustries.com/en/citizens/circlejump
+   fragmovie                       https://robertsspaceindustries.com/en/citizens/fragmovie
+   topfrag                         https://robertsspaceindustries.com/en/citizens/topfrag
+   pixelwalk                       https://robertsspaceindustries.com/en/citizens/pixelwalk
+   skyboost                        https://robertsspaceindustries.com/en/citizens/skyboost
+   warcraftmod                     https://robertsspaceindustries.com/en/citizens/warcraftmod
+   wc3mod                          https://robertsspaceindustries.com/en/citizens/wc3mod
+   rawaccel                        https://robertsspaceindustries.com/en/citizens/rawaccel
+   rawinput                        https://robertsspaceindustries.com/en/citizens/rawinput
+   zoomratio                       https://robertsspaceindustries.com/en/citizens/zoomratio
+   recoilscript                    https://robertsspaceindustries.com/en/citizens/recoilscript
+   lanparty                        https://robertsspaceindustries.com/en/citizens/lanparty
+   gameroom                        https://robertsspaceindustries.com/en/citizens/gameroom
+   newegg                          https://robertsspaceindustries.com/en/citizens/newegg
+   bunnytrack                      https://robertsspaceindustries.com/en/citizens/bunnytrack
+   promode                         https://robertsspaceindustries.com/en/citizens/promode
+   spraylogo                       https://robertsspaceindustries.com/en/citizens/spraylogo
+   flashedout                      https://robertsspaceindustries.com/en/citizens/flashedout
+   rushb                           https://robertsspaceindustries.com/en/citizens/rushb
+   fullrush                        https://robertsspaceindustries.com/en/citizens/fullrush
+   econround                       https://robertsspaceindustries.com/en/citizens/econround
+   forceround                      https://robertsspaceindustries.com/en/citizens/forceround
+   wonnetwork                      https://robertsspaceindustries.com/en/citizens/wonnetwork
+   steamapps                       https://robertsspaceindustries.com/en/citizens/steamapps
+   steamgames                      https://robertsspaceindustries.com/en/citizens/steamgames
+   valveanti                       https://robertsspaceindustries.com/en/citizens/valveanti
+
+❌  TAKEN (25):
+   alias                           https://robertsspaceindustries.com/en/citizens/alias
+   toggle                          https://robertsspaceindustries.com/en/citizens/toggle
+   heartbeat                       https://robertsspaceindustries.com/en/citizens/heartbeat
+   screenshot                      https://robertsspaceindustries.com/en/citizens/screenshot
+   record                          https://robertsspaceindustries.com/en/citizens/record
+   maps                            https://robertsspaceindustries.com/en/citizens/maps
+   cvar                            https://robertsspaceindustries.com/en/citizens/cvar
+   fpsbanana                       https://robertsspaceindustries.com/en/citizens/fpsbanana
+   ventrilo                        https://robertsspaceindustries.com/en/citizens/ventrilo
+   teamspeak                       https://robertsspaceindustries.com/en/citizens/teamspeak
+   roger                           https://robertsspaceindustries.com/en/citizens/roger
+   edgebug                         https://robertsspaceindustries.com/en/citizens/edgebug
+   prefire                         https://robertsspaceindustries.com/en/citizens/prefire
+   wallbang                        https://robertsspaceindustries.com/en/citizens/wallbang
+   silent                          https://robertsspaceindustries.com/en/citizens/silent
+   chainlightning                  https://robertsspaceindustries.com/en/citizens/chainlightning
+   crosshair                       https://robertsspaceindustries.com/en/citizens/crosshair
+   sensitivity                     https://robertsspaceindustries.com/en/citizens/sensitivity
+   cybercafe                       https://robertsspaceindustries.com/en/citizens/cybercafe
+   frys                            https://robertsspaceindustries.com/en/citizens/frys
+   rocketjump                      https://robertsspaceindustries.com/en/citizens/rocketjump
+   railgun                         https://robertsspaceindustries.com/en/citizens/railgun
+   warmup                          https://robertsspaceindustries.com/en/citizens/warmup
+   twoshot                         https://robertsspaceindustries.com/en/citizens/twoshot
+   smokeout                        https://robertsspaceindustries.com/en/citizens/smokeout
+/workspace/check_rsi_handles_v8.py:190: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v8.json
