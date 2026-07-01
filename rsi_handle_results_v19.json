@@ -1,0 +1,373 @@
+{
+  "checked_at": "2026-07-01T23:51:56.140120Z",
+  "total": 91,
+  "available": [
+    {
+      "name": "Diamondtron",
+      "url": "https://robertsspaceindustries.com/en/citizens/Diamondtron"
+    },
+    {
+      "name": "DirectX9",
+      "url": "https://robertsspaceindustries.com/en/citizens/DirectX9"
+    },
+    {
+      "name": "OpenGL",
+      "url": "https://robertsspaceindustries.com/en/citizens/OpenGL"
+    },
+    {
+      "name": "Fillrate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fillrate"
+    },
+    {
+      "name": "Seeded",
+      "url": "https://robertsspaceindustries.com/en/citizens/Seeded"
+    },
+    {
+      "name": "Qualifier",
+      "url": "https://robertsspaceindustries.com/en/citizens/Qualifier"
+    },
+    {
+      "name": "Playoff",
+      "url": "https://robertsspaceindustries.com/en/citizens/Playoff"
+    },
+    {
+      "name": "GrandFinal",
+      "url": "https://robertsspaceindustries.com/en/citizens/GrandFinal"
+    },
+    {
+      "name": "DoubleElim",
+      "url": "https://robertsspaceindustries.com/en/citizens/DoubleElim"
+    },
+    {
+      "name": "UpperBracket",
+      "url": "https://robertsspaceindustries.com/en/citizens/UpperBracket"
+    },
+    {
+      "name": "LowerBracket",
+      "url": "https://robertsspaceindustries.com/en/citizens/LowerBracket"
+    },
+    {
+      "name": "Tiebreaker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tiebreaker"
+    },
+    {
+      "name": "Rematch",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rematch"
+    },
+    {
+      "name": "Runback",
+      "url": "https://robertsspaceindustries.com/en/citizens/Runback"
+    },
+    {
+      "name": "Concede",
+      "url": "https://robertsspaceindustries.com/en/citizens/Concede"
+    },
+    {
+      "name": "Techdefeat",
+      "url": "https://robertsspaceindustries.com/en/citizens/Techdefeat"
+    },
+    {
+      "name": "Walkover",
+      "url": "https://robertsspaceindustries.com/en/citizens/Walkover"
+    },
+    {
+      "name": "Slump",
+      "url": "https://robertsspaceindustries.com/en/citizens/Slump"
+    },
+    {
+      "name": "Clutchplay",
+      "url": "https://robertsspaceindustries.com/en/citizens/Clutchplay"
+    },
+    {
+      "name": "Onfire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Onfire"
+    },
+    {
+      "name": "Coldstreak",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldstreak"
+    },
+    {
+      "name": "Ragemode",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ragemode"
+    },
+    {
+      "name": "FocusMode",
+      "url": "https://robertsspaceindustries.com/en/citizens/FocusMode"
+    },
+    {
+      "name": "Clanmates",
+      "url": "https://robertsspaceindustries.com/en/citizens/Clanmates"
+    },
+    {
+      "name": "Raidleader",
+      "url": "https://robertsspaceindustries.com/en/citizens/Raidleader"
+    },
+    {
+      "name": "Guildofficer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Guildofficer"
+    },
+    {
+      "name": "Entryfragger",
+      "url": "https://robertsspaceindustries.com/en/citizens/Entryfragger"
+    },
+    {
+      "name": "IGL",
+      "url": "https://robertsspaceindustries.com/en/citizens/IGL"
+    },
+    {
+      "name": "Fragger",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fragger"
+    },
+    {
+      "name": "Support",
+      "url": "https://robertsspaceindustries.com/en/citizens/Support"
+    },
+    {
+      "name": "Filefront",
+      "url": "https://robertsspaceindustries.com/en/citizens/Filefront"
+    },
+    {
+      "name": "Gamefront",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gamefront"
+    },
+    {
+      "name": "Modfolder",
+      "url": "https://robertsspaceindustries.com/en/citizens/Modfolder"
+    },
+    {
+      "name": "Rubberbanding",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rubberbanding"
+    },
+    {
+      "name": "Intellimouse",
+      "url": "https://robertsspaceindustries.com/en/citizens/Intellimouse"
+    },
+    {
+      "name": "MX518",
+      "url": "https://robertsspaceindustries.com/en/citizens/MX518"
+    },
+    {
+      "name": "Lowsens",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lowsens"
+    },
+    {
+      "name": "Highsens",
+      "url": "https://robertsspaceindustries.com/en/citizens/Highsens"
+    },
+    {
+      "name": "MouseAccel",
+      "url": "https://robertsspaceindustries.com/en/citizens/MouseAccel"
+    },
+    {
+      "name": "NegAccel",
+      "url": "https://robertsspaceindustries.com/en/citizens/NegAccel"
+    },
+    {
+      "name": "MonthlyFee",
+      "url": "https://robertsspaceindustries.com/en/citizens/MonthlyFee"
+    },
+    {
+      "name": "NoSubscription",
+      "url": "https://robertsspaceindustries.com/en/citizens/NoSubscription"
+    },
+    {
+      "name": "ServerQueue",
+      "url": "https://robertsspaceindustries.com/en/citizens/ServerQueue"
+    },
+    {
+      "name": "Megaserver",
+      "url": "https://robertsspaceindustries.com/en/citizens/Megaserver"
+    },
+    {
+      "name": "Realmmerge",
+      "url": "https://robertsspaceindustries.com/en/citizens/Realmmerge"
+    },
+    {
+      "name": "Layering",
+      "url": "https://robertsspaceindustries.com/en/citizens/Layering"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Thunderbird",
+      "url": "https://robertsspaceindustries.com/en/citizens/Thunderbird"
+    },
+    {
+      "name": "Barton",
+      "url": "https://robertsspaceindustries.com/en/citizens/Barton"
+    },
+    {
+      "name": "Palomino",
+      "url": "https://robertsspaceindustries.com/en/citizens/Palomino"
+    },
+    {
+      "name": "Thoroughbred",
+      "url": "https://robertsspaceindustries.com/en/citizens/Thoroughbred"
+    },
+    {
+      "name": "Northwood",
+      "url": "https://robertsspaceindustries.com/en/citizens/Northwood"
+    },
+    {
+      "name": "Coppermine",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coppermine"
+    },
+    {
+      "name": "Newcastle",
+      "url": "https://robertsspaceindustries.com/en/citizens/Newcastle"
+    },
+    {
+      "name": "Trinitron",
+      "url": "https://robertsspaceindustries.com/en/citizens/Trinitron"
+    },
+    {
+      "name": "Aperture",
+      "url": "https://robertsspaceindustries.com/en/citizens/Aperture"
+    },
+    {
+      "name": "Refresh",
+      "url": "https://robertsspaceindustries.com/en/citizens/Refresh"
+    },
+    {
+      "name": "Overclock",
+      "url": "https://robertsspaceindustries.com/en/citizens/Overclock"
+    },
+    {
+      "name": "Benchmark",
+      "url": "https://robertsspaceindustries.com/en/citizens/Benchmark"
+    },
+    {
+      "name": "Fraps",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fraps"
+    },
+    {
+      "name": "Vsync",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vsync"
+    },
+    {
+      "name": "Antialiasing",
+      "url": "https://robertsspaceindustries.com/en/citizens/Antialiasing"
+    },
+    {
+      "name": "Anisotropic",
+      "url": "https://robertsspaceindustries.com/en/citizens/Anisotropic"
+    },
+    {
+      "name": "Shader",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shader"
+    },
+    {
+      "name": "Ladder",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ladder"
+    },
+    {
+      "name": "Bracket",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bracket"
+    },
+    {
+      "name": "Overtime",
+      "url": "https://robertsspaceindustries.com/en/citizens/Overtime"
+    },
+    {
+      "name": "Forfeit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Forfeit"
+    },
+    {
+      "name": "Grind",
+      "url": "https://robertsspaceindustries.com/en/citizens/Grind"
+    },
+    {
+      "name": "Choke",
+      "url": "https://robertsspaceindustries.com/en/citizens/Choke"
+    },
+    {
+      "name": "Comeback",
+      "url": "https://robertsspaceindustries.com/en/citizens/Comeback"
+    },
+    {
+      "name": "Hotstreak",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hotstreak"
+    },
+    {
+      "name": "Plateau",
+      "url": "https://robertsspaceindustries.com/en/citizens/Plateau"
+    },
+    {
+      "name": "Breakthrough",
+      "url": "https://robertsspaceindustries.com/en/citizens/Breakthrough"
+    },
+    {
+      "name": "Tiltmode",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tiltmode"
+    },
+    {
+      "name": "Clanleader",
+      "url": "https://robertsspaceindustries.com/en/citizens/Clanleader"
+    },
+    {
+      "name": "Guildmaster",
+      "url": "https://robertsspaceindustries.com/en/citizens/Guildmaster"
+    },
+    {
+      "name": "Trialmember",
+      "url": "https://robertsspaceindustries.com/en/citizens/Trialmember"
+    },
+    {
+      "name": "Shotcaller",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shotcaller"
+    },
+    {
+      "name": "Lurker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lurker"
+    },
+    {
+      "name": "Patchnotes",
+      "url": "https://robertsspaceindustries.com/en/citizens/Patchnotes"
+    },
+    {
+      "name": "Hotpatch",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hotpatch"
+    },
+    {
+      "name": "Netcode",
+      "url": "https://robertsspaceindustries.com/en/citizens/Netcode"
+    },
+    {
+      "name": "Tickrate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tickrate"
+    },
+    {
+      "name": "Hitbox",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hitbox"
+    },
+    {
+      "name": "Desync",
+      "url": "https://robertsspaceindustries.com/en/citizens/Desync"
+    },
+    {
+      "name": "Rollback",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rollback"
+    },
+    {
+      "name": "Qck",
+      "url": "https://robertsspaceindustries.com/en/citizens/Qck"
+    },
+    {
+      "name": "Mousepad",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mousepad"
+    },
+    {
+      "name": "Maintenance",
+      "url": "https://robertsspaceindustries.com/en/citizens/Maintenance"
+    },
+    {
+      "name": "Downtime",
+      "url": "https://robertsspaceindustries.com/en/citizens/Downtime"
+    },
+    {
+      "name": "Rollout",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rollout"
+    }
+  ],
+  "errors": []
+}
