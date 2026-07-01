@@ -1,0 +1,246 @@
+Checking 116 early-2000s PC multiplayer culture handles...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/116]   200  TAKEN       iddqd                      https://robertsspaceindustries.com/en/citizens/iddqd
+[  2/116]   200  TAKEN       idkfa                      https://robertsspaceindustries.com/en/citizens/idkfa
+[  3/116]   404  AVAILABLE   idclip                     https://robertsspaceindustries.com/en/citizens/idclip
+[  4/116]   200  TAKEN       idspispopd                 https://robertsspaceindustries.com/en/citizens/idspispopd
+[  5/116]   404  AVAILABLE   idchoppers                 https://robertsspaceindustries.com/en/citizens/idchoppers
+[  6/116]   404  AVAILABLE   iddt                       https://robertsspaceindustries.com/en/citizens/iddt
+[  7/116]   200  TAKEN       idbeholds                  https://robertsspaceindustries.com/en/citizens/idbeholds
+[  8/116]   404  AVAILABLE   idbeholdv                  https://robertsspaceindustries.com/en/citizens/idbeholdv
+[  9/116]   200  TAKEN       hesoyam                    https://robertsspaceindustries.com/en/citizens/hesoyam
+[ 10/116]   200  TAKEN       rocketman                  https://robertsspaceindustries.com/en/citizens/rocketman
+[ 11/116]   404  AVAILABLE   lxgiwyl                    https://robertsspaceindustries.com/en/citizens/lxgiwyl
+[ 12/116]   200  TAKEN       motherlode                 https://robertsspaceindustries.com/en/citizens/motherlode
+[ 13/116]   200  TAKEN       rosebud                    https://robertsspaceindustries.com/en/citizens/rosebud
+[ 14/116]   200  TAKEN       klapaucius                 https://robertsspaceindustries.com/en/citizens/klapaucius
+[ 15/116]   404  AVAILABLE   moveobjects                https://robertsspaceindustries.com/en/citizens/moveobjects
+[ 16/116]   404  AVAILABLE   boolprop                   https://robertsspaceindustries.com/en/citizens/boolprop
+[ 17/116]   200  TAKEN       wololo                     https://robertsspaceindustries.com/en/citizens/wololo
+[ 18/116]   200  TAKEN       bigdaddy                   https://robertsspaceindustries.com/en/citizens/bigdaddy
+[ 19/116]   200  TAKEN       photonman                  https://robertsspaceindustries.com/en/citizens/photonman
+[ 20/116]   200  TAKEN       diediedie                  https://robertsspaceindustries.com/en/citizens/diediedie
+[ 21/116]   200  TAKEN       coinage                    https://robertsspaceindustries.com/en/citizens/coinage
+[ 22/116]   200  TAKEN       aegis                      https://robertsspaceindustries.com/en/citizens/aegis
+[ 23/116]   200  TAKEN       pepperoni                  https://robertsspaceindustries.com/en/citizens/pepperoni
+[ 24/116]   200  TAKEN       woodstock                  https://robertsspaceindustries.com/en/citizens/woodstock
+[ 25/116]   200  TAKEN       lumberjack                 https://robertsspaceindustries.com/en/citizens/lumberjack
+[ 26/116]   404  AVAILABLE   robin                      https://robertsspaceindustries.com/en/citizens/robin
+[ 27/116]   200  TAKEN       robinhood                  https://robertsspaceindustries.com/en/citizens/robinhood
+[ 28/116]   200  TAKEN       zergrush                   https://robertsspaceindustries.com/en/citizens/zergrush
+[ 29/116]   200  TAKEN       kekeke                     https://robertsspaceindustries.com/en/citizens/kekeke
+[ 30/116]   200  TAKEN       terran                     https://robertsspaceindustries.com/en/citizens/terran
+[ 31/116]   200  TAKEN       protoss                    https://robertsspaceindustries.com/en/citizens/protoss
+[ 32/116]   200  TAKEN       broodwar                   https://robertsspaceindustries.com/en/citizens/broodwar
+[ 33/116]   404  AVAILABLE   scbw                       https://robertsspaceindustries.com/en/citizens/scbw
+[ 34/116]   404  AVAILABLE   noglues                    https://robertsspaceindustries.com/en/citizens/noglues
+[ 35/116]   200  TAKEN       ophelia                    https://robertsspaceindustries.com/en/citizens/ophelia
+[ 36/116]   200  TAKEN       stickyrice                 https://robertsspaceindustries.com/en/citizens/stickyrice
+[ 37/116]   200  TAKEN       allurbase                  https://robertsspaceindustries.com/en/citizens/allurbase
+[ 38/116]   200  TAKEN       zerowing                   https://robertsspaceindustries.com/en/citizens/zerowing
+[ 39/116]   200  TAKEN       movezig                    https://robertsspaceindustries.com/en/citizens/movezig
+[ 40/116]   404  AVAILABLE   somebodyset                https://robertsspaceindustries.com/en/citizens/somebodyset
+[ 41/116]   200  TAKEN       1337                       https://robertsspaceindustries.com/en/citizens/1337
+[ 42/116]   200  TAKEN       leet                       https://robertsspaceindustries.com/en/citizens/leet
+[ 43/116]   200  TAKEN       haxxor                     https://robertsspaceindustries.com/en/citizens/haxxor
+[ 44/116]   200  TAKEN       h4x0r                      https://robertsspaceindustries.com/en/citizens/h4x0r
+[ 45/116]   200  TAKEN       w00t                       https://robertsspaceindustries.com/en/citizens/w00t
+[ 46/116]   200  TAKEN       woot                       https://robertsspaceindustries.com/en/citizens/woot
+[ 47/116]   200  TAKEN       roflmao                    https://robertsspaceindustries.com/en/citizens/roflmao
+[ 48/116]   200  TAKEN       lulz                       https://robertsspaceindustries.com/en/citizens/lulz
+[ 49/116]   200  TAKEN       ownage                     https://robertsspaceindustries.com/en/citizens/ownage
+[ 50/116]   200  TAKEN       ragequit                   https://robertsspaceindustries.com/en/citizens/ragequit
+[ 51/116]   200  TAKEN       tryhard                    https://robertsspaceindustries.com/en/citizens/tryhard
+[ 52/116]   404  AVAILABLE   griefing                   https://robertsspaceindustries.com/en/citizens/griefing
+[ 53/116]   200  TAKEN       smurfing                   https://robertsspaceindustries.com/en/citizens/smurfing
+[ 54/116]   200  TAKEN       ganked                     https://robertsspaceindustries.com/en/citizens/ganked
+[ 55/116]   404  AVAILABLE   ganking                    https://robertsspaceindustries.com/en/citizens/ganking
+[ 56/116]   200  TAKEN       killsteal                  https://robertsspaceindustries.com/en/citizens/killsteal
+[ 57/116]   404  AVAILABLE   feeding                    https://robertsspaceindustries.com/en/citizens/feeding
+[ 58/116]   200  TAKEN       fragged                    https://robertsspaceindustries.com/en/citizens/fragged
+[ 59/116]   404  AVAILABLE   gibbed                     https://robertsspaceindustries.com/en/citizens/gibbed
+[ 60/116]   200  TAKEN       respawned                  https://robertsspaceindustries.com/en/citizens/respawned
+[ 61/116]   200  TAKEN       camping                    https://robertsspaceindustries.com/en/citizens/camping
+[ 62/116]   404  AVAILABLE   deranked                   https://robertsspaceindustries.com/en/citizens/deranked
+[ 63/116]   200  TAKEN       smurf                      https://robertsspaceindustries.com/en/citizens/smurf
+[ 64/116]   200  TAKEN       salty                      https://robertsspaceindustries.com/en/citizens/salty
+[ 65/116]   200  TAKEN       tilted                     https://robertsspaceindustries.com/en/citizens/tilted
+[ 66/116]   200  TAKEN       ggez                       https://robertsspaceindustries.com/en/citizens/ggez
+[ 67/116]   200  TAKEN       glhf                       https://robertsspaceindustries.com/en/citizens/glhf
+[ 68/116]   200  TAKEN       ggwp                       https://robertsspaceindustries.com/en/citizens/ggwp
+[ 69/116]   200  TAKEN       brb                        https://robertsspaceindustries.com/en/citizens/brb
+[ 70/116]   404  AVAILABLE   afk                        https://robertsspaceindustries.com/en/citizens/afk
+[ 71/116]   200  TAKEN       ftw                        https://robertsspaceindustries.com/en/citizens/ftw
+[ 72/116]   200  TAKEN       kek                        https://robertsspaceindustries.com/en/citizens/kek
+[ 73/116]   200  TAKEN       kekw                       https://robertsspaceindustries.com/en/citizens/kekw
+[ 74/116]   200  TAKEN       quad                       https://robertsspaceindustries.com/en/citizens/quad
+[ 75/116]   200  TAKEN       gibs                       https://robertsspaceindustries.com/en/citizens/gibs
+[ 76/116]   200  TAKEN       instagib                   https://robertsspaceindustries.com/en/citizens/instagib
+[ 77/116]   200  TAKEN       railgun                    https://robertsspaceindustries.com/en/citizens/railgun
+[ 78/116]   200  TAKEN       rocketjump                 https://robertsspaceindustries.com/en/citizens/rocketjump
+[ 79/116]   404  AVAILABLE   redeemer                   https://robertsspaceindustries.com/en/citizens/redeemer
+[ 80/116]   200  TAKEN       flakcannon                 https://robertsspaceindustries.com/en/citizens/flakcannon
+[ 81/116]   404  AVAILABLE   udamage                    https://robertsspaceindustries.com/en/citizens/udamage
+[ 82/116]   200  TAKEN       phat                       https://robertsspaceindustries.com/en/citizens/phat
+[ 83/116]   200  TAKEN       partyhat                   https://robertsspaceindustries.com/en/citizens/partyhat
+[ 84/116]   200  TAKEN       barrows                    https://robertsspaceindustries.com/en/citizens/barrows
+[ 85/116]   200  TAKEN       wildy                      https://robertsspaceindustries.com/en/citizens/wildy
+[ 86/116]   200  TAKEN       varrock                    https://robertsspaceindustries.com/en/citizens/varrock
+[ 87/116]   200  TAKEN       lumbridge                  https://robertsspaceindustries.com/en/citizens/lumbridge
+[ 88/116]   200  TAKEN       edgeville                  https://robertsspaceindustries.com/en/citizens/edgeville
+[ 89/116]   200  TAKEN       rune                       https://robertsspaceindustries.com/en/citizens/rune
+[ 90/116]   404  AVAILABLE   trimmed                    https://robertsspaceindustries.com/en/citizens/trimmed
+[ 91/116]   200  TAKEN       whip                       https://robertsspaceindustries.com/en/citizens/whip
+[ 92/116]   200  TAKEN       scimitar                   https://robertsspaceindustries.com/en/citizens/scimitar
+[ 93/116]   200  TAKEN       lobster                    https://robertsspaceindustries.com/en/citizens/lobster
+[ 94/116]   200  TAKEN       dds                        https://robertsspaceindustries.com/en/citizens/dds
+[ 95/116]   404  AVAILABLE   firecape                   https://robertsspaceindustries.com/en/citizens/firecape
+[ 96/116]   404  AVAILABLE   tokkul                     https://robertsspaceindustries.com/en/citizens/tokkul
+[ 97/116]   404  AVAILABLE   skillcape                  https://robertsspaceindustries.com/en/citizens/skillcape
+[ 98/116]   200  TAKEN       falador                    https://robertsspaceindustries.com/en/citizens/falador
+[ 99/116]   200  TAKEN       guthix                     https://robertsspaceindustries.com/en/citizens/guthix
+[100/116]   404  AVAILABLE   zamorak                    https://robertsspaceindustries.com/en/citizens/zamorak
+[101/116]   200  TAKEN       saradomin                  https://robertsspaceindustries.com/en/citizens/saradomin
+[102/116]   404  AVAILABLE   fileplanet                 https://robertsspaceindustries.com/en/citizens/fileplanet
+[103/116]   200  TAKEN       kazaa                      https://robertsspaceindustries.com/en/citizens/kazaa
+[104/116]   200  TAKEN       napster                    https://robertsspaceindustries.com/en/citizens/napster
+[105/116]   200  TAKEN       limewire                   https://robertsspaceindustries.com/en/citizens/limewire
+[106/116]   404  AVAILABLE   bearshare                  https://robertsspaceindustries.com/en/citizens/bearshare
+[107/116]   200  TAKEN       gotfrag                    https://robertsspaceindustries.com/en/citizens/gotfrag
+[108/116]   200  TAKEN       gamespy                    https://robertsspaceindustries.com/en/citizens/gamespy
+[109/116]   200  TAKEN       leeroy                     https://robertsspaceindustries.com/en/citizens/leeroy
+[110/116]   200  TAKEN       jenkins                    https://robertsspaceindustries.com/en/citizens/jenkins
+[111/116]   200  TAKEN       lagswitch                  https://robertsspaceindustries.com/en/citizens/lagswitch
+[112/116]   404  AVAILABLE   lagfest                    https://robertsspaceindustries.com/en/citizens/lagfest
+[113/116]   200  TAKEN       packetloss                 https://robertsspaceindustries.com/en/citizens/packetloss
+[114/116]   200  TAKEN       dialup                     https://robertsspaceindustries.com/en/citizens/dialup
+[115/116]   404  AVAILABLE   clanbase                   https://robertsspaceindustries.com/en/citizens/clanbase
+[116/116]   200  TAKEN       esreality                  https://robertsspaceindustries.com/en/citizens/esreality
+
+==============================================================================================================
+
+✅  AVAILABLE (28):
+   idclip                          https://robertsspaceindustries.com/en/citizens/idclip
+   idchoppers                      https://robertsspaceindustries.com/en/citizens/idchoppers
+   iddt                            https://robertsspaceindustries.com/en/citizens/iddt
+   idbeholdv                       https://robertsspaceindustries.com/en/citizens/idbeholdv
+   lxgiwyl                         https://robertsspaceindustries.com/en/citizens/lxgiwyl
+   moveobjects                     https://robertsspaceindustries.com/en/citizens/moveobjects
+   boolprop                        https://robertsspaceindustries.com/en/citizens/boolprop
+   robin                           https://robertsspaceindustries.com/en/citizens/robin
+   scbw                            https://robertsspaceindustries.com/en/citizens/scbw
+   noglues                         https://robertsspaceindustries.com/en/citizens/noglues
+   somebodyset                     https://robertsspaceindustries.com/en/citizens/somebodyset
+   griefing                        https://robertsspaceindustries.com/en/citizens/griefing
+   ganking                         https://robertsspaceindustries.com/en/citizens/ganking
+   feeding                         https://robertsspaceindustries.com/en/citizens/feeding
+   gibbed                          https://robertsspaceindustries.com/en/citizens/gibbed
+   deranked                        https://robertsspaceindustries.com/en/citizens/deranked
+   afk                             https://robertsspaceindustries.com/en/citizens/afk
+   redeemer                        https://robertsspaceindustries.com/en/citizens/redeemer
+   udamage                         https://robertsspaceindustries.com/en/citizens/udamage
+   trimmed                         https://robertsspaceindustries.com/en/citizens/trimmed
+   firecape                        https://robertsspaceindustries.com/en/citizens/firecape
+   tokkul                          https://robertsspaceindustries.com/en/citizens/tokkul
+   skillcape                       https://robertsspaceindustries.com/en/citizens/skillcape
+   zamorak                         https://robertsspaceindustries.com/en/citizens/zamorak
+   fileplanet                      https://robertsspaceindustries.com/en/citizens/fileplanet
+   bearshare                       https://robertsspaceindustries.com/en/citizens/bearshare
+   lagfest                         https://robertsspaceindustries.com/en/citizens/lagfest
+   clanbase                        https://robertsspaceindustries.com/en/citizens/clanbase
+
+❌  TAKEN (88):
+   iddqd                           https://robertsspaceindustries.com/en/citizens/iddqd
+   idkfa                           https://robertsspaceindustries.com/en/citizens/idkfa
+   idspispopd                      https://robertsspaceindustries.com/en/citizens/idspispopd
+   idbeholds                       https://robertsspaceindustries.com/en/citizens/idbeholds
+   hesoyam                         https://robertsspaceindustries.com/en/citizens/hesoyam
+   rocketman                       https://robertsspaceindustries.com/en/citizens/rocketman
+   motherlode                      https://robertsspaceindustries.com/en/citizens/motherlode
+   rosebud                         https://robertsspaceindustries.com/en/citizens/rosebud
+   klapaucius                      https://robertsspaceindustries.com/en/citizens/klapaucius
+   wololo                          https://robertsspaceindustries.com/en/citizens/wololo
+   bigdaddy                        https://robertsspaceindustries.com/en/citizens/bigdaddy
+   photonman                       https://robertsspaceindustries.com/en/citizens/photonman
+   diediedie                       https://robertsspaceindustries.com/en/citizens/diediedie
+   coinage                         https://robertsspaceindustries.com/en/citizens/coinage
+   aegis                           https://robertsspaceindustries.com/en/citizens/aegis
+   pepperoni                       https://robertsspaceindustries.com/en/citizens/pepperoni
+   woodstock                       https://robertsspaceindustries.com/en/citizens/woodstock
+   lumberjack                      https://robertsspaceindustries.com/en/citizens/lumberjack
+   robinhood                       https://robertsspaceindustries.com/en/citizens/robinhood
+   zergrush                        https://robertsspaceindustries.com/en/citizens/zergrush
+   kekeke                          https://robertsspaceindustries.com/en/citizens/kekeke
+   terran                          https://robertsspaceindustries.com/en/citizens/terran
+   protoss                         https://robertsspaceindustries.com/en/citizens/protoss
+   broodwar                        https://robertsspaceindustries.com/en/citizens/broodwar
+   ophelia                         https://robertsspaceindustries.com/en/citizens/ophelia
+   stickyrice                      https://robertsspaceindustries.com/en/citizens/stickyrice
+   allurbase                       https://robertsspaceindustries.com/en/citizens/allurbase
+   zerowing                        https://robertsspaceindustries.com/en/citizens/zerowing
+   movezig                         https://robertsspaceindustries.com/en/citizens/movezig
+   1337                            https://robertsspaceindustries.com/en/citizens/1337
+   leet                            https://robertsspaceindustries.com/en/citizens/leet
+   haxxor                          https://robertsspaceindustries.com/en/citizens/haxxor
+   h4x0r                           https://robertsspaceindustries.com/en/citizens/h4x0r
+   w00t                            https://robertsspaceindustries.com/en/citizens/w00t
+   woot                            https://robertsspaceindustries.com/en/citizens/woot
+   roflmao                         https://robertsspaceindustries.com/en/citizens/roflmao
+   lulz                            https://robertsspaceindustries.com/en/citizens/lulz
+   ownage                          https://robertsspaceindustries.com/en/citizens/ownage
+   ragequit                        https://robertsspaceindustries.com/en/citizens/ragequit
+   tryhard                         https://robertsspaceindustries.com/en/citizens/tryhard
+   smurfing                        https://robertsspaceindustries.com/en/citizens/smurfing
+   ganked                          https://robertsspaceindustries.com/en/citizens/ganked
+   killsteal                       https://robertsspaceindustries.com/en/citizens/killsteal
+   fragged                         https://robertsspaceindustries.com/en/citizens/fragged
+   respawned                       https://robertsspaceindustries.com/en/citizens/respawned
+   camping                         https://robertsspaceindustries.com/en/citizens/camping
+   smurf                           https://robertsspaceindustries.com/en/citizens/smurf
+   salty                           https://robertsspaceindustries.com/en/citizens/salty
+   tilted                          https://robertsspaceindustries.com/en/citizens/tilted
+   ggez                            https://robertsspaceindustries.com/en/citizens/ggez
+   glhf                            https://robertsspaceindustries.com/en/citizens/glhf
+   ggwp                            https://robertsspaceindustries.com/en/citizens/ggwp
+   brb                             https://robertsspaceindustries.com/en/citizens/brb
+   ftw                             https://robertsspaceindustries.com/en/citizens/ftw
+   kek                             https://robertsspaceindustries.com/en/citizens/kek
+   kekw                            https://robertsspaceindustries.com/en/citizens/kekw
+   quad                            https://robertsspaceindustries.com/en/citizens/quad
+   gibs                            https://robertsspaceindustries.com/en/citizens/gibs
+   instagib                        https://robertsspaceindustries.com/en/citizens/instagib
+   railgun                         https://robertsspaceindustries.com/en/citizens/railgun
+   rocketjump                      https://robertsspaceindustries.com/en/citizens/rocketjump
+   flakcannon                      https://robertsspaceindustries.com/en/citizens/flakcannon
+   phat                            https://robertsspaceindustries.com/en/citizens/phat
+   partyhat                        https://robertsspaceindustries.com/en/citizens/partyhat
+   barrows                         https://robertsspaceindustries.com/en/citizens/barrows
+   wildy                           https://robertsspaceindustries.com/en/citizens/wildy
+   varrock                         https://robertsspaceindustries.com/en/citizens/varrock
+   lumbridge                       https://robertsspaceindustries.com/en/citizens/lumbridge
+   edgeville                       https://robertsspaceindustries.com/en/citizens/edgeville
+   rune                            https://robertsspaceindustries.com/en/citizens/rune
+   whip                            https://robertsspaceindustries.com/en/citizens/whip
+   scimitar                        https://robertsspaceindustries.com/en/citizens/scimitar
+   lobster                         https://robertsspaceindustries.com/en/citizens/lobster
+   dds                             https://robertsspaceindustries.com/en/citizens/dds
+   falador                         https://robertsspaceindustries.com/en/citizens/falador
+   guthix                          https://robertsspaceindustries.com/en/citizens/guthix
+   saradomin                       https://robertsspaceindustries.com/en/citizens/saradomin
+   kazaa                           https://robertsspaceindustries.com/en/citizens/kazaa
+   napster                         https://robertsspaceindustries.com/en/citizens/napster
+   limewire                        https://robertsspaceindustries.com/en/citizens/limewire
+   gotfrag                         https://robertsspaceindustries.com/en/citizens/gotfrag
+   gamespy                         https://robertsspaceindustries.com/en/citizens/gamespy
+   leeroy                          https://robertsspaceindustries.com/en/citizens/leeroy
+   jenkins                         https://robertsspaceindustries.com/en/citizens/jenkins
+   lagswitch                       https://robertsspaceindustries.com/en/citizens/lagswitch
+   packetloss                      https://robertsspaceindustries.com/en/citizens/packetloss
+   dialup                          https://robertsspaceindustries.com/en/citizens/dialup
+   esreality                       https://robertsspaceindustries.com/en/citizens/esreality
+/workspace/check_rsi_handles_v9.py:238: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v9.json
