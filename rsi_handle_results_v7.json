@@ -1,0 +1,369 @@
+{
+  "checked_at": "2026-07-01T00:14:08.308185Z",
+  "total": 90,
+  "available": [
+    {
+      "name": "ListMaps",
+      "url": "https://robertsspaceindustries.com/en/citizens/ListMaps"
+    },
+    {
+      "name": "Changelevel",
+      "url": "https://robertsspaceindustries.com/en/citizens/Changelevel"
+    },
+    {
+      "name": "NetGraph",
+      "url": "https://robertsspaceindustries.com/en/citizens/NetGraph"
+    },
+    {
+      "name": "Condump",
+      "url": "https://robertsspaceindustries.com/en/citizens/Condump"
+    },
+    {
+      "name": "ZombieMod",
+      "url": "https://robertsspaceindustries.com/en/citizens/ZombieMod"
+    },
+    {
+      "name": "DeathRun",
+      "url": "https://robertsspaceindustries.com/en/citizens/DeathRun"
+    },
+    {
+      "name": "Surf",
+      "url": "https://robertsspaceindustries.com/en/citizens/Surf"
+    },
+    {
+      "name": "Furien",
+      "url": "https://robertsspaceindustries.com/en/citizens/Furien"
+    },
+    {
+      "name": "KZClimb",
+      "url": "https://robertsspaceindustries.com/en/citizens/KZClimb"
+    },
+    {
+      "name": "ScoutKnivez",
+      "url": "https://robertsspaceindustries.com/en/citizens/ScoutKnivez"
+    },
+    {
+      "name": "MultiMod",
+      "url": "https://robertsspaceindustries.com/en/citizens/MultiMod"
+    },
+    {
+      "name": "AimMap",
+      "url": "https://robertsspaceindustries.com/en/citizens/AimMap"
+    },
+    {
+      "name": "KnifeArena",
+      "url": "https://robertsspaceindustries.com/en/citizens/KnifeArena"
+    },
+    {
+      "name": "PistolOnly",
+      "url": "https://robertsspaceindustries.com/en/citizens/PistolOnly"
+    },
+    {
+      "name": "AWPOnly",
+      "url": "https://robertsspaceindustries.com/en/citizens/AWPOnly"
+    },
+    {
+      "name": "HeadshotOnly",
+      "url": "https://robertsspaceindustries.com/en/citizens/HeadshotOnly"
+    },
+    {
+      "name": "PoolDay",
+      "url": "https://robertsspaceindustries.com/en/citizens/PoolDay"
+    },
+    {
+      "name": "KnifeMap",
+      "url": "https://robertsspaceindustries.com/en/citizens/KnifeMap"
+    },
+    {
+      "name": "SG552",
+      "url": "https://robertsspaceindustries.com/en/citizens/SG552"
+    },
+    {
+      "name": "MP5Navy",
+      "url": "https://robertsspaceindustries.com/en/citizens/MP5Navy"
+    },
+    {
+      "name": "HEGrenade",
+      "url": "https://robertsspaceindustries.com/en/citizens/HEGrenade"
+    },
+    {
+      "name": "SmokeGrenade",
+      "url": "https://robertsspaceindustries.com/en/citizens/SmokeGrenade"
+    },
+    {
+      "name": "KevlarHelmet",
+      "url": "https://robertsspaceindustries.com/en/citizens/KevlarHelmet"
+    },
+    {
+      "name": "BombPlanted",
+      "url": "https://robertsspaceindustries.com/en/citizens/BombPlanted"
+    },
+    {
+      "name": "BombDefused",
+      "url": "https://robertsspaceindustries.com/en/citizens/BombDefused"
+    },
+    {
+      "name": "CantSeeAnyone",
+      "url": "https://robertsspaceindustries.com/en/citizens/CantSeeAnyone"
+    },
+    {
+      "name": "SniperMade",
+      "url": "https://robertsspaceindustries.com/en/citizens/SniperMade"
+    },
+    {
+      "name": "TerroristsWin",
+      "url": "https://robertsspaceindustries.com/en/citizens/TerroristsWin"
+    },
+    {
+      "name": "CTsWin",
+      "url": "https://robertsspaceindustries.com/en/citizens/CTsWin"
+    },
+    {
+      "name": "RoundDraw",
+      "url": "https://robertsspaceindustries.com/en/citizens/RoundDraw"
+    },
+    {
+      "name": "OvertimeStart",
+      "url": "https://robertsspaceindustries.com/en/citizens/OvertimeStart"
+    },
+    {
+      "name": "HLStats",
+      "url": "https://robertsspaceindustries.com/en/citizens/HLStats"
+    },
+    {
+      "name": "AMXMod",
+      "url": "https://robertsspaceindustries.com/en/citizens/AMXMod"
+    },
+    {
+      "name": "Metamod",
+      "url": "https://robertsspaceindustries.com/en/citizens/Metamod"
+    },
+    {
+      "name": "SteamID",
+      "url": "https://robertsspaceindustries.com/en/citizens/SteamID"
+    },
+    {
+      "name": "WonServer",
+      "url": "https://robertsspaceindustries.com/en/citizens/WonServer"
+    },
+    {
+      "name": "ListenServer",
+      "url": "https://robertsspaceindustries.com/en/citizens/ListenServer"
+    },
+    {
+      "name": "ServerBrowser",
+      "url": "https://robertsspaceindustries.com/en/citizens/ServerBrowser"
+    },
+    {
+      "name": "LeetClan",
+      "url": "https://robertsspaceindustries.com/en/citizens/LeetClan"
+    },
+    {
+      "name": "ClanWar",
+      "url": "https://robertsspaceindustries.com/en/citizens/ClanWar"
+    },
+    {
+      "name": "PugMatch",
+      "url": "https://robertsspaceindustries.com/en/citizens/PugMatch"
+    },
+    {
+      "name": "FiveOnFive",
+      "url": "https://robertsspaceindustries.com/en/citizens/FiveOnFive"
+    },
+    {
+      "name": "OneOnOne",
+      "url": "https://robertsspaceindustries.com/en/citizens/OneOnOne"
+    },
+    {
+      "name": "KnifeDuel",
+      "url": "https://robertsspaceindustries.com/en/citizens/KnifeDuel"
+    },
+    {
+      "name": "OvertimeRound",
+      "url": "https://robertsspaceindustries.com/en/citizens/OvertimeRound"
+    },
+    {
+      "name": "MapVeto",
+      "url": "https://robertsspaceindustries.com/en/citizens/MapVeto"
+    },
+    {
+      "name": "SideVeto",
+      "url": "https://robertsspaceindustries.com/en/citizens/SideVeto"
+    },
+    {
+      "name": "TimeoutCall",
+      "url": "https://robertsspaceindustries.com/en/citizens/TimeoutCall"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Rcon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rcon"
+    },
+    {
+      "name": "Autoexec",
+      "url": "https://robertsspaceindustries.com/en/citizens/Autoexec"
+    },
+    {
+      "name": "Impulse101",
+      "url": "https://robertsspaceindustries.com/en/citizens/Impulse101"
+    },
+    {
+      "name": "Retry",
+      "url": "https://robertsspaceindustries.com/en/citizens/Retry"
+    },
+    {
+      "name": "Status",
+      "url": "https://robertsspaceindustries.com/en/citizens/Status"
+    },
+    {
+      "name": "Connect",
+      "url": "https://robertsspaceindustries.com/en/citizens/Connect"
+    },
+    {
+      "name": "Exec",
+      "url": "https://robertsspaceindustries.com/en/citizens/Exec"
+    },
+    {
+      "name": "Jailbreak",
+      "url": "https://robertsspaceindustries.com/en/citizens/Jailbreak"
+    },
+    {
+      "name": "GunGame",
+      "url": "https://robertsspaceindustries.com/en/citizens/GunGame"
+    },
+    {
+      "name": "Bhop",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bhop"
+    },
+    {
+      "name": "HideNSeek",
+      "url": "https://robertsspaceindustries.com/en/citizens/HideNSeek"
+    },
+    {
+      "name": "IceWorld",
+      "url": "https://robertsspaceindustries.com/en/citizens/IceWorld"
+    },
+    {
+      "name": "Deagle",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deagle"
+    },
+    {
+      "name": "USP",
+      "url": "https://robertsspaceindustries.com/en/citizens/USP"
+    },
+    {
+      "name": "Glock",
+      "url": "https://robertsspaceindustries.com/en/citizens/Glock"
+    },
+    {
+      "name": "AK47",
+      "url": "https://robertsspaceindustries.com/en/citizens/AK47"
+    },
+    {
+      "name": "M4A1",
+      "url": "https://robertsspaceindustries.com/en/citizens/M4A1"
+    },
+    {
+      "name": "Famas",
+      "url": "https://robertsspaceindustries.com/en/citizens/Famas"
+    },
+    {
+      "name": "Galil",
+      "url": "https://robertsspaceindustries.com/en/citizens/Galil"
+    },
+    {
+      "name": "AWP",
+      "url": "https://robertsspaceindustries.com/en/citizens/AWP"
+    },
+    {
+      "name": "Scout",
+      "url": "https://robertsspaceindustries.com/en/citizens/Scout"
+    },
+    {
+      "name": "Krieg",
+      "url": "https://robertsspaceindustries.com/en/citizens/Krieg"
+    },
+    {
+      "name": "MAC10",
+      "url": "https://robertsspaceindustries.com/en/citizens/MAC10"
+    },
+    {
+      "name": "TMP",
+      "url": "https://robertsspaceindustries.com/en/citizens/TMP"
+    },
+    {
+      "name": "P90",
+      "url": "https://robertsspaceindustries.com/en/citizens/P90"
+    },
+    {
+      "name": "UMP45",
+      "url": "https://robertsspaceindustries.com/en/citizens/UMP45"
+    },
+    {
+      "name": "Flashbang",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flashbang"
+    },
+    {
+      "name": "Molotov",
+      "url": "https://robertsspaceindustries.com/en/citizens/Molotov"
+    },
+    {
+      "name": "FireInHole",
+      "url": "https://robertsspaceindustries.com/en/citizens/FireInHole"
+    },
+    {
+      "name": "EnemySpotted",
+      "url": "https://robertsspaceindustries.com/en/citizens/EnemySpotted"
+    },
+    {
+      "name": "GetOutOfThere",
+      "url": "https://robertsspaceindustries.com/en/citizens/GetOutOfThere"
+    },
+    {
+      "name": "NeedBackup",
+      "url": "https://robertsspaceindustries.com/en/citizens/NeedBackup"
+    },
+    {
+      "name": "VACBanned",
+      "url": "https://robertsspaceindustries.com/en/citizens/VACBanned"
+    },
+    {
+      "name": "PunkBuster",
+      "url": "https://robertsspaceindustries.com/en/citizens/PunkBuster"
+    },
+    {
+      "name": "DedicatedServer",
+      "url": "https://robertsspaceindustries.com/en/citizens/DedicatedServer"
+    },
+    {
+      "name": "AllSeeingEye",
+      "url": "https://robertsspaceindustries.com/en/citizens/AllSeeingEye"
+    },
+    {
+      "name": "Gamespy",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gamespy"
+    },
+    {
+      "name": "Gotv",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gotv"
+    },
+    {
+      "name": "Scrim",
+      "url": "https://robertsspaceindustries.com/en/citizens/Scrim"
+    },
+    {
+      "name": "Pcw",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pcw"
+    },
+    {
+      "name": "HalfTime",
+      "url": "https://robertsspaceindustries.com/en/citizens/HalfTime"
+    },
+    {
+      "name": "MatchPoint",
+      "url": "https://robertsspaceindustries.com/en/citizens/MatchPoint"
+    }
+  ],
+  "errors": []
+}
