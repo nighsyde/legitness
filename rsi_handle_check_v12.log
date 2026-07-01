@@ -1,0 +1,98 @@
+Checking 42 curated legendary handles...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/42]   200  TAKEN       Thresh                     https://robertsspaceindustries.com/en/citizens/Thresh
+[  2/42]   404  AVAILABLE   Thunderfury                https://robertsspaceindustries.com/en/citizens/Thunderfury
+[  3/42]   200  TAKEN       Benediction                https://robertsspaceindustries.com/en/citizens/Benediction
+[  4/42]   200  TAKEN       Anathema                   https://robertsspaceindustries.com/en/citizens/Anathema
+[  5/42]   200  TAKEN       Sulfuras                   https://robertsspaceindustries.com/en/citizens/Sulfuras
+[  6/42]   200  TAKEN       Ashkandi                   https://robertsspaceindustries.com/en/citizens/Ashkandi
+[  7/42]   200  TAKEN       Judgement                  https://robertsspaceindustries.com/en/citizens/Judgement
+[  8/42]   200  TAKEN       Shadowmourne               https://robertsspaceindustries.com/en/citizens/Shadowmourne
+[  9/42]   200  TAKEN       Dreadnaught                https://robertsspaceindustries.com/en/citizens/Dreadnaught
+[ 10/42]   404  AVAILABLE   Cryptstalker               https://robertsspaceindustries.com/en/citizens/Cryptstalker
+[ 11/42]   200  TAKEN       Plagueheart                https://robertsspaceindustries.com/en/citizens/Plagueheart
+[ 12/42]   404  AVAILABLE   Bonescythe                 https://robertsspaceindustries.com/en/citizens/Bonescythe
+[ 13/42]   200  TAKEN       Bloodfang                  https://robertsspaceindustries.com/en/citizens/Bloodfang
+[ 14/42]   200  TAKEN       Netherwind                 https://robertsspaceindustries.com/en/citizens/Netherwind
+[ 15/42]   200  TAKEN       Frostmourne                https://robertsspaceindustries.com/en/citizens/Frostmourne
+[ 16/42]   200  TAKEN       Thunderaan                 https://robertsspaceindustries.com/en/citizens/Thunderaan
+[ 17/42]   200  TAKEN       Atiesh                     https://robertsspaceindustries.com/en/citizens/Atiesh
+[ 18/42]   200  TAKEN       Arthas                     https://robertsspaceindustries.com/en/citizens/Arthas
+[ 19/42]   200  TAKEN       Illidan                    https://robertsspaceindustries.com/en/citizens/Illidan
+[ 20/42]   200  TAKEN       Kerrigan                   https://robertsspaceindustries.com/en/citizens/Kerrigan
+[ 21/42]   200  TAKEN       Deathwing                  https://robertsspaceindustries.com/en/citizens/Deathwing
+[ 22/42]   200  TAKEN       Sylvanas                   https://robertsspaceindustries.com/en/citizens/Sylvanas
+[ 23/42]   200  TAKEN       Cenarius                   https://robertsspaceindustries.com/en/citizens/Cenarius
+[ 24/42]   200  TAKEN       Heaton                     https://robertsspaceindustries.com/en/citizens/Heaton
+[ 25/42]   200  TAKEN       Carmack                    https://robertsspaceindustries.com/en/citizens/Carmack
+[ 26/42]   200  TAKEN       Romero                     https://robertsspaceindustries.com/en/citizens/Romero
+[ 27/42]   404  AVAILABLE   Fatal1ty                   https://robertsspaceindustries.com/en/citizens/Fatal1ty
+[ 28/42]   200  TAKEN       Windforce                  https://robertsspaceindustries.com/en/citizens/Windforce
+[ 29/42]   200  TAKEN       Doombringer                https://robertsspaceindustries.com/en/citizens/Doombringer
+[ 30/42]   200  TAKEN       Grandfather                https://robertsspaceindustries.com/en/citizens/Grandfather
+[ 31/42]   200  TAKEN       Stormshield                https://robertsspaceindustries.com/en/citizens/Stormshield
+[ 32/42]   200  TAKEN       Tyrael                     https://robertsspaceindustries.com/en/citizens/Tyrael
+[ 33/42]   200  TAKEN       Xfire                      https://robertsspaceindustries.com/en/citizens/Xfire
+[ 34/42]   200  TAKEN       Frostbrand                 https://robertsspaceindustries.com/en/citizens/Frostbrand
+[ 35/42]   200  TAKEN       Stormcaller                https://robertsspaceindustries.com/en/citizens/Stormcaller
+[ 36/42]   200  TAKEN       Deathcoil                  https://robertsspaceindustries.com/en/citizens/Deathcoil
+[ 37/42]   200  TAKEN       Coldblood                  https://robertsspaceindustries.com/en/citizens/Coldblood
+[ 38/42]   200  TAKEN       Shadowstep                 https://robertsspaceindustries.com/en/citizens/Shadowstep
+[ 39/42]   200  TAKEN       Vendetta                   https://robertsspaceindustries.com/en/citizens/Vendetta
+[ 40/42]   200  TAKEN       Adrenaline                 https://robertsspaceindustries.com/en/citizens/Adrenaline
+[ 41/42]   404  AVAILABLE   Preparation                https://robertsspaceindustries.com/en/citizens/Preparation
+[ 42/42]   200  TAKEN       Vanish                     https://robertsspaceindustries.com/en/citizens/Vanish
+
+==============================================================================================================
+
+✅  AVAILABLE (5):
+   Thunderfury                     https://robertsspaceindustries.com/en/citizens/Thunderfury
+   Cryptstalker                    https://robertsspaceindustries.com/en/citizens/Cryptstalker
+   Bonescythe                      https://robertsspaceindustries.com/en/citizens/Bonescythe
+   Fatal1ty                        https://robertsspaceindustries.com/en/citizens/Fatal1ty
+   Preparation                     https://robertsspaceindustries.com/en/citizens/Preparation
+
+❌  TAKEN (37):
+   Thresh                          https://robertsspaceindustries.com/en/citizens/Thresh
+   Benediction                     https://robertsspaceindustries.com/en/citizens/Benediction
+   Anathema                        https://robertsspaceindustries.com/en/citizens/Anathema
+   Sulfuras                        https://robertsspaceindustries.com/en/citizens/Sulfuras
+   Ashkandi                        https://robertsspaceindustries.com/en/citizens/Ashkandi
+   Judgement                       https://robertsspaceindustries.com/en/citizens/Judgement
+   Shadowmourne                    https://robertsspaceindustries.com/en/citizens/Shadowmourne
+   Dreadnaught                     https://robertsspaceindustries.com/en/citizens/Dreadnaught
+   Plagueheart                     https://robertsspaceindustries.com/en/citizens/Plagueheart
+   Bloodfang                       https://robertsspaceindustries.com/en/citizens/Bloodfang
+   Netherwind                      https://robertsspaceindustries.com/en/citizens/Netherwind
+   Frostmourne                     https://robertsspaceindustries.com/en/citizens/Frostmourne
+   Thunderaan                      https://robertsspaceindustries.com/en/citizens/Thunderaan
+   Atiesh                          https://robertsspaceindustries.com/en/citizens/Atiesh
+   Arthas                          https://robertsspaceindustries.com/en/citizens/Arthas
+   Illidan                         https://robertsspaceindustries.com/en/citizens/Illidan
+   Kerrigan                        https://robertsspaceindustries.com/en/citizens/Kerrigan
+   Deathwing                       https://robertsspaceindustries.com/en/citizens/Deathwing
+   Sylvanas                        https://robertsspaceindustries.com/en/citizens/Sylvanas
+   Cenarius                        https://robertsspaceindustries.com/en/citizens/Cenarius
+   Heaton                          https://robertsspaceindustries.com/en/citizens/Heaton
+   Carmack                         https://robertsspaceindustries.com/en/citizens/Carmack
+   Romero                          https://robertsspaceindustries.com/en/citizens/Romero
+   Windforce                       https://robertsspaceindustries.com/en/citizens/Windforce
+   Doombringer                     https://robertsspaceindustries.com/en/citizens/Doombringer
+   Grandfather                     https://robertsspaceindustries.com/en/citizens/Grandfather
+   Stormshield                     https://robertsspaceindustries.com/en/citizens/Stormshield
+   Tyrael                          https://robertsspaceindustries.com/en/citizens/Tyrael
+   Xfire                           https://robertsspaceindustries.com/en/citizens/Xfire
+   Frostbrand                      https://robertsspaceindustries.com/en/citizens/Frostbrand
+   Stormcaller                     https://robertsspaceindustries.com/en/citizens/Stormcaller
+   Deathcoil                       https://robertsspaceindustries.com/en/citizens/Deathcoil
+   Coldblood                       https://robertsspaceindustries.com/en/citizens/Coldblood
+   Shadowstep                      https://robertsspaceindustries.com/en/citizens/Shadowstep
+   Vendetta                        https://robertsspaceindustries.com/en/citizens/Vendetta
+   Adrenaline                      https://robertsspaceindustries.com/en/citizens/Adrenaline
+   Vanish                          https://robertsspaceindustries.com/en/citizens/Vanish
+/workspace/check_rsi_handles_v12.py:176: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v12.json
