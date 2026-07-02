@@ -1,0 +1,317 @@
+{
+  "checked_at": "2026-07-02T00:01:34.255829Z",
+  "total": 77,
+  "available": [
+    {
+      "name": "Retadin",
+      "url": "https://robertsspaceindustries.com/en/citizens/Retadin"
+    },
+    {
+      "name": "Standinfire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Standinfire"
+    },
+    {
+      "name": "Tradechat",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tradechat"
+    },
+    {
+      "name": "Ninjarogue",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ninjarogue"
+    },
+    {
+      "name": "EpicMount",
+      "url": "https://robertsspaceindustries.com/en/citizens/EpicMount"
+    },
+    {
+      "name": "GnomePunt",
+      "url": "https://robertsspaceindustries.com/en/citizens/GnomePunt"
+    },
+    {
+      "name": "Soulstoned",
+      "url": "https://robertsspaceindustries.com/en/citizens/Soulstoned"
+    },
+    {
+      "name": "Innervateme",
+      "url": "https://robertsspaceindustries.com/en/citizens/Innervateme"
+    },
+    {
+      "name": "PallyPower",
+      "url": "https://robertsspaceindustries.com/en/citizens/PallyPower"
+    },
+    {
+      "name": "WorldFirst",
+      "url": "https://robertsspaceindustries.com/en/citizens/WorldFirst"
+    },
+    {
+      "name": "ServerFirst",
+      "url": "https://robertsspaceindustries.com/en/citizens/ServerFirst"
+    },
+    {
+      "name": "IWasLagging",
+      "url": "https://robertsspaceindustries.com/en/citizens/IWasLagging"
+    },
+    {
+      "name": "MyMouseSlipped",
+      "url": "https://robertsspaceindustries.com/en/citizens/MyMouseSlipped"
+    },
+    {
+      "name": "Iwasntrying",
+      "url": "https://robertsspaceindustries.com/en/citizens/Iwasntrying"
+    },
+    {
+      "name": "LetYouWin",
+      "url": "https://robertsspaceindustries.com/en/citizens/LetYouWin"
+    },
+    {
+      "name": "MyTeamBad",
+      "url": "https://robertsspaceindustries.com/en/citizens/MyTeamBad"
+    },
+    {
+      "name": "CampersWin",
+      "url": "https://robertsspaceindustries.com/en/citizens/CampersWin"
+    },
+    {
+      "name": "HitboxBroke",
+      "url": "https://robertsspaceindustries.com/en/citizens/HitboxBroke"
+    },
+    {
+      "name": "NoclientsideHit",
+      "url": "https://robertsspaceindustries.com/en/citizens/NoclientsideHit"
+    },
+    {
+      "name": "PingExcuse",
+      "url": "https://robertsspaceindustries.com/en/citizens/PingExcuse"
+    },
+    {
+      "name": "IHaventPlayed",
+      "url": "https://robertsspaceindustries.com/en/citizens/IHaventPlayed"
+    },
+    {
+      "name": "CouldGoPro",
+      "url": "https://robertsspaceindustries.com/en/citizens/CouldGoPro"
+    },
+    {
+      "name": "UsedToBeBetter",
+      "url": "https://robertsspaceindustries.com/en/citizens/UsedToBeBetter"
+    },
+    {
+      "name": "xXxSniper",
+      "url": "https://robertsspaceindustries.com/en/citizens/xXxSniper"
+    },
+    {
+      "name": "ItzYaBoi",
+      "url": "https://robertsspaceindustries.com/en/citizens/ItzYaBoi"
+    },
+    {
+      "name": "1337Sniper",
+      "url": "https://robertsspaceindustries.com/en/citizens/1337Sniper"
+    },
+    {
+      "name": "Pr0Player",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pr0Player"
+    },
+    {
+      "name": "UberPro",
+      "url": "https://robertsspaceindustries.com/en/citizens/UberPro"
+    },
+    {
+      "name": "SubLeader",
+      "url": "https://robertsspaceindustries.com/en/citizens/SubLeader"
+    },
+    {
+      "name": "ClansAreLife",
+      "url": "https://robertsspaceindustries.com/en/citizens/ClansAreLife"
+    },
+    {
+      "name": "Clanhopper",
+      "url": "https://robertsspaceindustries.com/en/citizens/Clanhopper"
+    },
+    {
+      "name": "Disband",
+      "url": "https://robertsspaceindustries.com/en/citizens/Disband"
+    },
+    {
+      "name": "Votemute",
+      "url": "https://robertsspaceindustries.com/en/citizens/Votemute"
+    },
+    {
+      "name": "DKPminus",
+      "url": "https://robertsspaceindustries.com/en/citizens/DKPminus"
+    },
+    {
+      "name": "FiftyDKP",
+      "url": "https://robertsspaceindustries.com/en/citizens/FiftyDKP"
+    },
+    {
+      "name": "ScreamingKid",
+      "url": "https://robertsspaceindustries.com/en/citizens/ScreamingKid"
+    },
+    {
+      "name": "OpenMic",
+      "url": "https://robertsspaceindustries.com/en/citizens/OpenMic"
+    },
+    {
+      "name": "MomCalled",
+      "url": "https://robertsspaceindustries.com/en/citizens/MomCalled"
+    },
+    {
+      "name": "RouterUnplug",
+      "url": "https://robertsspaceindustries.com/en/citizens/RouterUnplug"
+    },
+    {
+      "name": "TVdisconnect",
+      "url": "https://robertsspaceindustries.com/en/citizens/TVdisconnect"
+    },
+    {
+      "name": "GotGrounded",
+      "url": "https://robertsspaceindustries.com/en/citizens/GotGrounded"
+    },
+    {
+      "name": "AllinQueue",
+      "url": "https://robertsspaceindustries.com/en/citizens/AllinQueue"
+    },
+    {
+      "name": "DadUsedPhone",
+      "url": "https://robertsspaceindustries.com/en/citizens/DadUsedPhone"
+    },
+    {
+      "name": "Softbanned",
+      "url": "https://robertsspaceindustries.com/en/citizens/Softbanned"
+    },
+    {
+      "name": "Falsereport",
+      "url": "https://robertsspaceindustries.com/en/citizens/Falsereport"
+    },
+    {
+      "name": "Ruinedgame",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ruinedgame"
+    },
+    {
+      "name": "IntentFeed",
+      "url": "https://robertsspaceindustries.com/en/citizens/IntentFeed"
+    },
+    {
+      "name": "JustHavingFun",
+      "url": "https://robertsspaceindustries.com/en/citizens/JustHavingFun"
+    },
+    {
+      "name": "Nolifegamer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nolifegamer"
+    },
+    {
+      "name": "KeyboardTurner",
+      "url": "https://robertsspaceindustries.com/en/citizens/KeyboardTurner"
+    },
+    {
+      "name": "BackPedaler",
+      "url": "https://robertsspaceindustries.com/en/citizens/BackPedaler"
+    },
+    {
+      "name": "Bunnyhopper",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bunnyhopper"
+    },
+    {
+      "name": "Bodyshotonly",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bodyshotonly"
+    },
+    {
+      "name": "Awpwhore",
+      "url": "https://robertsspaceindustries.com/en/citizens/Awpwhore"
+    },
+    {
+      "name": "Knifeonly",
+      "url": "https://robertsspaceindustries.com/en/citizens/Knifeonly"
+    },
+    {
+      "name": "Doublejump",
+      "url": "https://robertsspaceindustries.com/en/citizens/Doublejump"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Huntard",
+      "url": "https://robertsspaceindustries.com/en/citizens/Huntard"
+    },
+    {
+      "name": "Facemelter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Facemelter"
+    },
+    {
+      "name": "Healbot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Healbot"
+    },
+    {
+      "name": "Barrenschat",
+      "url": "https://robertsspaceindustries.com/en/citizens/Barrenschat"
+    },
+    {
+      "name": "GoldFarmer",
+      "url": "https://robertsspaceindustries.com/en/citizens/GoldFarmer"
+    },
+    {
+      "name": "xXxProxXx",
+      "url": "https://robertsspaceindustries.com/en/citizens/xXxProxXx"
+    },
+    {
+      "name": "MLGpro",
+      "url": "https://robertsspaceindustries.com/en/citizens/MLGpro"
+    },
+    {
+      "name": "EliteGamer",
+      "url": "https://robertsspaceindustries.com/en/citizens/EliteGamer"
+    },
+    {
+      "name": "ProGamer9000",
+      "url": "https://robertsspaceindustries.com/en/citizens/ProGamer9000"
+    },
+    {
+      "name": "TrueLegend",
+      "url": "https://robertsspaceindustries.com/en/citizens/TrueLegend"
+    },
+    {
+      "name": "ClanLeader",
+      "url": "https://robertsspaceindustries.com/en/citizens/ClanLeader"
+    },
+    {
+      "name": "Internal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Internal"
+    },
+    {
+      "name": "Tryout",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tryout"
+    },
+    {
+      "name": "Probation",
+      "url": "https://robertsspaceindustries.com/en/citizens/Probation"
+    },
+    {
+      "name": "Votekick",
+      "url": "https://robertsspaceindustries.com/en/citizens/Votekick"
+    },
+    {
+      "name": "Bedtime",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bedtime"
+    },
+    {
+      "name": "Permabanned",
+      "url": "https://robertsspaceindustries.com/en/citizens/Permabanned"
+    },
+    {
+      "name": "CasualGamer",
+      "url": "https://robertsspaceindustries.com/en/citizens/CasualGamer"
+    },
+    {
+      "name": "WallBanger",
+      "url": "https://robertsspaceindustries.com/en/citizens/WallBanger"
+    },
+    {
+      "name": "SprayNPray",
+      "url": "https://robertsspaceindustries.com/en/citizens/SprayNPray"
+    },
+    {
+      "name": "OnetrIck",
+      "url": "https://robertsspaceindustries.com/en/citizens/OnetrIck"
+    }
+  ],
+  "errors": []
+}
