@@ -1,0 +1,449 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: >
+  Deploys IAM Identity Center Permission Set and optional Assignment to connect
+  Claude Code desktop (macOS) to Amazon Bedrock via AWS SSO. Creates a scoped
+  Bedrock inline policy (InvokeModel, ListInferenceProfiles, GetInferenceProfile)
+  and outputs ready-to-paste ~/.aws/config and Claude Code settings blocks.
+  Prerequisites: Identity Center already enabled; Bedrock model access granted.
+
+Metadata:
+  AWS::CloudFormation::Interface:
+    ParameterGroups:
+      - Label:
+          default: "IAM Identity Center Configuration"
+        Parameters:
+          - IdentityCenterInstanceArn
+          - SsoStartUrl
+          - SsoRegion
+      - Label:
+          default: "Target Account & Bedrock Configuration"
+        Parameters:
+          - TargetAccountId
+          - BedrockRegion
+          - SessionDurationHours
+      - Label:
+          default: "Permission Set Assignment (Optional)"
+        Parameters:
+          - CreateAssignment
+          - PrincipalType
+          - PrincipalId
+      - Label:
+          default: "Naming & Tagging"
+        Parameters:
+          - PermissionSetName
+          - EnvironmentTag
+          - TeamTag
+
+    ParameterLabels:
+      IdentityCenterInstanceArn:
+        default: "Identity Center Instance ARN"
+      SsoStartUrl:
+        default: "SSO Start URL (Access Portal URL)"
+      SsoRegion:
+        default: "Identity Center Home Region"
+      TargetAccountId:
+        default: "Target AWS Account ID (where Bedrock is used)"
+      BedrockRegion:
+        default: "Bedrock Region"
+      SessionDurationHours:
+        default: "Permission Set Session Duration (hours)"
+      CreateAssignment:
+        default: "Create User/Group Assignment?"
+      PrincipalType:
+        default: "Principal Type (USER or GROUP)"
+      PrincipalId:
+        default: "Principal ID (Identity Center User or Group ID)"
+      PermissionSetName:
+        default: "Permission Set Name"
+      EnvironmentTag:
+        default: "Environment Tag"
+      TeamTag:
+        default: "Team Tag"
+
+Parameters:
+
+  IdentityCenterInstanceArn:
+    Type: String
+    Description: >
+      The ARN of your IAM Identity Center instance.
+      Find it at: IAM Identity Center → Settings → Instance ARN.
+      Format: arn:aws:sso:::instance/ssoins-XXXXXXXXXXXXXXXXX
+    AllowedPattern: "^arn:aws[a-z-]*:sso:::instance/ssoins-[a-z0-9]{16,}$"
+    ConstraintDescription: >
+      Must be a valid Identity Center instance ARN in the format
+      arn:aws:sso:::instance/ssoins-XXXXXXXXXXXXXXXXX
+
+  SsoStartUrl:
+    Type: String
+    Description: >
+      Your IAM Identity Center access portal URL.
+      Find it at: IAM Identity Center → Settings → AWS access portal URL.
+      Format: https://d-XXXXXXXXXX.awsapps.com/start
+      This is included in the stack Outputs for use in ~/.aws/config.
+    AllowedPattern: "^https://.+\\.awsapps\\.com/start.*$"
+    ConstraintDescription: >
+      Must be a valid SSO start URL (https://*.awsapps.com/start)
+
+  SsoRegion:
+    Type: String
+    Description: >
+      The AWS region where IAM Identity Center is configured.
+      This may differ from your Bedrock region.
+      Find it at: IAM Identity Center → Settings.
+    Default: "us-east-1"
+    AllowedValues:
+      - us-east-1
+      - us-east-2
+      - us-west-1
+      - us-west-2
+      - ap-southeast-1
+      - ap-southeast-2
+      - ap-northeast-1
+      - ap-northeast-2
+      - ap-south-1
+      - eu-west-1
+      - eu-west-2
+      - eu-west-3
+      - eu-central-1
+      - eu-north-1
+      - ca-central-1
+      - sa-east-1
+
+  TargetAccountId:
+    Type: String
+    Description: >
+      The 12-digit AWS account ID where Amazon Bedrock will be invoked.
+      This is the account users will authenticate into via Identity Center.
+    AllowedPattern: "^[0-9]{12}$"
+    ConstraintDescription: "Must be a 12-digit AWS account ID"
+
+  BedrockRegion:
+    Type: String
+    Description: >
+      The AWS region where Amazon Bedrock Claude models are enabled and will
+      be invoked. Cross-region inference profiles (us.anthropic.*) can span
+      multiple regions but are accessed via the primary region endpoint.
+    Default: "us-east-1"
+    AllowedValues:
+      - us-east-1
+      - us-east-2
+      - us-west-1
+      - us-west-2
+      - ap-southeast-1
+      - ap-southeast-2
+      - ap-northeast-1
+      - ap-northeast-2
+      - ap-south-1
+      - eu-west-1
+      - eu-west-2
+      - eu-west-3
+      - eu-central-1
+      - eu-north-1
+      - ca-central-1
+      - sa-east-1
+
+  SessionDurationHours:
+    Type: Number
+    Description: >
+      How long (in hours) a user's Identity Center session lasts before
+      they must re-authenticate via the browser.
+      Minimum: 1 hour. Maximum: 12 hours for per-session; up to 90 days
+      for the access portal session (configured in Identity Center Settings).
+      Recommended: 8 hours (covers a full working day).
+    Default: 8
+    MinValue: 1
+    MaxValue: 12
+    ConstraintDescription: "Must be between 1 and 12 hours"
+
+  PermissionSetName:
+    Type: String
+    Description: >
+      Name for the IAM Identity Center Permission Set.
+      This name also becomes the IAM role name suffix that appears in
+      CloudTrail logs: AWSReservedSSO_<PermissionSetName>_<random>.
+    Default: "ClaudeCodeBedrockAccess"
+    AllowedPattern: "^[a-zA-Z][a-zA-Z0-9_-]{1,31}$"
+    ConstraintDescription: >
+      Must start with a letter and be 2-32 characters (letters, digits,
+      underscores, hyphens only)
+
+  CreateAssignment:
+    Type: String
+    Description: >
+      Whether to create an Identity Center assignment that attaches this
+      Permission Set to a specific user or group in TargetAccountId.
+      Set to 'true' only if you supply valid PrincipalType and PrincipalId.
+      You can also create assignments manually in the Identity Center console.
+    Default: "false"
+    AllowedValues:
+      - "true"
+      - "false"
+
+  PrincipalType:
+    Type: String
+    Description: >
+      Whether the principal being assigned is a USER or GROUP.
+      Only used when CreateAssignment is 'true'.
+    Default: "GROUP"
+    AllowedValues:
+      - USER
+      - GROUP
+
+  PrincipalId:
+    Type: String
+    Description: >
+      The Identity Center User ID or Group ID to assign.
+      Find User IDs at: Identity Center → Users → (select user) → User ID.
+      Find Group IDs at: Identity Center → Groups → (select group) → Group ID.
+      Format: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx (UUID).
+      Leave as 'PLACEHOLDER' when CreateAssignment is 'false'.
+    Default: "PLACEHOLDER"
+
+  EnvironmentTag:
+    Type: String
+    Description: Environment tag applied to all taggable resources
+    Default: "production"
+    AllowedValues:
+      - development
+      - staging
+      - production
+
+  TeamTag:
+    Type: String
+    Description: Team or cost-center tag for chargeback/showback
+    Default: "engineering"
+
+Conditions:
+
+  ShouldCreateAssignment: !Equals [!Ref CreateAssignment, "true"]
+
+  # Guard against accidental assignment with placeholder principal
+  AssignmentIsValid: !And
+    - !Condition ShouldCreateAssignment
+    - !Not [!Equals [!Ref PrincipalId, "PLACEHOLDER"]]
+
+Resources:
+
+  # ---------------------------------------------------------------------------
+  # IAM Identity Center Permission Set
+  #
+  # This is the core resource. It defines WHAT permissions users get when they
+  # authenticate via Identity Center and assume this permission set.
+  # ---------------------------------------------------------------------------
+  BedrockPermissionSet:
+    Type: AWS::SSO::PermissionSet
+    Properties:
+      Name: !Ref PermissionSetName
+      Description: !Sub >
+        Grants Claude Code desktop access to Amazon Bedrock Claude models
+        in ${BedrockRegion}. Managed by CloudFormation stack ${AWS::StackName}.
+      InstanceArn: !Ref IdentityCenterInstanceArn
+      # ISO 8601 duration format: PT8H = 8 hours
+      SessionDuration: !Sub "PT${SessionDurationHours}H"
+      # Inline policy: scoped to exactly the actions Claude Code requires.
+      # No admin rights, no S3, no IAM — Bedrock invocation only.
+      InlinePolicy:
+        Version: "2012-10-17"
+        Statement:
+          - Sid: AllowBedrockModelInvocation
+            Effect: Allow
+            Action:
+              # Core invocation actions — required for every Claude Code request
+              - bedrock:InvokeModel
+              - bedrock:InvokeModelWithResponseStream
+              # Discovery actions — allow Claude Code to enumerate available
+              # models at startup and resolve inference profile ARNs.
+              # Without GetInferenceProfile, each new model adds an extra
+              # round-trip (Claude Code recovers, but it's slower).
+              - bedrock:ListInferenceProfiles
+              - bedrock:GetInferenceProfile
+              - bedrock:ListFoundationModels
+            Resource:
+              # Cross-region inference profiles (us.anthropic.*, eu.anthropic.*, etc.)
+              - !Sub "arn:${AWS::Partition}:bedrock:*:*:inference-profile/*"
+              # Application inference profiles (custom, per-account)
+              - !Sub "arn:${AWS::Partition}:bedrock:*:*:application-inference-profile/*"
+              # Foundation model base ARNs (required for cross-region profile resolution)
+              - !Sub "arn:${AWS::Partition}:bedrock:*::foundation-model/*"
+
+          - Sid: AllowMarketplaceSubscriptionViaBedrock
+            Effect: Allow
+            # Required for the initial model access registration flow.
+            # The Condition restricts this to calls that originate from
+            # Bedrock (not direct marketplace calls).
+            Action:
+              - aws-marketplace:ViewSubscriptions
+              - aws-marketplace:Subscribe
+            Resource: "*"
+            Condition:
+              StringEquals:
+                aws:CalledViaLast: bedrock.amazonaws.com
+
+          - Sid: AllowBedrockModelAccessCheck
+            Effect: Allow
+            # Allows Claude Code startup checks to verify which models are
+            # available. Used by the /setup-bedrock wizard and at launch.
+            Action:
+              - bedrock:GetModelInvocationLoggingConfiguration
+            Resource: "*"
+
+      Tags:
+        - Key: ManagedBy
+          Value: CloudFormation
+        - Key: StackName
+          Value: !Ref AWS::StackName
+        - Key: Purpose
+          Value: ClaudeCodeBedrock
+        - Key: Environment
+          Value: !Ref EnvironmentTag
+        - Key: Team
+          Value: !Ref TeamTag
+
+  # ---------------------------------------------------------------------------
+  # IAM Identity Center Assignment (Conditional)
+  #
+  # Attaches the Permission Set to a User or Group in the target account.
+  # This is the step that actually grants access.
+  #
+  # You can skip this and create assignments manually in the console, or
+  # create multiple assignments by running the template multiple times with
+  # different PrincipalId values (using nested stacks or separate deploys).
+  # ---------------------------------------------------------------------------
+  BedrockPermissionSetAssignment:
+    Type: AWS::SSO::Assignment
+    Condition: AssignmentIsValid
+    Properties:
+      InstanceArn: !Ref IdentityCenterInstanceArn
+      PermissionSetArn: !GetAtt BedrockPermissionSet.PermissionSetArn
+      # The AWS account where users will be able to invoke Bedrock
+      TargetId: !Ref TargetAccountId
+      TargetType: AWS_ACCOUNT
+      PrincipalType: !Ref PrincipalType
+      PrincipalId: !Ref PrincipalId
+
+Outputs:
+
+  # ---------------------------------------------------------------------------
+  # Primary outputs — use these when configuring ~/.aws/config on Mac
+  # ---------------------------------------------------------------------------
+  PermissionSetArn:
+    Description: >
+      ARN of the created Identity Center Permission Set.
+      Attach this to additional users or groups in the Identity Center console
+      under: AWS accounts → (select account) → Assign users or groups.
+    Value: !GetAtt BedrockPermissionSet.PermissionSetArn
+    Export:
+      Name: !Sub "${AWS::StackName}-PermissionSetArn"
+
+  PermissionSetName:
+    Description: >
+      The permission set name. This is the value to use as sso_role_name
+      in ~/.aws/config.
+    Value: !Ref PermissionSetName
+    Export:
+      Name: !Sub "${AWS::StackName}-PermissionSetName"
+
+  # ---------------------------------------------------------------------------
+  # AWS Config File Block
+  #
+  # Copy-paste this block directly into ~/.aws/config on developer Macs.
+  # Replace the placeholder values with the actual values from your environment.
+  # ---------------------------------------------------------------------------
+  AwsConfigFileBlock:
+    Description: >
+      Paste this block into ~/.aws/config on each developer's Mac.
+      Replace placeholder values with the actual SsoStartUrl, SsoRegion,
+      TargetAccountId, and BedrockRegion from your environment.
+    Value: !Sub |
+      [profile claude-bedrock]
+      sso_session = corp-sso
+      sso_account_id = ${TargetAccountId}
+      sso_role_name = ${PermissionSetName}
+      region = ${BedrockRegion}
+      output = json
+
+      [sso-session corp-sso]
+      sso_start_url = ${SsoStartUrl}
+      sso_region = ${SsoRegion}
+      sso_registration_scopes = sso:account:access
+
+  # ---------------------------------------------------------------------------
+  # Claude Code Settings Block
+  #
+  # Copy-paste this into the Claude Code user settings file on Mac:
+  #   ~/Library/Application Support/Claude/claude_code_settings.json
+  # ---------------------------------------------------------------------------
+  ClaudeCodeSettingsBlock:
+    Description: >
+      Paste this into ~/Library/Application Support/Claude/claude_code_settings.json
+      on each developer's Mac. Adjust model IDs as needed.
+    Value: !Sub |
+      {
+        "awsAuthRefresh": "aws sso login --profile claude-bedrock",
+        "env": {
+          "CLAUDE_CODE_USE_BEDROCK": "1",
+          "AWS_PROFILE": "claude-bedrock",
+          "AWS_REGION": "${BedrockRegion}",
+          "ANTHROPIC_DEFAULT_SONNET_MODEL": "us.anthropic.claude-sonnet-4-6",
+          "ANTHROPIC_DEFAULT_OPUS_MODEL": "us.anthropic.claude-opus-4-8",
+          "ANTHROPIC_DEFAULT_HAIKU_MODEL": "us.anthropic.claude-haiku-4-5-20251001-v1:0"
+        }
+      }
+
+  # ---------------------------------------------------------------------------
+  # In-App SSO Configuration (alternative for users without AWS CLI)
+  # ---------------------------------------------------------------------------
+  InAppSsoConfigValues:
+    Description: >
+      Use these values if configuring Claude Code via the in-app SSO path
+      (Developer → Configure third-party inference → Bedrock).
+      No AWS CLI required for this path.
+    Value: !Sub |
+      inferenceProvider: bedrock
+      inferenceBedrockRegion: ${BedrockRegion}
+      inferenceBedrockSsoStartUrl: ${SsoStartUrl}
+      inferenceBedrockSsoRegion: ${SsoRegion}
+      inferenceBedrockSsoAccountId: ${TargetAccountId}
+      inferenceBedrockSsoRoleName: ${PermissionSetName}
+      inferenceModels: ["us.anthropic.claude-sonnet-4-6", "us.anthropic.claude-opus-4-8"]
+
+  # ---------------------------------------------------------------------------
+  # Quick-start verification commands
+  # ---------------------------------------------------------------------------
+  VerificationCommands:
+    Description: >
+      Run these commands on the Mac after configuring ~/.aws/config to verify
+      the setup is working correctly before opening Claude Code.
+    Value: !Sub |
+      # 1. Authenticate with Identity Center
+      aws sso login --profile claude-bedrock
+
+      # 2. Verify identity (should show AWSReservedSSO_${PermissionSetName}_* ARN)
+      aws sts get-caller-identity --profile claude-bedrock
+
+      # 3. List available Claude inference profiles
+      aws bedrock list-inference-profiles \
+        --profile claude-bedrock \
+        --region ${BedrockRegion} \
+        --query 'inferenceProfileSummaries[?contains(inferenceProfileId, `anthropic.claude`)].[inferenceProfileId,status]' \
+        --output table
+
+      # 4. Test a live Bedrock invocation (writes response to /tmp/bedrock-test.json)
+      aws bedrock-runtime invoke-model \
+        --profile claude-bedrock \
+        --region ${BedrockRegion} \
+        --model-id us.anthropic.claude-sonnet-4-6 \
+        --body '{"anthropic_version":"bedrock-2023-05-31","max_tokens":50,"messages":[{"role":"user","content":"Reply with: BEDROCK OK"}]}' \
+        --cli-binary-format raw-in-base64-out \
+        /tmp/bedrock-test.json && cat /tmp/bedrock-test.json
+
+  # ---------------------------------------------------------------------------
+  # Stack metadata
+  # ---------------------------------------------------------------------------
+  StackDeployedAt:
+    Description: CloudFormation stack name and region for reference
+    Value: !Sub "${AWS::StackName} deployed in ${AWS::Region}"
+
+  AssignmentCreated:
+    Description: Whether a Permission Set Assignment was created by this stack
+    Value: !If [AssignmentIsValid, "YES — check Identity Center console for propagation (1-2 min)", "NO — assign users/groups manually in the Identity Center console"]
