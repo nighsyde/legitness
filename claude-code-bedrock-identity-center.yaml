@@ -22,7 +22,12 @@ Metadata:
           - BedrockRegion
           - SessionDurationHours
       - Label:
-          default: "Permission Set Assignment (Optional)"
+          default: "Bedrock Access Group Assignment (Optional — Recommended)"
+        Parameters:
+          - BedrockGroupId
+          - BedrockGroupName
+      - Label:
+          default: "Single User / Custom Principal Assignment (Optional)"
         Parameters:
           - CreateAssignment
           - PrincipalType
@@ -47,8 +52,12 @@ Metadata:
         default: "Bedrock Region"
       SessionDurationHours:
         default: "Permission Set Session Duration (hours)"
+      BedrockGroupId:
+        default: "Bedrock Access Group ID (Identity Center Group UUID)"
+      BedrockGroupName:
+        default: "Bedrock Access Group Name (display label only)"
       CreateAssignment:
-        default: "Create User/Group Assignment?"
+        default: "Create Single User/Group Assignment?"
       PrincipalType:
         default: "Principal Type (USER or GROUP)"
       PrincipalId:
@@ -155,6 +164,30 @@ Parameters:
     MaxValue: 12
     ConstraintDescription: "Must be between 1 and 12 hours"
 
+  BedrockGroupId:
+    Type: String
+    Description: >
+      Optional. The IAM Identity Center Group ID (UUID) of the group whose
+      members should have Claude Code Bedrock access.
+      When supplied, the template creates an AWS::SSO::Assignment that
+      attaches the ClaudeCodeBedrockAccess permission set to this group in
+      TargetAccountId — no extra toggles required.
+      Find the Group ID at:
+        IAM Identity Center → Groups → (select group) → Group ID
+      Format: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+      Leave blank to skip automatic group assignment (you can assign groups
+      manually in the Identity Center console at any time).
+    Default: ""
+
+  BedrockGroupName:
+    Type: String
+    Description: >
+      Optional display label for the group (e.g. "claude-code-developers").
+      This value is used only in stack Outputs and tags to make the
+      assignment easier to identify — it is NOT looked up in Identity Center.
+      Leave blank if BedrockGroupId is also blank.
+    Default: ""
+
   PermissionSetName:
     Type: String
     Description: >
@@ -214,6 +247,12 @@ Parameters:
     Default: "engineering"
 
 Conditions:
+
+  # True when a BedrockGroupId UUID was provided — triggers the group assignment
+  HasBedrockGroup: !Not [!Equals [!Ref BedrockGroupId, ""]]
+
+  # True when BedrockGroupName was provided alongside BedrockGroupId
+  HasBedrockGroupName: !Not [!Equals [!Ref BedrockGroupName, ""]]
 
   ShouldCreateAssignment: !Equals [!Ref CreateAssignment, "true"]
 
@@ -300,14 +339,42 @@ Resources:
           Value: !Ref TeamTag
 
   # ---------------------------------------------------------------------------
-  # IAM Identity Center Assignment (Conditional)
+  # Bedrock Access Group Assignment (Conditional — preferred path)
   #
-  # Attaches the Permission Set to a User or Group in the target account.
-  # This is the step that actually grants access.
+  # Created automatically when BedrockGroupId is provided.
+  # Assigns the ClaudeCodeBedrockAccess permission set to the specified
+  # Identity Center group in TargetAccountId. All group members immediately
+  # gain the ability to authenticate with `aws sso login` and invoke Bedrock
+  # through Claude Code. New users added to the group inherit access within
+  # a few minutes (Identity Center propagation time).
   #
-  # You can skip this and create assignments manually in the console, or
-  # create multiple assignments by running the template multiple times with
-  # different PrincipalId values (using nested stacks or separate deploys).
+  # This is the recommended operational model:
+  #   - Create one "claude-code-developers" group in Identity Center.
+  #   - Add/remove individual users via the Identity Center Groups console.
+  #   - The CloudFormation stack controls what that group can DO; the group
+  #     membership controls WHO can do it. The two concerns stay separate.
+  # ---------------------------------------------------------------------------
+  BedrockGroupAssignment:
+    Type: AWS::SSO::Assignment
+    Condition: HasBedrockGroup
+    Properties:
+      InstanceArn: !Ref IdentityCenterInstanceArn
+      PermissionSetArn: !GetAtt BedrockPermissionSet.PermissionSetArn
+      TargetId: !Ref TargetAccountId
+      TargetType: AWS_ACCOUNT
+      PrincipalType: GROUP
+      PrincipalId: !Ref BedrockGroupId
+
+  # ---------------------------------------------------------------------------
+  # Single User / Custom Principal Assignment (Conditional)
+  #
+  # Legacy / escape-hatch path. Use BedrockGroupId above for day-to-day
+  # operations; use this only when you need to assign a single user or a
+  # specific non-Bedrock group without touching the group membership model.
+  #
+  # Set CreateAssignment=true, PrincipalType=USER|GROUP, and PrincipalId to
+  # the Identity Center UUID. Both assignments (group + single principal) can
+  # coexist in the same stack deployment.
   # ---------------------------------------------------------------------------
   BedrockPermissionSetAssignment:
     Type: AWS::SSO::Assignment
@@ -315,7 +382,6 @@ Resources:
     Properties:
       InstanceArn: !Ref IdentityCenterInstanceArn
       PermissionSetArn: !GetAtt BedrockPermissionSet.PermissionSetArn
-      # The AWS account where users will be able to invoke Bedrock
       TargetId: !Ref TargetAccountId
       TargetType: AWS_ACCOUNT
       PrincipalType: !Ref PrincipalType
@@ -444,6 +510,21 @@ Outputs:
     Description: CloudFormation stack name and region for reference
     Value: !Sub "${AWS::StackName} deployed in ${AWS::Region}"
 
+  BedrockGroupAssignmentStatus:
+    Description: >
+      Whether the Bedrock Access Group assignment was created.
+      Provide BedrockGroupId to enable automatic group-based access.
+    Value: !If
+      - HasBedrockGroup
+      - !Sub
+        - "YES — group ${Label} (${BedrockGroupId}) assigned to permission set ${PermissionSetName} in account ${TargetAccountId}. Members can now run: aws sso login --profile claude-bedrock"
+        - Label: !If [HasBedrockGroupName, !Ref BedrockGroupName, "unnamed"]
+      - "NO — supply BedrockGroupId to automatically assign a group, or assign manually in the Identity Center console"
+    Export:
+      Name: !Sub "${AWS::StackName}-BedrockGroupAssignmentStatus"
+
   AssignmentCreated:
-    Description: Whether a Permission Set Assignment was created by this stack
-    Value: !If [AssignmentIsValid, "YES — check Identity Center console for propagation (1-2 min)", "NO — assign users/groups manually in the Identity Center console"]
+    Description: >
+      Whether the single-principal (user or custom group) assignment was
+      created via the CreateAssignment / PrincipalId parameters.
+    Value: !If [AssignmentIsValid, "YES — check Identity Center console for propagation (1-2 min)", "NO — assign users/groups manually in the Identity Center console or use the BedrockGroupId parameter"]

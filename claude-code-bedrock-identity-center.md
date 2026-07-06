@@ -159,17 +159,45 @@ Before starting, confirm the following:
 > - `bedrock:ListFoundationModels` — supports model discovery at startup.
 > - `aws-marketplace:Subscribe` (scoped to Bedrock) — required for initial model access registration.
 
-### Step 3 — Assign the Permission Set to Your User
+### Step 3 — Create a Bedrock Access Group in Identity Center (Recommended)
+
+Using a group as the access control boundary keeps permissions management clean: the CloudFormation stack controls *what* members can do; group membership controls *who* can do it.
+
+1. Open **IAM Identity Center** → **Groups**.
+2. Click **Create group**.
+3. Set **Group name** to `claude-code-developers` (or your naming convention).
+4. Optionally add a description: `Members have Claude Code Bedrock access`.
+5. Click **Create group**.
+6. Note the **Group ID** (UUID format) shown on the group's detail page — you will need this for the CloudFormation template parameter `BedrockGroupId` and for Step 3b.
+
+### Step 3b — Assign the Permission Set to the Group
+
+**Option A — via the CloudFormation template (recommended):**
+
+Supply `BedrockGroupId` and `BedrockGroupName` when deploying the template. The stack automatically creates the `AWS::SSO::Assignment`. See the CloudFormation section below.
+
+**Option B — manual console assignment:**
 
 1. In IAM Identity Center, go to **AWS accounts**.
 2. Select the checkbox next to your **target account** (where Bedrock is enabled).
 3. Click **Assign users or groups**.
-4. On the **Users** tab, find your Identity Center user (or switch to **Groups** and select your developer group).
+4. Switch to the **Groups** tab and select `claude-code-developers`.
 5. Click **Next**.
 6. Select **ClaudeCodeBedrockAccess** from the permission sets list.
 7. Click **Submit**.
 
 Wait 1–2 minutes for provisioning to complete.
+
+### Step 3c — Add Individual Users to the Group
+
+Now and whenever onboarding a new developer:
+
+1. In IAM Identity Center, go to **Groups** → `claude-code-developers`.
+2. Click **Add users**.
+3. Search for and select the user(s) to onboard.
+4. Click **Add users**.
+
+The user gains Bedrock access within 1–2 minutes (Identity Center propagation time) — no stack redeployment required.
 
 ### Step 4 — Record Your Identity Center Values
 
@@ -182,6 +210,52 @@ You will need these values when configuring the Mac:
 | **Account ID** | AWS Console → top-right account menu | `123456789012` |
 | **Permission set name** | IAM Identity Center → Permission sets | `ClaudeCodeBedrockAccess` |
 | **Bedrock Region** | Where you enabled models | `us-east-1` or `us-west-2` |
+| **Group ID** | IAM Identity Center → Groups → (select group) → Group ID | `a1b2c3d4-e5f6-7890-abcd-ef1234567890` |
+
+### Step 4b — Deploy the CloudFormation Template
+
+The `claude-code-bedrock-identity-center.yaml` template automates Steps 2 and 3b. Run this once per AWS account you want to onboard. Supply the values recorded in Step 4 plus the `BedrockGroupId` from Step 3.
+
+```bash
+aws cloudformation deploy \
+  --template-file claude-code-bedrock-identity-center.yaml \
+  --stack-name claude-code-bedrock-idc \
+  --capabilities CAPABILITY_NAMED_IAM \
+  --region us-east-1 \
+  --parameter-overrides \
+      IdentityCenterInstanceArn="arn:aws:sso:::instance/ssoins-XXXXXXXXXXXXXXXXX" \
+      SsoStartUrl="https://d-1234567890.awsapps.com/start" \
+      SsoRegion="us-east-1" \
+      TargetAccountId="123456789012" \
+      BedrockRegion="us-east-1" \
+      BedrockGroupId="a1b2c3d4-e5f6-7890-abcd-ef1234567890" \
+      BedrockGroupName="claude-code-developers"
+```
+
+**Key parameters:**
+
+| Parameter | Required | Description |
+|---|---|---|
+| `IdentityCenterInstanceArn` | Yes | Instance ARN from Identity Center → Settings |
+| `SsoStartUrl` | Yes | Access portal URL (`https://d-*.awsapps.com/start`) |
+| `SsoRegion` | Yes | Identity Center home region |
+| `TargetAccountId` | Yes | 12-digit account ID where Bedrock is invoked |
+| `BedrockRegion` | Yes | Region where models are enabled |
+| `BedrockGroupId` | Optional | Identity Center Group UUID — creates `AWS::SSO::Assignment` automatically |
+| `BedrockGroupName` | Optional | Human-readable label for outputs and tags (not looked up in Identity Center) |
+| `SessionDurationHours` | Optional | Session length 1–12 hrs (default: 8) |
+| `PermissionSetName` | Optional | Permission set name (default: `ClaudeCodeBedrockAccess`) |
+
+After deployment, retrieve the ready-to-paste config blocks:
+
+```bash
+aws cloudformation describe-stacks \
+  --stack-name claude-code-bedrock-idc \
+  --query 'Stacks[0].Outputs' \
+  --output table
+```
+
+The `AwsConfigFileBlock` output is your `~/.aws/config` stanza. The `ClaudeCodeSettingsBlock` output is your `claude_code_settings.json`. Copy both directly to developer machines.
 
 ---
 
