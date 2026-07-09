@@ -1,0 +1,337 @@
+{
+  "checked_at": "2026-07-09T21:38:28.116453Z",
+  "total": 82,
+  "available": [
+    {
+      "name": "NXDOMAIN",
+      "url": "https://robertsspaceindustries.com/en/citizens/NXDOMAIN"
+    },
+    {
+      "name": "SERVFAIL",
+      "url": "https://robertsspaceindustries.com/en/citizens/SERVFAIL"
+    },
+    {
+      "name": "FORMERR",
+      "url": "https://robertsspaceindustries.com/en/citizens/FORMERR"
+    },
+    {
+      "name": "NOTIMP",
+      "url": "https://robertsspaceindustries.com/en/citizens/NOTIMP"
+    },
+    {
+      "name": "NXRRSET",
+      "url": "https://robertsspaceindustries.com/en/citizens/NXRRSET"
+    },
+    {
+      "name": "Http410",
+      "url": "https://robertsspaceindustries.com/en/citizens/Http410"
+    },
+    {
+      "name": "HttpGone",
+      "url": "https://robertsspaceindustries.com/en/citizens/HttpGone"
+    },
+    {
+      "name": "Http408",
+      "url": "https://robertsspaceindustries.com/en/citizens/Http408"
+    },
+    {
+      "name": "Http409",
+      "url": "https://robertsspaceindustries.com/en/citizens/Http409"
+    },
+    {
+      "name": "Http502",
+      "url": "https://robertsspaceindustries.com/en/citizens/Http502"
+    },
+    {
+      "name": "Http503",
+      "url": "https://robertsspaceindustries.com/en/citizens/Http503"
+    },
+    {
+      "name": "Http504",
+      "url": "https://robertsspaceindustries.com/en/citizens/Http504"
+    },
+    {
+      "name": "GatewayTimeout",
+      "url": "https://robertsspaceindustries.com/en/citizens/GatewayTimeout"
+    },
+    {
+      "name": "Http304",
+      "url": "https://robertsspaceindustries.com/en/citizens/Http304"
+    },
+    {
+      "name": "Http206",
+      "url": "https://robertsspaceindustries.com/en/citizens/Http206"
+    },
+    {
+      "name": "Http101",
+      "url": "https://robertsspaceindustries.com/en/citizens/Http101"
+    },
+    {
+      "name": "Http451",
+      "url": "https://robertsspaceindustries.com/en/citizens/Http451"
+    },
+    {
+      "name": "SelfSigned",
+      "url": "https://robertsspaceindustries.com/en/citizens/SelfSigned"
+    },
+    {
+      "name": "CertExpired",
+      "url": "https://robertsspaceindustries.com/en/citizens/CertExpired"
+    },
+    {
+      "name": "HandshakeFail",
+      "url": "https://robertsspaceindustries.com/en/citizens/HandshakeFail"
+    },
+    {
+      "name": "CertRevoked",
+      "url": "https://robertsspaceindustries.com/en/citizens/CertRevoked"
+    },
+    {
+      "name": "CertInvalid",
+      "url": "https://robertsspaceindustries.com/en/citizens/CertInvalid"
+    },
+    {
+      "name": "UnknownCA",
+      "url": "https://robertsspaceindustries.com/en/citizens/UnknownCA"
+    },
+    {
+      "name": "BadCert",
+      "url": "https://robertsspaceindustries.com/en/citizens/BadCert"
+    },
+    {
+      "name": "CipherMismatch",
+      "url": "https://robertsspaceindustries.com/en/citizens/CipherMismatch"
+    },
+    {
+      "name": "SYNFlood",
+      "url": "https://robertsspaceindustries.com/en/citizens/SYNFlood"
+    },
+    {
+      "name": "ARPSpoof",
+      "url": "https://robertsspaceindustries.com/en/citizens/ARPSpoof"
+    },
+    {
+      "name": "ARPPoison",
+      "url": "https://robertsspaceindustries.com/en/citizens/ARPPoison"
+    },
+    {
+      "name": "TTLExpired",
+      "url": "https://robertsspaceindustries.com/en/citizens/TTLExpired"
+    },
+    {
+      "name": "PortClosed",
+      "url": "https://robertsspaceindustries.com/en/citizens/PortClosed"
+    },
+    {
+      "name": "HostUnreachable",
+      "url": "https://robertsspaceindustries.com/en/citizens/HostUnreachable"
+    },
+    {
+      "name": "NetUnreachable",
+      "url": "https://robertsspaceindustries.com/en/citizens/NetUnreachable"
+    },
+    {
+      "name": "RSTPacket",
+      "url": "https://robertsspaceindustries.com/en/citizens/RSTPacket"
+    },
+    {
+      "name": "FINWait",
+      "url": "https://robertsspaceindustries.com/en/citizens/FINWait"
+    },
+    {
+      "name": "TimeWait",
+      "url": "https://robertsspaceindustries.com/en/citizens/TimeWait"
+    },
+    {
+      "name": "CloseWait",
+      "url": "https://robertsspaceindustries.com/en/citizens/CloseWait"
+    },
+    {
+      "name": "HalfOpen",
+      "url": "https://robertsspaceindustries.com/en/citizens/HalfOpen"
+    },
+    {
+      "name": "ThrowNew",
+      "url": "https://robertsspaceindustries.com/en/citizens/ThrowNew"
+    },
+    {
+      "name": "BadCast",
+      "url": "https://robertsspaceindustries.com/en/citizens/BadCast"
+    },
+    {
+      "name": "BadTypeid",
+      "url": "https://robertsspaceindustries.com/en/citizens/BadTypeid"
+    },
+    {
+      "name": "BadWeakPtr",
+      "url": "https://robertsspaceindustries.com/en/citizens/BadWeakPtr"
+    },
+    {
+      "name": "Rethrow",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rethrow"
+    },
+    {
+      "name": "ExceptionPtr",
+      "url": "https://robertsspaceindustries.com/en/citizens/ExceptionPtr"
+    },
+    {
+      "name": "AssertFail",
+      "url": "https://robertsspaceindustries.com/en/citizens/AssertFail"
+    },
+    {
+      "name": "NullPtrEx",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullPtrEx"
+    },
+    {
+      "name": "ArrayBounds",
+      "url": "https://robertsspaceindustries.com/en/citizens/ArrayBounds"
+    },
+    {
+      "name": "ClassCast",
+      "url": "https://robertsspaceindustries.com/en/citizens/ClassCast"
+    },
+    {
+      "name": "ConcurrentMod",
+      "url": "https://robertsspaceindustries.com/en/citizens/ConcurrentMod"
+    },
+    {
+      "name": "StackOverEx",
+      "url": "https://robertsspaceindustries.com/en/citizens/StackOverEx"
+    },
+    {
+      "name": "OutOfMemEx",
+      "url": "https://robertsspaceindustries.com/en/citizens/OutOfMemEx"
+    },
+    {
+      "name": "IllegalState",
+      "url": "https://robertsspaceindustries.com/en/citizens/IllegalState"
+    },
+    {
+      "name": "UnsupOp",
+      "url": "https://robertsspaceindustries.com/en/citizens/UnsupOp"
+    },
+    {
+      "name": "AttributeErr",
+      "url": "https://robertsspaceindustries.com/en/citizens/AttributeErr"
+    },
+    {
+      "name": "KeyError",
+      "url": "https://robertsspaceindustries.com/en/citizens/KeyError"
+    },
+    {
+      "name": "IndexError",
+      "url": "https://robertsspaceindustries.com/en/citizens/IndexError"
+    },
+    {
+      "name": "RecursionErr",
+      "url": "https://robertsspaceindustries.com/en/citizens/RecursionErr"
+    },
+    {
+      "name": "ReferenceErr",
+      "url": "https://robertsspaceindustries.com/en/citizens/ReferenceErr"
+    },
+    {
+      "name": "RangeErr",
+      "url": "https://robertsspaceindustries.com/en/citizens/RangeErr"
+    },
+    {
+      "name": "UncaughtEx",
+      "url": "https://robertsspaceindustries.com/en/citizens/UncaughtEx"
+    },
+    {
+      "name": "GracefulFail",
+      "url": "https://robertsspaceindustries.com/en/citizens/GracefulFail"
+    },
+    {
+      "name": "FailFast",
+      "url": "https://robertsspaceindustries.com/en/citizens/FailFast"
+    },
+    {
+      "name": "ErrorFirst",
+      "url": "https://robertsspaceindustries.com/en/citizens/ErrorFirst"
+    },
+    {
+      "name": "Idempotent",
+      "url": "https://robertsspaceindustries.com/en/citizens/Idempotent"
+    },
+    {
+      "name": "NonDeterministic",
+      "url": "https://robertsspaceindustries.com/en/citizens/NonDeterministic"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "REFUSED",
+      "url": "https://robertsspaceindustries.com/en/citizens/REFUSED"
+    },
+    {
+      "name": "Error410",
+      "url": "https://robertsspaceindustries.com/en/citizens/Error410"
+    },
+    {
+      "name": "BadGateway",
+      "url": "https://robertsspaceindustries.com/en/citizens/BadGateway"
+    },
+    {
+      "name": "SslError",
+      "url": "https://robertsspaceindustries.com/en/citizens/SslError"
+    },
+    {
+      "name": "PacketLoss",
+      "url": "https://robertsspaceindustries.com/en/citizens/PacketLoss"
+    },
+    {
+      "name": "NoExcept",
+      "url": "https://robertsspaceindustries.com/en/citizens/NoExcept"
+    },
+    {
+      "name": "CatchAll",
+      "url": "https://robertsspaceindustries.com/en/citizens/CatchAll"
+    },
+    {
+      "name": "Unhandled",
+      "url": "https://robertsspaceindustries.com/en/citizens/Unhandled"
+    },
+    {
+      "name": "TryCatch",
+      "url": "https://robertsspaceindustries.com/en/citizens/TryCatch"
+    },
+    {
+      "name": "Terminate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Terminate"
+    },
+    {
+      "name": "Abort",
+      "url": "https://robertsspaceindustries.com/en/citizens/Abort"
+    },
+    {
+      "name": "NullPointerEx",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullPointerEx"
+    },
+    {
+      "name": "NullRef",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullRef"
+    },
+    {
+      "name": "NPException",
+      "url": "https://robertsspaceindustries.com/en/citizens/NPException"
+    },
+    {
+      "name": "TypeError",
+      "url": "https://robertsspaceindustries.com/en/citizens/TypeError"
+    },
+    {
+      "name": "SyntaxErr",
+      "url": "https://robertsspaceindustries.com/en/citizens/SyntaxErr"
+    },
+    {
+      "name": "FailSafe",
+      "url": "https://robertsspaceindustries.com/en/citizens/FailSafe"
+    },
+    {
+      "name": "Deterministic",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deterministic"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,178 @@
+Checking 82 network errors / C++ / Java / DNS handles...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/82]   404  AVAILABLE   NXDOMAIN                   https://robertsspaceindustries.com/en/citizens/NXDOMAIN
+[  2/82]   404  AVAILABLE   SERVFAIL                   https://robertsspaceindustries.com/en/citizens/SERVFAIL
+[  3/82]   200  TAKEN       REFUSED                    https://robertsspaceindustries.com/en/citizens/REFUSED
+[  4/82]   404  AVAILABLE   FORMERR                    https://robertsspaceindustries.com/en/citizens/FORMERR
+[  5/82]   404  AVAILABLE   NOTIMP                     https://robertsspaceindustries.com/en/citizens/NOTIMP
+[  6/82]   404  AVAILABLE   NXRRSET                    https://robertsspaceindustries.com/en/citizens/NXRRSET
+[  7/82]   404  AVAILABLE   Http410                    https://robertsspaceindustries.com/en/citizens/Http410
+[  8/82]   404  AVAILABLE   HttpGone                   https://robertsspaceindustries.com/en/citizens/HttpGone
+[  9/82]   200  TAKEN       Error410                   https://robertsspaceindustries.com/en/citizens/Error410
+[ 10/82]   404  AVAILABLE   Http408                    https://robertsspaceindustries.com/en/citizens/Http408
+[ 11/82]   404  AVAILABLE   Http409                    https://robertsspaceindustries.com/en/citizens/Http409
+[ 12/82]   404  AVAILABLE   Http502                    https://robertsspaceindustries.com/en/citizens/Http502
+[ 13/82]   404  AVAILABLE   Http503                    https://robertsspaceindustries.com/en/citizens/Http503
+[ 14/82]   404  AVAILABLE   Http504                    https://robertsspaceindustries.com/en/citizens/Http504
+[ 15/82]   200  TAKEN       BadGateway                 https://robertsspaceindustries.com/en/citizens/BadGateway
+[ 16/82]   404  AVAILABLE   GatewayTimeout             https://robertsspaceindustries.com/en/citizens/GatewayTimeout
+[ 17/82]   404  AVAILABLE   Http304                    https://robertsspaceindustries.com/en/citizens/Http304
+[ 18/82]   404  AVAILABLE   Http206                    https://robertsspaceindustries.com/en/citizens/Http206
+[ 19/82]   404  AVAILABLE   Http101                    https://robertsspaceindustries.com/en/citizens/Http101
+[ 20/82]   404  AVAILABLE   Http451                    https://robertsspaceindustries.com/en/citizens/Http451
+[ 21/82]   404  AVAILABLE   SelfSigned                 https://robertsspaceindustries.com/en/citizens/SelfSigned
+[ 22/82]   404  AVAILABLE   CertExpired                https://robertsspaceindustries.com/en/citizens/CertExpired
+[ 23/82]   404  AVAILABLE   HandshakeFail              https://robertsspaceindustries.com/en/citizens/HandshakeFail
+[ 24/82]   404  AVAILABLE   CertRevoked                https://robertsspaceindustries.com/en/citizens/CertRevoked
+[ 25/82]   404  AVAILABLE   CertInvalid                https://robertsspaceindustries.com/en/citizens/CertInvalid
+[ 26/82]   404  AVAILABLE   UnknownCA                  https://robertsspaceindustries.com/en/citizens/UnknownCA
+[ 27/82]   404  AVAILABLE   BadCert                    https://robertsspaceindustries.com/en/citizens/BadCert
+[ 28/82]   404  AVAILABLE   CipherMismatch             https://robertsspaceindustries.com/en/citizens/CipherMismatch
+[ 29/82]   200  TAKEN       SslError                   https://robertsspaceindustries.com/en/citizens/SslError
+[ 30/82]   404  AVAILABLE   SYNFlood                   https://robertsspaceindustries.com/en/citizens/SYNFlood
+[ 31/82]   404  AVAILABLE   ARPSpoof                   https://robertsspaceindustries.com/en/citizens/ARPSpoof
+[ 32/82]   404  AVAILABLE   ARPPoison                  https://robertsspaceindustries.com/en/citizens/ARPPoison
+[ 33/82]   404  AVAILABLE   TTLExpired                 https://robertsspaceindustries.com/en/citizens/TTLExpired
+[ 34/82]   404  AVAILABLE   PortClosed                 https://robertsspaceindustries.com/en/citizens/PortClosed
+[ 35/82]   404  AVAILABLE   HostUnreachable            https://robertsspaceindustries.com/en/citizens/HostUnreachable
+[ 36/82]   404  AVAILABLE   NetUnreachable             https://robertsspaceindustries.com/en/citizens/NetUnreachable
+[ 37/82]   200  TAKEN       PacketLoss                 https://robertsspaceindustries.com/en/citizens/PacketLoss
+[ 38/82]   404  AVAILABLE   RSTPacket                  https://robertsspaceindustries.com/en/citizens/RSTPacket
+[ 39/82]   404  AVAILABLE   FINWait                    https://robertsspaceindustries.com/en/citizens/FINWait
+[ 40/82]   404  AVAILABLE   TimeWait                   https://robertsspaceindustries.com/en/citizens/TimeWait
+[ 41/82]   404  AVAILABLE   CloseWait                  https://robertsspaceindustries.com/en/citizens/CloseWait
+[ 42/82]   404  AVAILABLE   HalfOpen                   https://robertsspaceindustries.com/en/citizens/HalfOpen
+[ 43/82]   200  TAKEN       NoExcept                   https://robertsspaceindustries.com/en/citizens/NoExcept
+[ 44/82]   200  TAKEN       CatchAll                   https://robertsspaceindustries.com/en/citizens/CatchAll
+[ 45/82]   404  AVAILABLE   ThrowNew                   https://robertsspaceindustries.com/en/citizens/ThrowNew
+[ 46/82]   200  TAKEN       Unhandled                  https://robertsspaceindustries.com/en/citizens/Unhandled
+[ 47/82]   200  TAKEN       TryCatch                   https://robertsspaceindustries.com/en/citizens/TryCatch
+[ 48/82]   404  AVAILABLE   BadCast                    https://robertsspaceindustries.com/en/citizens/BadCast
+[ 49/82]   404  AVAILABLE   BadTypeid                  https://robertsspaceindustries.com/en/citizens/BadTypeid
+[ 50/82]   404  AVAILABLE   BadWeakPtr                 https://robertsspaceindustries.com/en/citizens/BadWeakPtr
+[ 51/82]   404  AVAILABLE   Rethrow                    https://robertsspaceindustries.com/en/citizens/Rethrow
+[ 52/82]   404  AVAILABLE   ExceptionPtr               https://robertsspaceindustries.com/en/citizens/ExceptionPtr
+[ 53/82]   200  TAKEN       Terminate                  https://robertsspaceindustries.com/en/citizens/Terminate
+[ 54/82]   200  TAKEN       Abort                      https://robertsspaceindustries.com/en/citizens/Abort
+[ 55/82]   404  AVAILABLE   AssertFail                 https://robertsspaceindustries.com/en/citizens/AssertFail
+[ 56/82]   404  AVAILABLE   NullPtrEx                  https://robertsspaceindustries.com/en/citizens/NullPtrEx
+[ 57/82]   200  TAKEN       NullPointerEx              https://robertsspaceindustries.com/en/citizens/NullPointerEx
+[ 58/82]   200  TAKEN       NullRef                    https://robertsspaceindustries.com/en/citizens/NullRef
+[ 59/82]   200  TAKEN       NPException                https://robertsspaceindustries.com/en/citizens/NPException
+[ 60/82]   404  AVAILABLE   ArrayBounds                https://robertsspaceindustries.com/en/citizens/ArrayBounds
+[ 61/82]   404  AVAILABLE   ClassCast                  https://robertsspaceindustries.com/en/citizens/ClassCast
+[ 62/82]   404  AVAILABLE   ConcurrentMod              https://robertsspaceindustries.com/en/citizens/ConcurrentMod
+[ 63/82]   404  AVAILABLE   StackOverEx                https://robertsspaceindustries.com/en/citizens/StackOverEx
+[ 64/82]   404  AVAILABLE   OutOfMemEx                 https://robertsspaceindustries.com/en/citizens/OutOfMemEx
+[ 65/82]   404  AVAILABLE   IllegalState               https://robertsspaceindustries.com/en/citizens/IllegalState
+[ 66/82]   404  AVAILABLE   UnsupOp                    https://robertsspaceindustries.com/en/citizens/UnsupOp
+[ 67/82]   200  TAKEN       TypeError                  https://robertsspaceindustries.com/en/citizens/TypeError
+[ 68/82]   404  AVAILABLE   AttributeErr               https://robertsspaceindustries.com/en/citizens/AttributeErr
+[ 69/82]   404  AVAILABLE   KeyError                   https://robertsspaceindustries.com/en/citizens/KeyError
+[ 70/82]   404  AVAILABLE   IndexError                 https://robertsspaceindustries.com/en/citizens/IndexError
+[ 71/82]   404  AVAILABLE   RecursionErr               https://robertsspaceindustries.com/en/citizens/RecursionErr
+[ 72/82]   404  AVAILABLE   ReferenceErr               https://robertsspaceindustries.com/en/citizens/ReferenceErr
+[ 73/82]   200  TAKEN       SyntaxErr                  https://robertsspaceindustries.com/en/citizens/SyntaxErr
+[ 74/82]   404  AVAILABLE   RangeErr                   https://robertsspaceindustries.com/en/citizens/RangeErr
+[ 75/82]   404  AVAILABLE   UncaughtEx                 https://robertsspaceindustries.com/en/citizens/UncaughtEx
+[ 76/82]   404  AVAILABLE   GracefulFail               https://robertsspaceindustries.com/en/citizens/GracefulFail
+[ 77/82]   404  AVAILABLE   FailFast                   https://robertsspaceindustries.com/en/citizens/FailFast
+[ 78/82]   200  TAKEN       FailSafe                   https://robertsspaceindustries.com/en/citizens/FailSafe
+[ 79/82]   404  AVAILABLE   ErrorFirst                 https://robertsspaceindustries.com/en/citizens/ErrorFirst
+[ 80/82]   404  AVAILABLE   Idempotent                 https://robertsspaceindustries.com/en/citizens/Idempotent
+[ 81/82]   200  TAKEN       Deterministic              https://robertsspaceindustries.com/en/citizens/Deterministic
+[ 82/82]   404  AVAILABLE   NonDeterministic           https://robertsspaceindustries.com/en/citizens/NonDeterministic
+
+==============================================================================================================
+
+✅  AVAILABLE (64):
+   NXDOMAIN                        https://robertsspaceindustries.com/en/citizens/NXDOMAIN
+   SERVFAIL                        https://robertsspaceindustries.com/en/citizens/SERVFAIL
+   FORMERR                         https://robertsspaceindustries.com/en/citizens/FORMERR
+   NOTIMP                          https://robertsspaceindustries.com/en/citizens/NOTIMP
+   NXRRSET                         https://robertsspaceindustries.com/en/citizens/NXRRSET
+   Http410                         https://robertsspaceindustries.com/en/citizens/Http410
+   HttpGone                        https://robertsspaceindustries.com/en/citizens/HttpGone
+   Http408                         https://robertsspaceindustries.com/en/citizens/Http408
+   Http409                         https://robertsspaceindustries.com/en/citizens/Http409
+   Http502                         https://robertsspaceindustries.com/en/citizens/Http502
+   Http503                         https://robertsspaceindustries.com/en/citizens/Http503
+   Http504                         https://robertsspaceindustries.com/en/citizens/Http504
+   GatewayTimeout                  https://robertsspaceindustries.com/en/citizens/GatewayTimeout
+   Http304                         https://robertsspaceindustries.com/en/citizens/Http304
+   Http206                         https://robertsspaceindustries.com/en/citizens/Http206
+   Http101                         https://robertsspaceindustries.com/en/citizens/Http101
+   Http451                         https://robertsspaceindustries.com/en/citizens/Http451
+   SelfSigned                      https://robertsspaceindustries.com/en/citizens/SelfSigned
+   CertExpired                     https://robertsspaceindustries.com/en/citizens/CertExpired
+   HandshakeFail                   https://robertsspaceindustries.com/en/citizens/HandshakeFail
+   CertRevoked                     https://robertsspaceindustries.com/en/citizens/CertRevoked
+   CertInvalid                     https://robertsspaceindustries.com/en/citizens/CertInvalid
+   UnknownCA                       https://robertsspaceindustries.com/en/citizens/UnknownCA
+   BadCert                         https://robertsspaceindustries.com/en/citizens/BadCert
+   CipherMismatch                  https://robertsspaceindustries.com/en/citizens/CipherMismatch
+   SYNFlood                        https://robertsspaceindustries.com/en/citizens/SYNFlood
+   ARPSpoof                        https://robertsspaceindustries.com/en/citizens/ARPSpoof
+   ARPPoison                       https://robertsspaceindustries.com/en/citizens/ARPPoison
+   TTLExpired                      https://robertsspaceindustries.com/en/citizens/TTLExpired
+   PortClosed                      https://robertsspaceindustries.com/en/citizens/PortClosed
+   HostUnreachable                 https://robertsspaceindustries.com/en/citizens/HostUnreachable
+   NetUnreachable                  https://robertsspaceindustries.com/en/citizens/NetUnreachable
+   RSTPacket                       https://robertsspaceindustries.com/en/citizens/RSTPacket
+   FINWait                         https://robertsspaceindustries.com/en/citizens/FINWait
+   TimeWait                        https://robertsspaceindustries.com/en/citizens/TimeWait
+   CloseWait                       https://robertsspaceindustries.com/en/citizens/CloseWait
+   HalfOpen                        https://robertsspaceindustries.com/en/citizens/HalfOpen
+   ThrowNew                        https://robertsspaceindustries.com/en/citizens/ThrowNew
+   BadCast                         https://robertsspaceindustries.com/en/citizens/BadCast
+   BadTypeid                       https://robertsspaceindustries.com/en/citizens/BadTypeid
+   BadWeakPtr                      https://robertsspaceindustries.com/en/citizens/BadWeakPtr
+   Rethrow                         https://robertsspaceindustries.com/en/citizens/Rethrow
+   ExceptionPtr                    https://robertsspaceindustries.com/en/citizens/ExceptionPtr
+   AssertFail                      https://robertsspaceindustries.com/en/citizens/AssertFail
+   NullPtrEx                       https://robertsspaceindustries.com/en/citizens/NullPtrEx
+   ArrayBounds                     https://robertsspaceindustries.com/en/citizens/ArrayBounds
+   ClassCast                       https://robertsspaceindustries.com/en/citizens/ClassCast
+   ConcurrentMod                   https://robertsspaceindustries.com/en/citizens/ConcurrentMod
+   StackOverEx                     https://robertsspaceindustries.com/en/citizens/StackOverEx
+   OutOfMemEx                      https://robertsspaceindustries.com/en/citizens/OutOfMemEx
+   IllegalState                    https://robertsspaceindustries.com/en/citizens/IllegalState
+   UnsupOp                         https://robertsspaceindustries.com/en/citizens/UnsupOp
+   AttributeErr                    https://robertsspaceindustries.com/en/citizens/AttributeErr
+   KeyError                        https://robertsspaceindustries.com/en/citizens/KeyError
+   IndexError                      https://robertsspaceindustries.com/en/citizens/IndexError
+   RecursionErr                    https://robertsspaceindustries.com/en/citizens/RecursionErr
+   ReferenceErr                    https://robertsspaceindustries.com/en/citizens/ReferenceErr
+   RangeErr                        https://robertsspaceindustries.com/en/citizens/RangeErr
+   UncaughtEx                      https://robertsspaceindustries.com/en/citizens/UncaughtEx
+   GracefulFail                    https://robertsspaceindustries.com/en/citizens/GracefulFail
+   FailFast                        https://robertsspaceindustries.com/en/citizens/FailFast
+   ErrorFirst                      https://robertsspaceindustries.com/en/citizens/ErrorFirst
+   Idempotent                      https://robertsspaceindustries.com/en/citizens/Idempotent
+   NonDeterministic                https://robertsspaceindustries.com/en/citizens/NonDeterministic
+
+❌  TAKEN (18):
+   REFUSED                         https://robertsspaceindustries.com/en/citizens/REFUSED
+   Error410                        https://robertsspaceindustries.com/en/citizens/Error410
+   BadGateway                      https://robertsspaceindustries.com/en/citizens/BadGateway
+   SslError                        https://robertsspaceindustries.com/en/citizens/SslError
+   PacketLoss                      https://robertsspaceindustries.com/en/citizens/PacketLoss
+   NoExcept                        https://robertsspaceindustries.com/en/citizens/NoExcept
+   CatchAll                        https://robertsspaceindustries.com/en/citizens/CatchAll
+   Unhandled                       https://robertsspaceindustries.com/en/citizens/Unhandled
+   TryCatch                        https://robertsspaceindustries.com/en/citizens/TryCatch
+   Terminate                       https://robertsspaceindustries.com/en/citizens/Terminate
+   Abort                           https://robertsspaceindustries.com/en/citizens/Abort
+   NullPointerEx                   https://robertsspaceindustries.com/en/citizens/NullPointerEx
+   NullRef                         https://robertsspaceindustries.com/en/citizens/NullRef
+   NPException                     https://robertsspaceindustries.com/en/citizens/NPException
+   TypeError                       https://robertsspaceindustries.com/en/citizens/TypeError
+   SyntaxErr                       https://robertsspaceindustries.com/en/citizens/SyntaxErr
+   FailSafe                        https://robertsspaceindustries.com/en/citizens/FailSafe
+   Deterministic                   https://robertsspaceindustries.com/en/citizens/Deterministic
+/workspace/check_rsi_handles_v30.py:203: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v30.json
