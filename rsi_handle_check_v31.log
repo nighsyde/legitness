@@ -1,0 +1,210 @@
+Checking 98 number-enhanced handles...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/98]   200  TAKEN       404                        https://robertsspaceindustries.com/en/citizens/404
+[  2/98]   200  TAKEN       418                        https://robertsspaceindustries.com/en/citizens/418
+[  3/98]   404  AVAILABLE   500                        https://robertsspaceindustries.com/en/citizens/500
+[  4/98]   200  TAKEN       403                        https://robertsspaceindustries.com/en/citizens/403
+[  5/98]   200  TAKEN       401                        https://robertsspaceindustries.com/en/citizens/401
+[  6/98]   200  TAKEN       301                        https://robertsspaceindustries.com/en/citizens/301
+[  7/98]   200  TAKEN       302                        https://robertsspaceindustries.com/en/citizens/302
+[  8/98]   200  TAKEN       503                        https://robertsspaceindustries.com/en/citizens/503
+[  9/98]   404  AVAILABLE   502                        https://robertsspaceindustries.com/en/citizens/502
+[ 10/98]   200  TAKEN       504                        https://robertsspaceindustries.com/en/citizens/504
+[ 11/98]   200  TAKEN       429                        https://robertsspaceindustries.com/en/citizens/429
+[ 12/98]   200  TAKEN       410                        https://robertsspaceindustries.com/en/citizens/410
+[ 13/98]   404  AVAILABLE   451                        https://robertsspaceindustries.com/en/citizens/451
+[ 14/98]   200  TAKEN       0xDEAD                     https://robertsspaceindustries.com/en/citizens/0xDEAD
+[ 15/98]   404  AVAILABLE   0xBEEF                     https://robertsspaceindustries.com/en/citizens/0xBEEF
+[ 16/98]   200  TAKEN       0xCAFE                     https://robertsspaceindustries.com/en/citizens/0xCAFE
+[ 17/98]   200  TAKEN       0xFACE                     https://robertsspaceindustries.com/en/citizens/0xFACE
+[ 18/98]   404  AVAILABLE   0xFEED                     https://robertsspaceindustries.com/en/citizens/0xFEED
+[ 19/98]   404  AVAILABLE   0xDEAF                     https://robertsspaceindustries.com/en/citizens/0xDEAF
+[ 20/98]   404  AVAILABLE   0xBEAD                     https://robertsspaceindustries.com/en/citizens/0xBEAD
+[ 21/98]   200  TAKEN       0xFF                       https://robertsspaceindustries.com/en/citizens/0xFF
+[ 22/98]   200  TAKEN       0x00                       https://robertsspaceindustries.com/en/citizens/0x00
+[ 23/98]   200  TAKEN       0x0                        https://robertsspaceindustries.com/en/citizens/0x0
+[ 24/98]   200  TAKEN       0x1337                     https://robertsspaceindustries.com/en/citizens/0x1337
+[ 25/98]   404  AVAILABLE   0xDEAD1                    https://robertsspaceindustries.com/en/citizens/0xDEAD1
+[ 26/98]   404  AVAILABLE   0xBAD                      https://robertsspaceindustries.com/en/citizens/0xBAD
+[ 27/98]   404  AVAILABLE   n0cl1p                     https://robertsspaceindustries.com/en/citizens/n0cl1p
+[ 28/98]   404  AVAILABLE   n0clip                     https://robertsspaceindustries.com/en/citizens/n0clip
+[ 29/98]   200  TAKEN       nocl1p                     https://robertsspaceindustries.com/en/citizens/nocl1p
+[ 30/98]   200  TAKEN       3xpl01t                    https://robertsspaceindustries.com/en/citizens/3xpl01t
+[ 31/98]   200  TAKEN       3xploit                    https://robertsspaceindustries.com/en/citizens/3xploit
+[ 32/98]   404  AVAILABLE   expl01t                    https://robertsspaceindustries.com/en/citizens/expl01t
+[ 33/98]   200  TAKEN       0wn3r                      https://robertsspaceindustries.com/en/citizens/0wn3r
+[ 34/98]   404  AVAILABLE   0wned                      https://robertsspaceindustries.com/en/citizens/0wned
+[ 35/98]   404  AVAILABLE   r00t3d                     https://robertsspaceindustries.com/en/citizens/r00t3d
+[ 36/98]   200  TAKEN       r00tkit                    https://robertsspaceindustries.com/en/citizens/r00tkit
+[ 37/98]   200  TAKEN       p0wn3d                     https://robertsspaceindustries.com/en/citizens/p0wn3d
+[ 38/98]   404  AVAILABLE   spl01t                     https://robertsspaceindustries.com/en/citizens/spl01t
+[ 39/98]   200  TAKEN       h4ck3d                     https://robertsspaceindustries.com/en/citizens/h4ck3d
+[ 40/98]   404  AVAILABLE   d3fac3d                    https://robertsspaceindustries.com/en/citizens/d3fac3d
+[ 41/98]   404  AVAILABLE   5hell                      https://robertsspaceindustries.com/en/citizens/5hell
+[ 42/98]   404  AVAILABLE   5h3ll                      https://robertsspaceindustries.com/en/citizens/5h3ll
+[ 43/98]   404  AVAILABLE   5h311                      https://robertsspaceindustries.com/en/citizens/5h311
+[ 44/98]   404  AVAILABLE   r3v3rse                    https://robertsspaceindustries.com/en/citizens/r3v3rse
+[ 45/98]   404  AVAILABLE   1nject                     https://robertsspaceindustries.com/en/citizens/1nject
+[ 46/98]   404  AVAILABLE   1njected                   https://robertsspaceindustries.com/en/citizens/1njected
+[ 47/98]   404  AVAILABLE   4ccess                     https://robertsspaceindustries.com/en/citizens/4ccess
+[ 48/98]   404  AVAILABLE   4cc3ss                     https://robertsspaceindustries.com/en/citizens/4cc3ss
+[ 49/98]   404  AVAILABLE   3xfil                      https://robertsspaceindustries.com/en/citizens/3xfil
+[ 50/98]   404  AVAILABLE   p4yload                    https://robertsspaceindustries.com/en/citizens/p4yload
+[ 51/98]   404  AVAILABLE   null0day                   https://robertsspaceindustries.com/en/citizens/null0day
+[ 52/98]   404  AVAILABLE   0dayh4x                    https://robertsspaceindustries.com/en/citizens/0dayh4x
+[ 53/98]   200  TAKEN       Port22                     https://robertsspaceindustries.com/en/citizens/Port22
+[ 54/98]   404  AVAILABLE   Port80                     https://robertsspaceindustries.com/en/citizens/Port80
+[ 55/98]   404  AVAILABLE   Port443                    https://robertsspaceindustries.com/en/citizens/Port443
+[ 56/98]   404  AVAILABLE   Port666                    https://robertsspaceindustries.com/en/citizens/Port666
+[ 57/98]   404  AVAILABLE   Port1337                   https://robertsspaceindustries.com/en/citizens/Port1337
+[ 58/98]   404  AVAILABLE   Port4444                   https://robertsspaceindustries.com/en/citizens/Port4444
+[ 59/98]   404  AVAILABLE   Port31337                  https://robertsspaceindustries.com/en/citizens/Port31337
+[ 60/98]   404  AVAILABLE   Port8080                   https://robertsspaceindustries.com/en/citizens/Port8080
+[ 61/98]   404  AVAILABLE   Port3306                   https://robertsspaceindustries.com/en/citizens/Port3306
+[ 62/98]   404  AVAILABLE   Port3389                   https://robertsspaceindustries.com/en/citizens/Port3389
+[ 63/98]   404  AVAILABLE   Port5900                   https://robertsspaceindustries.com/en/citizens/Port5900
+[ 64/98]   404  AVAILABLE   Port6666                   https://robertsspaceindustries.com/en/citizens/Port6666
+[ 65/98]   404  AVAILABLE   Port6667                   https://robertsspaceindustries.com/en/citizens/Port6667
+[ 66/98]   404  AVAILABLE   Port6697                   https://robertsspaceindustries.com/en/citizens/Port6697
+[ 67/98]   200  TAKEN       1984                       https://robertsspaceindustries.com/en/citizens/1984
+[ 68/98]   404  AVAILABLE   2600                       https://robertsspaceindustries.com/en/citizens/2600
+[ 69/98]   200  TAKEN       31337                      https://robertsspaceindustries.com/en/citizens/31337
+[ 70/98]   200  TAKEN       1337                       https://robertsspaceindustries.com/en/citizens/1337
+[ 71/98]   200  TAKEN       12345                      https://robertsspaceindustries.com/en/citizens/12345
+[ 72/98]   200  TAKEN       dev0                       https://robertsspaceindustries.com/en/citizens/dev0
+[ 73/98]   200  TAKEN       dev1                       https://robertsspaceindustries.com/en/citizens/dev1
+[ 74/98]   404  AVAILABLE   dev42                      https://robertsspaceindustries.com/en/citizens/dev42
+[ 75/98]   404  AVAILABLE   devErr                     https://robertsspaceindustries.com/en/citizens/devErr
+[ 76/98]   404  AVAILABLE   dev404                     https://robertsspaceindustries.com/en/citizens/dev404
+[ 77/98]   404  AVAILABLE   dev500                     https://robertsspaceindustries.com/en/citizens/dev500
+[ 78/98]   404  AVAILABLE   dev0x0                     https://robertsspaceindustries.com/en/citizens/dev0x0
+[ 79/98]   200  TAKEN       null404                    https://robertsspaceindustries.com/en/citizens/null404
+[ 80/98]   200  TAKEN       error404                   https://robertsspaceindustries.com/en/citizens/error404
+[ 81/98]   404  AVAILABLE   null500                    https://robertsspaceindustries.com/en/citizens/null500
+[ 82/98]   200  TAKEN       code404                    https://robertsspaceindustries.com/en/citizens/code404
+[ 83/98]   404  AVAILABLE   code500                    https://robertsspaceindustries.com/en/citizens/code500
+[ 84/98]   404  AVAILABLE   access403                  https://robertsspaceindustries.com/en/citizens/access403
+[ 85/98]   404  AVAILABLE   gone410                    https://robertsspaceindustries.com/en/citizens/gone410
+[ 86/98]   404  AVAILABLE   1337speak                  https://robertsspaceindustries.com/en/citizens/1337speak
+[ 87/98]   200  TAKEN       leet1337                   https://robertsspaceindustries.com/en/citizens/leet1337
+[ 88/98]   200  TAKEN       elite31337                 https://robertsspaceindustries.com/en/citizens/elite31337
+[ 89/98]   404  AVAILABLE   h4x1337                    https://robertsspaceindustries.com/en/citizens/h4x1337
+[ 90/98]   200  TAKEN       null0                      https://robertsspaceindustries.com/en/citizens/null0
+[ 91/98]   200  TAKEN       null1                      https://robertsspaceindustries.com/en/citizens/null1
+[ 92/98]   404  AVAILABLE   rootkit0                   https://robertsspaceindustries.com/en/citizens/rootkit0
+[ 93/98]   404  AVAILABLE   rootkit1337                https://robertsspaceindustries.com/en/citizens/rootkit1337
+[ 94/98]   404  AVAILABLE   shell1337                  https://robertsspaceindustries.com/en/citizens/shell1337
+[ 95/98]   404  AVAILABLE   h4x0r1337                  https://robertsspaceindustries.com/en/citizens/h4x0r1337
+[ 96/98]   404  AVAILABLE   nmap1337                   https://robertsspaceindustries.com/en/citizens/nmap1337
+[ 97/98]   404  AVAILABLE   zero0day                   https://robertsspaceindustries.com/en/citizens/zero0day
+[ 98/98]   404  AVAILABLE   day0                       https://robertsspaceindustries.com/en/citizens/day0
+
+==============================================================================================================
+
+✅  AVAILABLE (60):
+   500                             https://robertsspaceindustries.com/en/citizens/500
+   502                             https://robertsspaceindustries.com/en/citizens/502
+   451                             https://robertsspaceindustries.com/en/citizens/451
+   0xBEEF                          https://robertsspaceindustries.com/en/citizens/0xBEEF
+   0xFEED                          https://robertsspaceindustries.com/en/citizens/0xFEED
+   0xDEAF                          https://robertsspaceindustries.com/en/citizens/0xDEAF
+   0xBEAD                          https://robertsspaceindustries.com/en/citizens/0xBEAD
+   0xDEAD1                         https://robertsspaceindustries.com/en/citizens/0xDEAD1
+   0xBAD                           https://robertsspaceindustries.com/en/citizens/0xBAD
+   n0cl1p                          https://robertsspaceindustries.com/en/citizens/n0cl1p
+   n0clip                          https://robertsspaceindustries.com/en/citizens/n0clip
+   expl01t                         https://robertsspaceindustries.com/en/citizens/expl01t
+   0wned                           https://robertsspaceindustries.com/en/citizens/0wned
+   r00t3d                          https://robertsspaceindustries.com/en/citizens/r00t3d
+   spl01t                          https://robertsspaceindustries.com/en/citizens/spl01t
+   d3fac3d                         https://robertsspaceindustries.com/en/citizens/d3fac3d
+   5hell                           https://robertsspaceindustries.com/en/citizens/5hell
+   5h3ll                           https://robertsspaceindustries.com/en/citizens/5h3ll
+   5h311                           https://robertsspaceindustries.com/en/citizens/5h311
+   r3v3rse                         https://robertsspaceindustries.com/en/citizens/r3v3rse
+   1nject                          https://robertsspaceindustries.com/en/citizens/1nject
+   1njected                        https://robertsspaceindustries.com/en/citizens/1njected
+   4ccess                          https://robertsspaceindustries.com/en/citizens/4ccess
+   4cc3ss                          https://robertsspaceindustries.com/en/citizens/4cc3ss
+   3xfil                           https://robertsspaceindustries.com/en/citizens/3xfil
+   p4yload                         https://robertsspaceindustries.com/en/citizens/p4yload
+   null0day                        https://robertsspaceindustries.com/en/citizens/null0day
+   0dayh4x                         https://robertsspaceindustries.com/en/citizens/0dayh4x
+   Port80                          https://robertsspaceindustries.com/en/citizens/Port80
+   Port443                         https://robertsspaceindustries.com/en/citizens/Port443
+   Port666                         https://robertsspaceindustries.com/en/citizens/Port666
+   Port1337                        https://robertsspaceindustries.com/en/citizens/Port1337
+   Port4444                        https://robertsspaceindustries.com/en/citizens/Port4444
+   Port31337                       https://robertsspaceindustries.com/en/citizens/Port31337
+   Port8080                        https://robertsspaceindustries.com/en/citizens/Port8080
+   Port3306                        https://robertsspaceindustries.com/en/citizens/Port3306
+   Port3389                        https://robertsspaceindustries.com/en/citizens/Port3389
+   Port5900                        https://robertsspaceindustries.com/en/citizens/Port5900
+   Port6666                        https://robertsspaceindustries.com/en/citizens/Port6666
+   Port6667                        https://robertsspaceindustries.com/en/citizens/Port6667
+   Port6697                        https://robertsspaceindustries.com/en/citizens/Port6697
+   2600                            https://robertsspaceindustries.com/en/citizens/2600
+   dev42                           https://robertsspaceindustries.com/en/citizens/dev42
+   devErr                          https://robertsspaceindustries.com/en/citizens/devErr
+   dev404                          https://robertsspaceindustries.com/en/citizens/dev404
+   dev500                          https://robertsspaceindustries.com/en/citizens/dev500
+   dev0x0                          https://robertsspaceindustries.com/en/citizens/dev0x0
+   null500                         https://robertsspaceindustries.com/en/citizens/null500
+   code500                         https://robertsspaceindustries.com/en/citizens/code500
+   access403                       https://robertsspaceindustries.com/en/citizens/access403
+   gone410                         https://robertsspaceindustries.com/en/citizens/gone410
+   1337speak                       https://robertsspaceindustries.com/en/citizens/1337speak
+   h4x1337                         https://robertsspaceindustries.com/en/citizens/h4x1337
+   rootkit0                        https://robertsspaceindustries.com/en/citizens/rootkit0
+   rootkit1337                     https://robertsspaceindustries.com/en/citizens/rootkit1337
+   shell1337                       https://robertsspaceindustries.com/en/citizens/shell1337
+   h4x0r1337                       https://robertsspaceindustries.com/en/citizens/h4x0r1337
+   nmap1337                        https://robertsspaceindustries.com/en/citizens/nmap1337
+   zero0day                        https://robertsspaceindustries.com/en/citizens/zero0day
+   day0                            https://robertsspaceindustries.com/en/citizens/day0
+
+❌  TAKEN (38):
+   404                             https://robertsspaceindustries.com/en/citizens/404
+   418                             https://robertsspaceindustries.com/en/citizens/418
+   403                             https://robertsspaceindustries.com/en/citizens/403
+   401                             https://robertsspaceindustries.com/en/citizens/401
+   301                             https://robertsspaceindustries.com/en/citizens/301
+   302                             https://robertsspaceindustries.com/en/citizens/302
+   503                             https://robertsspaceindustries.com/en/citizens/503
+   504                             https://robertsspaceindustries.com/en/citizens/504
+   429                             https://robertsspaceindustries.com/en/citizens/429
+   410                             https://robertsspaceindustries.com/en/citizens/410
+   0xDEAD                          https://robertsspaceindustries.com/en/citizens/0xDEAD
+   0xCAFE                          https://robertsspaceindustries.com/en/citizens/0xCAFE
+   0xFACE                          https://robertsspaceindustries.com/en/citizens/0xFACE
+   0xFF                            https://robertsspaceindustries.com/en/citizens/0xFF
+   0x00                            https://robertsspaceindustries.com/en/citizens/0x00
+   0x0                             https://robertsspaceindustries.com/en/citizens/0x0
+   0x1337                          https://robertsspaceindustries.com/en/citizens/0x1337
+   nocl1p                          https://robertsspaceindustries.com/en/citizens/nocl1p
+   3xpl01t                         https://robertsspaceindustries.com/en/citizens/3xpl01t
+   3xploit                         https://robertsspaceindustries.com/en/citizens/3xploit
+   0wn3r                           https://robertsspaceindustries.com/en/citizens/0wn3r
+   r00tkit                         https://robertsspaceindustries.com/en/citizens/r00tkit
+   p0wn3d                          https://robertsspaceindustries.com/en/citizens/p0wn3d
+   h4ck3d                          https://robertsspaceindustries.com/en/citizens/h4ck3d
+   Port22                          https://robertsspaceindustries.com/en/citizens/Port22
+   1984                            https://robertsspaceindustries.com/en/citizens/1984
+   31337                           https://robertsspaceindustries.com/en/citizens/31337
+   1337                            https://robertsspaceindustries.com/en/citizens/1337
+   12345                           https://robertsspaceindustries.com/en/citizens/12345
+   dev0                            https://robertsspaceindustries.com/en/citizens/dev0
+   dev1                            https://robertsspaceindustries.com/en/citizens/dev1
+   null404                         https://robertsspaceindustries.com/en/citizens/null404
+   error404                        https://robertsspaceindustries.com/en/citizens/error404
+   code404                         https://robertsspaceindustries.com/en/citizens/code404
+   leet1337                        https://robertsspaceindustries.com/en/citizens/leet1337
+   elite31337                      https://robertsspaceindustries.com/en/citizens/elite31337
+   null0                           https://robertsspaceindustries.com/en/citizens/null0
+   null1                           https://robertsspaceindustries.com/en/citizens/null1
+/workspace/check_rsi_handles_v31.py:215: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v31.json

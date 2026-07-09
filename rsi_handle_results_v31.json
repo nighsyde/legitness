@@ -1,0 +1,401 @@
+{
+  "checked_at": "2026-07-09T21:44:26.211248Z",
+  "total": 98,
+  "available": [
+    {
+      "name": "500",
+      "url": "https://robertsspaceindustries.com/en/citizens/500"
+    },
+    {
+      "name": "502",
+      "url": "https://robertsspaceindustries.com/en/citizens/502"
+    },
+    {
+      "name": "451",
+      "url": "https://robertsspaceindustries.com/en/citizens/451"
+    },
+    {
+      "name": "0xBEEF",
+      "url": "https://robertsspaceindustries.com/en/citizens/0xBEEF"
+    },
+    {
+      "name": "0xFEED",
+      "url": "https://robertsspaceindustries.com/en/citizens/0xFEED"
+    },
+    {
+      "name": "0xDEAF",
+      "url": "https://robertsspaceindustries.com/en/citizens/0xDEAF"
+    },
+    {
+      "name": "0xBEAD",
+      "url": "https://robertsspaceindustries.com/en/citizens/0xBEAD"
+    },
+    {
+      "name": "0xDEAD1",
+      "url": "https://robertsspaceindustries.com/en/citizens/0xDEAD1"
+    },
+    {
+      "name": "0xBAD",
+      "url": "https://robertsspaceindustries.com/en/citizens/0xBAD"
+    },
+    {
+      "name": "n0cl1p",
+      "url": "https://robertsspaceindustries.com/en/citizens/n0cl1p"
+    },
+    {
+      "name": "n0clip",
+      "url": "https://robertsspaceindustries.com/en/citizens/n0clip"
+    },
+    {
+      "name": "expl01t",
+      "url": "https://robertsspaceindustries.com/en/citizens/expl01t"
+    },
+    {
+      "name": "0wned",
+      "url": "https://robertsspaceindustries.com/en/citizens/0wned"
+    },
+    {
+      "name": "r00t3d",
+      "url": "https://robertsspaceindustries.com/en/citizens/r00t3d"
+    },
+    {
+      "name": "spl01t",
+      "url": "https://robertsspaceindustries.com/en/citizens/spl01t"
+    },
+    {
+      "name": "d3fac3d",
+      "url": "https://robertsspaceindustries.com/en/citizens/d3fac3d"
+    },
+    {
+      "name": "5hell",
+      "url": "https://robertsspaceindustries.com/en/citizens/5hell"
+    },
+    {
+      "name": "5h3ll",
+      "url": "https://robertsspaceindustries.com/en/citizens/5h3ll"
+    },
+    {
+      "name": "5h311",
+      "url": "https://robertsspaceindustries.com/en/citizens/5h311"
+    },
+    {
+      "name": "r3v3rse",
+      "url": "https://robertsspaceindustries.com/en/citizens/r3v3rse"
+    },
+    {
+      "name": "1nject",
+      "url": "https://robertsspaceindustries.com/en/citizens/1nject"
+    },
+    {
+      "name": "1njected",
+      "url": "https://robertsspaceindustries.com/en/citizens/1njected"
+    },
+    {
+      "name": "4ccess",
+      "url": "https://robertsspaceindustries.com/en/citizens/4ccess"
+    },
+    {
+      "name": "4cc3ss",
+      "url": "https://robertsspaceindustries.com/en/citizens/4cc3ss"
+    },
+    {
+      "name": "3xfil",
+      "url": "https://robertsspaceindustries.com/en/citizens/3xfil"
+    },
+    {
+      "name": "p4yload",
+      "url": "https://robertsspaceindustries.com/en/citizens/p4yload"
+    },
+    {
+      "name": "null0day",
+      "url": "https://robertsspaceindustries.com/en/citizens/null0day"
+    },
+    {
+      "name": "0dayh4x",
+      "url": "https://robertsspaceindustries.com/en/citizens/0dayh4x"
+    },
+    {
+      "name": "Port80",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port80"
+    },
+    {
+      "name": "Port443",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port443"
+    },
+    {
+      "name": "Port666",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port666"
+    },
+    {
+      "name": "Port1337",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port1337"
+    },
+    {
+      "name": "Port4444",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port4444"
+    },
+    {
+      "name": "Port31337",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port31337"
+    },
+    {
+      "name": "Port8080",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port8080"
+    },
+    {
+      "name": "Port3306",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port3306"
+    },
+    {
+      "name": "Port3389",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port3389"
+    },
+    {
+      "name": "Port5900",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port5900"
+    },
+    {
+      "name": "Port6666",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port6666"
+    },
+    {
+      "name": "Port6667",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port6667"
+    },
+    {
+      "name": "Port6697",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port6697"
+    },
+    {
+      "name": "2600",
+      "url": "https://robertsspaceindustries.com/en/citizens/2600"
+    },
+    {
+      "name": "dev42",
+      "url": "https://robertsspaceindustries.com/en/citizens/dev42"
+    },
+    {
+      "name": "devErr",
+      "url": "https://robertsspaceindustries.com/en/citizens/devErr"
+    },
+    {
+      "name": "dev404",
+      "url": "https://robertsspaceindustries.com/en/citizens/dev404"
+    },
+    {
+      "name": "dev500",
+      "url": "https://robertsspaceindustries.com/en/citizens/dev500"
+    },
+    {
+      "name": "dev0x0",
+      "url": "https://robertsspaceindustries.com/en/citizens/dev0x0"
+    },
+    {
+      "name": "null500",
+      "url": "https://robertsspaceindustries.com/en/citizens/null500"
+    },
+    {
+      "name": "code500",
+      "url": "https://robertsspaceindustries.com/en/citizens/code500"
+    },
+    {
+      "name": "access403",
+      "url": "https://robertsspaceindustries.com/en/citizens/access403"
+    },
+    {
+      "name": "gone410",
+      "url": "https://robertsspaceindustries.com/en/citizens/gone410"
+    },
+    {
+      "name": "1337speak",
+      "url": "https://robertsspaceindustries.com/en/citizens/1337speak"
+    },
+    {
+      "name": "h4x1337",
+      "url": "https://robertsspaceindustries.com/en/citizens/h4x1337"
+    },
+    {
+      "name": "rootkit0",
+      "url": "https://robertsspaceindustries.com/en/citizens/rootkit0"
+    },
+    {
+      "name": "rootkit1337",
+      "url": "https://robertsspaceindustries.com/en/citizens/rootkit1337"
+    },
+    {
+      "name": "shell1337",
+      "url": "https://robertsspaceindustries.com/en/citizens/shell1337"
+    },
+    {
+      "name": "h4x0r1337",
+      "url": "https://robertsspaceindustries.com/en/citizens/h4x0r1337"
+    },
+    {
+      "name": "nmap1337",
+      "url": "https://robertsspaceindustries.com/en/citizens/nmap1337"
+    },
+    {
+      "name": "zero0day",
+      "url": "https://robertsspaceindustries.com/en/citizens/zero0day"
+    },
+    {
+      "name": "day0",
+      "url": "https://robertsspaceindustries.com/en/citizens/day0"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "404",
+      "url": "https://robertsspaceindustries.com/en/citizens/404"
+    },
+    {
+      "name": "418",
+      "url": "https://robertsspaceindustries.com/en/citizens/418"
+    },
+    {
+      "name": "403",
+      "url": "https://robertsspaceindustries.com/en/citizens/403"
+    },
+    {
+      "name": "401",
+      "url": "https://robertsspaceindustries.com/en/citizens/401"
+    },
+    {
+      "name": "301",
+      "url": "https://robertsspaceindustries.com/en/citizens/301"
+    },
+    {
+      "name": "302",
+      "url": "https://robertsspaceindustries.com/en/citizens/302"
+    },
+    {
+      "name": "503",
+      "url": "https://robertsspaceindustries.com/en/citizens/503"
+    },
+    {
+      "name": "504",
+      "url": "https://robertsspaceindustries.com/en/citizens/504"
+    },
+    {
+      "name": "429",
+      "url": "https://robertsspaceindustries.com/en/citizens/429"
+    },
+    {
+      "name": "410",
+      "url": "https://robertsspaceindustries.com/en/citizens/410"
+    },
+    {
+      "name": "0xDEAD",
+      "url": "https://robertsspaceindustries.com/en/citizens/0xDEAD"
+    },
+    {
+      "name": "0xCAFE",
+      "url": "https://robertsspaceindustries.com/en/citizens/0xCAFE"
+    },
+    {
+      "name": "0xFACE",
+      "url": "https://robertsspaceindustries.com/en/citizens/0xFACE"
+    },
+    {
+      "name": "0xFF",
+      "url": "https://robertsspaceindustries.com/en/citizens/0xFF"
+    },
+    {
+      "name": "0x00",
+      "url": "https://robertsspaceindustries.com/en/citizens/0x00"
+    },
+    {
+      "name": "0x0",
+      "url": "https://robertsspaceindustries.com/en/citizens/0x0"
+    },
+    {
+      "name": "0x1337",
+      "url": "https://robertsspaceindustries.com/en/citizens/0x1337"
+    },
+    {
+      "name": "nocl1p",
+      "url": "https://robertsspaceindustries.com/en/citizens/nocl1p"
+    },
+    {
+      "name": "3xpl01t",
+      "url": "https://robertsspaceindustries.com/en/citizens/3xpl01t"
+    },
+    {
+      "name": "3xploit",
+      "url": "https://robertsspaceindustries.com/en/citizens/3xploit"
+    },
+    {
+      "name": "0wn3r",
+      "url": "https://robertsspaceindustries.com/en/citizens/0wn3r"
+    },
+    {
+      "name": "r00tkit",
+      "url": "https://robertsspaceindustries.com/en/citizens/r00tkit"
+    },
+    {
+      "name": "p0wn3d",
+      "url": "https://robertsspaceindustries.com/en/citizens/p0wn3d"
+    },
+    {
+      "name": "h4ck3d",
+      "url": "https://robertsspaceindustries.com/en/citizens/h4ck3d"
+    },
+    {
+      "name": "Port22",
+      "url": "https://robertsspaceindustries.com/en/citizens/Port22"
+    },
+    {
+      "name": "1984",
+      "url": "https://robertsspaceindustries.com/en/citizens/1984"
+    },
+    {
+      "name": "31337",
+      "url": "https://robertsspaceindustries.com/en/citizens/31337"
+    },
+    {
+      "name": "1337",
+      "url": "https://robertsspaceindustries.com/en/citizens/1337"
+    },
+    {
+      "name": "12345",
+      "url": "https://robertsspaceindustries.com/en/citizens/12345"
+    },
+    {
+      "name": "dev0",
+      "url": "https://robertsspaceindustries.com/en/citizens/dev0"
+    },
+    {
+      "name": "dev1",
+      "url": "https://robertsspaceindustries.com/en/citizens/dev1"
+    },
+    {
+      "name": "null404",
+      "url": "https://robertsspaceindustries.com/en/citizens/null404"
+    },
+    {
+      "name": "error404",
+      "url": "https://robertsspaceindustries.com/en/citizens/error404"
+    },
+    {
+      "name": "code404",
+      "url": "https://robertsspaceindustries.com/en/citizens/code404"
+    },
+    {
+      "name": "leet1337",
+      "url": "https://robertsspaceindustries.com/en/citizens/leet1337"
+    },
+    {
+      "name": "elite31337",
+      "url": "https://robertsspaceindustries.com/en/citizens/elite31337"
+    },
+    {
+      "name": "null0",
+      "url": "https://robertsspaceindustries.com/en/citizens/null0"
+    },
+    {
+      "name": "null1",
+      "url": "https://robertsspaceindustries.com/en/citizens/null1"
+    }
+  ],
+  "errors": []
+}
