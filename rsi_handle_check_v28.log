@@ -1,0 +1,146 @@
+Checking 66 /dev/null universe handles...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/66]   404  AVAILABLE   DevMem                     https://robertsspaceindustries.com/en/citizens/DevMem
+[  2/66]   404  AVAILABLE   DevFull                    https://robertsspaceindustries.com/en/citizens/DevFull
+[  3/66]   404  AVAILABLE   DevUrandom                 https://robertsspaceindustries.com/en/citizens/DevUrandom
+[  4/66]   404  AVAILABLE   DevTun                     https://robertsspaceindustries.com/en/citizens/DevTun
+[  5/66]   404  AVAILABLE   DevShm                     https://robertsspaceindustries.com/en/citizens/DevShm
+[  6/66]   404  AVAILABLE   DevKmem                    https://robertsspaceindustries.com/en/citizens/DevKmem
+[  7/66]   404  AVAILABLE   DevLoop                    https://robertsspaceindustries.com/en/citizens/DevLoop
+[  8/66]   404  AVAILABLE   DevPtmx                    https://robertsspaceindustries.com/en/citizens/DevPtmx
+[  9/66]   404  AVAILABLE   DevPts                     https://robertsspaceindustries.com/en/citizens/DevPts
+[ 10/66]   404  AVAILABLE   DevStdin                   https://robertsspaceindustries.com/en/citizens/DevStdin
+[ 11/66]   404  AVAILABLE   DevStdout                  https://robertsspaceindustries.com/en/citizens/DevStdout
+[ 12/66]   404  AVAILABLE   DevStderr                  https://robertsspaceindustries.com/en/citizens/DevStderr
+[ 13/66]   404  AVAILABLE   DevFd                      https://robertsspaceindustries.com/en/citizens/DevFd
+[ 14/66]   404  AVAILABLE   DevHda                     https://robertsspaceindustries.com/en/citizens/DevHda
+[ 15/66]   404  AVAILABLE   DevSda                     https://robertsspaceindustries.com/en/citizens/DevSda
+[ 16/66]   404  AVAILABLE   DevSdb                     https://robertsspaceindustries.com/en/citizens/DevSdb
+[ 17/66]   200  TAKEN       BitBucket                  https://robertsspaceindustries.com/en/citizens/BitBucket
+[ 18/66]   404  AVAILABLE   NullSink                   https://robertsspaceindustries.com/en/citizens/NullSink
+[ 19/66]   404  AVAILABLE   DataSink                   https://robertsspaceindustries.com/en/citizens/DataSink
+[ 20/66]   404  AVAILABLE   ErrorSink                  https://robertsspaceindustries.com/en/citizens/ErrorSink
+[ 21/66]   404  AVAILABLE   OutputSink                 https://robertsspaceindustries.com/en/citizens/OutputSink
+[ 22/66]   200  TAKEN       Discard                    https://robertsspaceindustries.com/en/citizens/Discard
+[ 23/66]   200  TAKEN       NullRoute                  https://robertsspaceindustries.com/en/citizens/NullRoute
+[ 24/66]   200  TAKEN       Blackhole                  https://robertsspaceindustries.com/en/citizens/Blackhole
+[ 25/66]   200  TAKEN       Sinkhole                   https://robertsspaceindustries.com/en/citizens/Sinkhole
+[ 26/66]   404  AVAILABLE   Tarpit                     https://robertsspaceindustries.com/en/citizens/Tarpit
+[ 27/66]   200  TAKEN       Honeypot                   https://robertsspaceindustries.com/en/citizens/Honeypot
+[ 28/66]   200  TAKEN       Darkspace                  https://robertsspaceindustries.com/en/citizens/Darkspace
+[ 29/66]   200  TAKEN       NullByte                   https://robertsspaceindustries.com/en/citizens/NullByte
+[ 30/66]   404  AVAILABLE   NullChar                   https://robertsspaceindustries.com/en/citizens/NullChar
+[ 31/66]   404  AVAILABLE   NullTerm                   https://robertsspaceindustries.com/en/citizens/NullTerm
+[ 32/66]   200  TAKEN       NullPtr                    https://robertsspaceindustries.com/en/citizens/NullPtr
+[ 33/66]   404  AVAILABLE   DevVoid                    https://robertsspaceindustries.com/en/citizens/DevVoid
+[ 34/66]   200  TAKEN       DevGhost                   https://robertsspaceindustries.com/en/citizens/DevGhost
+[ 35/66]   404  AVAILABLE   DevBleed                   https://robertsspaceindustries.com/en/citizens/DevBleed
+[ 36/66]   404  AVAILABLE   DevMode                    https://robertsspaceindustries.com/en/citizens/DevMode
+[ 37/66]   404  AVAILABLE   DevBox                     https://robertsspaceindustries.com/en/citizens/DevBox
+[ 38/66]   404  AVAILABLE   DevDrop                    https://robertsspaceindustries.com/en/citizens/DevDrop
+[ 39/66]   404  AVAILABLE   DevSilent                  https://robertsspaceindustries.com/en/citizens/DevSilent
+[ 40/66]   404  AVAILABLE   DevHole                    https://robertsspaceindustries.com/en/citizens/DevHole
+[ 41/66]   404  AVAILABLE   DevSink                    https://robertsspaceindustries.com/en/citizens/DevSink
+[ 42/66]   404  AVAILABLE   DevDead                    https://robertsspaceindustries.com/en/citizens/DevDead
+[ 43/66]   404  AVAILABLE   DevPhantom                 https://robertsspaceindustries.com/en/citizens/DevPhantom
+[ 44/66]   404  AVAILABLE   DevRoute                   https://robertsspaceindustries.com/en/citizens/DevRoute
+[ 45/66]   404  AVAILABLE   DevFlux                    https://robertsspaceindustries.com/en/citizens/DevFlux
+[ 46/66]   404  AVAILABLE   DevStray                   https://robertsspaceindustries.com/en/citizens/DevStray
+[ 47/66]   404  AVAILABLE   DevCold                    https://robertsspaceindustries.com/en/citizens/DevCold
+[ 48/66]   404  AVAILABLE   DevDark                    https://robertsspaceindustries.com/en/citizens/DevDark
+[ 49/66]   404  AVAILABLE   DevLost                    https://robertsspaceindustries.com/en/citizens/DevLost
+[ 50/66]   404  AVAILABLE   DevMute                    https://robertsspaceindustries.com/en/citizens/DevMute
+[ 51/66]   404  AVAILABLE   DevBlank                   https://robertsspaceindustries.com/en/citizens/DevBlank
+[ 52/66]   404  AVAILABLE   SendToNull                 https://robertsspaceindustries.com/en/citizens/SendToNull
+[ 53/66]   404  AVAILABLE   PipeToNull                 https://robertsspaceindustries.com/en/citizens/PipeToNull
+[ 54/66]   404  AVAILABLE   RedirectNull               https://robertsspaceindustries.com/en/citizens/RedirectNull
+[ 55/66]   404  AVAILABLE   OutputNull                 https://robertsspaceindustries.com/en/citizens/OutputNull
+[ 56/66]   404  AVAILABLE   NullOutput                 https://robertsspaceindustries.com/en/citizens/NullOutput
+[ 57/66]   404  AVAILABLE   NullInput                  https://robertsspaceindustries.com/en/citizens/NullInput
+[ 58/66]   404  AVAILABLE   NullReturn                 https://robertsspaceindustries.com/en/citizens/NullReturn
+[ 59/66]   200  TAKEN       VoidReturn                 https://robertsspaceindustries.com/en/citizens/VoidReturn
+[ 60/66]   404  AVAILABLE   NullResult                 https://robertsspaceindustries.com/en/citizens/NullResult
+[ 61/66]   404  AVAILABLE   EmptyReturn                https://robertsspaceindustries.com/en/citizens/EmptyReturn
+[ 62/66]   404  AVAILABLE   NullReply                  https://robertsspaceindustries.com/en/citizens/NullReply
+[ 63/66]   404  AVAILABLE   NoReply                    https://robertsspaceindustries.com/en/citizens/NoReply
+[ 64/66]   200  TAKEN       Unresponsive               https://robertsspaceindustries.com/en/citizens/Unresponsive
+[ 65/66]   200  TAKEN       Unreachable                https://robertsspaceindustries.com/en/citizens/Unreachable
+[ 66/66]   200  TAKEN       Devnul                     https://robertsspaceindustries.com/en/citizens/Devnul
+
+==============================================================================================================
+
+✅  AVAILABLE (52):
+   DevMem                          https://robertsspaceindustries.com/en/citizens/DevMem
+   DevFull                         https://robertsspaceindustries.com/en/citizens/DevFull
+   DevUrandom                      https://robertsspaceindustries.com/en/citizens/DevUrandom
+   DevTun                          https://robertsspaceindustries.com/en/citizens/DevTun
+   DevShm                          https://robertsspaceindustries.com/en/citizens/DevShm
+   DevKmem                         https://robertsspaceindustries.com/en/citizens/DevKmem
+   DevLoop                         https://robertsspaceindustries.com/en/citizens/DevLoop
+   DevPtmx                         https://robertsspaceindustries.com/en/citizens/DevPtmx
+   DevPts                          https://robertsspaceindustries.com/en/citizens/DevPts
+   DevStdin                        https://robertsspaceindustries.com/en/citizens/DevStdin
+   DevStdout                       https://robertsspaceindustries.com/en/citizens/DevStdout
+   DevStderr                       https://robertsspaceindustries.com/en/citizens/DevStderr
+   DevFd                           https://robertsspaceindustries.com/en/citizens/DevFd
+   DevHda                          https://robertsspaceindustries.com/en/citizens/DevHda
+   DevSda                          https://robertsspaceindustries.com/en/citizens/DevSda
+   DevSdb                          https://robertsspaceindustries.com/en/citizens/DevSdb
+   NullSink                        https://robertsspaceindustries.com/en/citizens/NullSink
+   DataSink                        https://robertsspaceindustries.com/en/citizens/DataSink
+   ErrorSink                       https://robertsspaceindustries.com/en/citizens/ErrorSink
+   OutputSink                      https://robertsspaceindustries.com/en/citizens/OutputSink
+   Tarpit                          https://robertsspaceindustries.com/en/citizens/Tarpit
+   NullChar                        https://robertsspaceindustries.com/en/citizens/NullChar
+   NullTerm                        https://robertsspaceindustries.com/en/citizens/NullTerm
+   DevVoid                         https://robertsspaceindustries.com/en/citizens/DevVoid
+   DevBleed                        https://robertsspaceindustries.com/en/citizens/DevBleed
+   DevMode                         https://robertsspaceindustries.com/en/citizens/DevMode
+   DevBox                          https://robertsspaceindustries.com/en/citizens/DevBox
+   DevDrop                         https://robertsspaceindustries.com/en/citizens/DevDrop
+   DevSilent                       https://robertsspaceindustries.com/en/citizens/DevSilent
+   DevHole                         https://robertsspaceindustries.com/en/citizens/DevHole
+   DevSink                         https://robertsspaceindustries.com/en/citizens/DevSink
+   DevDead                         https://robertsspaceindustries.com/en/citizens/DevDead
+   DevPhantom                      https://robertsspaceindustries.com/en/citizens/DevPhantom
+   DevRoute                        https://robertsspaceindustries.com/en/citizens/DevRoute
+   DevFlux                         https://robertsspaceindustries.com/en/citizens/DevFlux
+   DevStray                        https://robertsspaceindustries.com/en/citizens/DevStray
+   DevCold                         https://robertsspaceindustries.com/en/citizens/DevCold
+   DevDark                         https://robertsspaceindustries.com/en/citizens/DevDark
+   DevLost                         https://robertsspaceindustries.com/en/citizens/DevLost
+   DevMute                         https://robertsspaceindustries.com/en/citizens/DevMute
+   DevBlank                        https://robertsspaceindustries.com/en/citizens/DevBlank
+   SendToNull                      https://robertsspaceindustries.com/en/citizens/SendToNull
+   PipeToNull                      https://robertsspaceindustries.com/en/citizens/PipeToNull
+   RedirectNull                    https://robertsspaceindustries.com/en/citizens/RedirectNull
+   OutputNull                      https://robertsspaceindustries.com/en/citizens/OutputNull
+   NullOutput                      https://robertsspaceindustries.com/en/citizens/NullOutput
+   NullInput                       https://robertsspaceindustries.com/en/citizens/NullInput
+   NullReturn                      https://robertsspaceindustries.com/en/citizens/NullReturn
+   NullResult                      https://robertsspaceindustries.com/en/citizens/NullResult
+   EmptyReturn                     https://robertsspaceindustries.com/en/citizens/EmptyReturn
+   NullReply                       https://robertsspaceindustries.com/en/citizens/NullReply
+   NoReply                         https://robertsspaceindustries.com/en/citizens/NoReply
+
+❌  TAKEN (14):
+   BitBucket                       https://robertsspaceindustries.com/en/citizens/BitBucket
+   Discard                         https://robertsspaceindustries.com/en/citizens/Discard
+   NullRoute                       https://robertsspaceindustries.com/en/citizens/NullRoute
+   Blackhole                       https://robertsspaceindustries.com/en/citizens/Blackhole
+   Sinkhole                        https://robertsspaceindustries.com/en/citizens/Sinkhole
+   Honeypot                        https://robertsspaceindustries.com/en/citizens/Honeypot
+   Darkspace                       https://robertsspaceindustries.com/en/citizens/Darkspace
+   NullByte                        https://robertsspaceindustries.com/en/citizens/NullByte
+   NullPtr                         https://robertsspaceindustries.com/en/citizens/NullPtr
+   DevGhost                        https://robertsspaceindustries.com/en/citizens/DevGhost
+   VoidReturn                      https://robertsspaceindustries.com/en/citizens/VoidReturn
+   Unresponsive                    https://robertsspaceindustries.com/en/citizens/Unresponsive
+   Unreachable                     https://robertsspaceindustries.com/en/citizens/Unreachable
+   Devnul                          https://robertsspaceindustries.com/en/citizens/Devnul
+/workspace/check_rsi_handles_v28.py:188: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v28.json
