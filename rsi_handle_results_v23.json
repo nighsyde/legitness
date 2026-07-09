@@ -1,0 +1,377 @@
+{
+  "checked_at": "2026-07-09T20:33:11.368705Z",
+  "total": 92,
+  "available": [
+    {
+      "name": "Coldparse",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldparse"
+    },
+    {
+      "name": "Hexfrost",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hexfrost"
+    },
+    {
+      "name": "Nullform",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nullform"
+    },
+    {
+      "name": "Latent",
+      "url": "https://robertsspaceindustries.com/en/citizens/Latent"
+    },
+    {
+      "name": "Sideload",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sideload"
+    },
+    {
+      "name": "Brutepass",
+      "url": "https://robertsspaceindustries.com/en/citizens/Brutepass"
+    },
+    {
+      "name": "Coldwire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldwire"
+    },
+    {
+      "name": "Stackwipe",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stackwipe"
+    },
+    {
+      "name": "Patchghost",
+      "url": "https://robertsspaceindustries.com/en/citizens/Patchghost"
+    },
+    {
+      "name": "Hexblind",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hexblind"
+    },
+    {
+      "name": "Darkparse",
+      "url": "https://robertsspaceindustries.com/en/citizens/Darkparse"
+    },
+    {
+      "name": "Zeroform",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zeroform"
+    },
+    {
+      "name": "Corebleed",
+      "url": "https://robertsspaceindustries.com/en/citizens/Corebleed"
+    },
+    {
+      "name": "Memwipe",
+      "url": "https://robertsspaceindustries.com/en/citizens/Memwipe"
+    },
+    {
+      "name": "Rootvoid",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rootvoid"
+    },
+    {
+      "name": "Propagate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Propagate"
+    },
+    {
+      "name": "Process0",
+      "url": "https://robertsspaceindustries.com/en/citizens/Process0"
+    },
+    {
+      "name": "Inkblot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Inkblot"
+    },
+    {
+      "name": "Deadangle",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deadangle"
+    },
+    {
+      "name": "Frostbyte",
+      "url": "https://robertsspaceindustries.com/en/citizens/Frostbyte"
+    },
+    {
+      "name": "Bitrot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bitrot"
+    },
+    {
+      "name": "Coldbit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldbit"
+    },
+    {
+      "name": "Vexbyte",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vexbyte"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Flatline",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flatline"
+    },
+    {
+      "name": "Segfault",
+      "url": "https://robertsspaceindustries.com/en/citizens/Segfault"
+    },
+    {
+      "name": "Wetware",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wetware"
+    },
+    {
+      "name": "Firmware",
+      "url": "https://robertsspaceindustries.com/en/citizens/Firmware"
+    },
+    {
+      "name": "Jackpoint",
+      "url": "https://robertsspaceindustries.com/en/citizens/Jackpoint"
+    },
+    {
+      "name": "Glitch",
+      "url": "https://robertsspaceindustries.com/en/citizens/Glitch"
+    },
+    {
+      "name": "Sprawl",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sprawl"
+    },
+    {
+      "name": "Iterate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Iterate"
+    },
+    {
+      "name": "Recurse",
+      "url": "https://robertsspaceindustries.com/en/citizens/Recurse"
+    },
+    {
+      "name": "Overflow",
+      "url": "https://robertsspaceindustries.com/en/citizens/Overflow"
+    },
+    {
+      "name": "Coldboot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldboot"
+    },
+    {
+      "name": "Deadcode",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deadcode"
+    },
+    {
+      "name": "Voidrun",
+      "url": "https://robertsspaceindustries.com/en/citizens/Voidrun"
+    },
+    {
+      "name": "Chrome",
+      "url": "https://robertsspaceindustries.com/en/citizens/Chrome"
+    },
+    {
+      "name": "Axiom",
+      "url": "https://robertsspaceindustries.com/en/citizens/Axiom"
+    },
+    {
+      "name": "Static",
+      "url": "https://robertsspaceindustries.com/en/citizens/Static"
+    },
+    {
+      "name": "Uplink",
+      "url": "https://robertsspaceindustries.com/en/citizens/Uplink"
+    },
+    {
+      "name": "Downlink",
+      "url": "https://robertsspaceindustries.com/en/citizens/Downlink"
+    },
+    {
+      "name": "Jailbreak",
+      "url": "https://robertsspaceindustries.com/en/citizens/Jailbreak"
+    },
+    {
+      "name": "Nullsec",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nullsec"
+    },
+    {
+      "name": "Flatspace",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flatspace"
+    },
+    {
+      "name": "Ghostline",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ghostline"
+    },
+    {
+      "name": "Ironveil",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ironveil"
+    },
+    {
+      "name": "Vexcore",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vexcore"
+    },
+    {
+      "name": "Coldcore",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldcore"
+    },
+    {
+      "name": "Deepfreeze",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deepfreeze"
+    },
+    {
+      "name": "Killchain",
+      "url": "https://robertsspaceindustries.com/en/citizens/Killchain"
+    },
+    {
+      "name": "Greyhat",
+      "url": "https://robertsspaceindustries.com/en/citizens/Greyhat"
+    },
+    {
+      "name": "Blackhat",
+      "url": "https://robertsspaceindustries.com/en/citizens/Blackhat"
+    },
+    {
+      "name": "Whitehat",
+      "url": "https://robertsspaceindustries.com/en/citizens/Whitehat"
+    },
+    {
+      "name": "Null0",
+      "url": "https://robertsspaceindustries.com/en/citizens/Null0"
+    },
+    {
+      "name": "Vex0",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vex0"
+    },
+    {
+      "name": "Hex0",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hex0"
+    },
+    {
+      "name": "Tendril",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tendril"
+    },
+    {
+      "name": "Filament",
+      "url": "https://robertsspaceindustries.com/en/citizens/Filament"
+    },
+    {
+      "name": "Conduit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Conduit"
+    },
+    {
+      "name": "Resonant",
+      "url": "https://robertsspaceindustries.com/en/citizens/Resonant"
+    },
+    {
+      "name": "Aberrant",
+      "url": "https://robertsspaceindustries.com/en/citizens/Aberrant"
+    },
+    {
+      "name": "Insurgent",
+      "url": "https://robertsspaceindustries.com/en/citizens/Insurgent"
+    },
+    {
+      "name": "Latency",
+      "url": "https://robertsspaceindustries.com/en/citizens/Latency"
+    },
+    {
+      "name": "Cascade",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cascade"
+    },
+    {
+      "name": "Threshold",
+      "url": "https://robertsspaceindustries.com/en/citizens/Threshold"
+    },
+    {
+      "name": "Precipice",
+      "url": "https://robertsspaceindustries.com/en/citizens/Precipice"
+    },
+    {
+      "name": "Terminus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Terminus"
+    },
+    {
+      "name": "Nexus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nexus"
+    },
+    {
+      "name": "Vertex",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vertex"
+    },
+    {
+      "name": "Nadir",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nadir"
+    },
+    {
+      "name": "Apogee",
+      "url": "https://robertsspaceindustries.com/en/citizens/Apogee"
+    },
+    {
+      "name": "Perigee",
+      "url": "https://robertsspaceindustries.com/en/citizens/Perigee"
+    },
+    {
+      "name": "Kernel",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kernel"
+    },
+    {
+      "name": "Daemon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Daemon"
+    },
+    {
+      "name": "Phantom0",
+      "url": "https://robertsspaceindustries.com/en/citizens/Phantom0"
+    },
+    {
+      "name": "Greyzone",
+      "url": "https://robertsspaceindustries.com/en/citizens/Greyzone"
+    },
+    {
+      "name": "Coldslate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldslate"
+    },
+    {
+      "name": "Blindspot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Blindspot"
+    },
+    {
+      "name": "Darkangle",
+      "url": "https://robertsspaceindustries.com/en/citizens/Darkangle"
+    },
+    {
+      "name": "Blackzone",
+      "url": "https://robertsspaceindustries.com/en/citizens/Blackzone"
+    },
+    {
+      "name": "Coldzone",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldzone"
+    },
+    {
+      "name": "Blindside",
+      "url": "https://robertsspaceindustries.com/en/citizens/Blindside"
+    },
+    {
+      "name": "Deadchannel",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deadchannel"
+    },
+    {
+      "name": "Coldfront",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldfront"
+    },
+    {
+      "name": "Lowkey",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lowkey"
+    },
+    {
+      "name": "Sublevel",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sublevel"
+    },
+    {
+      "name": "Deepdive",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deepdive"
+    },
+    {
+      "name": "Hardwired",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hardwired"
+    },
+    {
+      "name": "Overclock",
+      "url": "https://robertsspaceindustries.com/en/citizens/Overclock"
+    },
+    {
+      "name": "Entropy0",
+      "url": "https://robertsspaceindustries.com/en/citizens/Entropy0"
+    },
+    {
+      "name": "Killbit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Killbit"
+    },
+    {
+      "name": "Deadbit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deadbit"
+    }
+  ],
+  "errors": []
+}
