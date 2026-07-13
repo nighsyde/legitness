@@ -35,6 +35,8 @@ An heirloom manuscript on the craft of building, keeping, growing, protecting, m
 | [`11-heirs-workbook-and-epilogue.md`](11-heirs-workbook-and-epilogue.md) | **XVIII** Heir’s Workbook · Epilogue |
 | [`12-grandfathers-notebook.md`](12-grandfathers-notebook.md) | **XIX** Grandfather’s Notebook |
 | [`13-strategy-cards-and-cases.md`](13-strategy-cards-and-cases.md) | **XX** Strategy Cards · **XXI** Case Studies · **XXII** 52-Week Curriculum |
+| [`14-almanac-and-masters.md`](14-almanac-and-masters.md) | **XXIII** Almanac · **XXIV** Conversations with Masters · **XXV** House Rules |
+| [`15-methods-and-letters.md`](15-methods-and-letters.md) | **XXVI** Methods Library · **XXVII** Letters by Age · **XXVIII** Final Synthesis |
 
 ---
 
