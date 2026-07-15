@@ -1,0 +1,353 @@
+{
+  "checked_at": "2026-07-09T20:54:40.271498Z",
+  "total": 86,
+  "available": [
+    {
+      "name": "Def0n",
+      "url": "https://robertsspaceindustries.com/en/citizens/Def0n"
+    },
+    {
+      "name": "EFnet",
+      "url": "https://robertsspaceindustries.com/en/citizens/EFnet"
+    },
+    {
+      "name": "Undernet",
+      "url": "https://robertsspaceindustries.com/en/citizens/Undernet"
+    },
+    {
+      "name": "QuakeNet",
+      "url": "https://robertsspaceindustries.com/en/citizens/QuakeNet"
+    },
+    {
+      "name": "GibsonHack",
+      "url": "https://robertsspaceindustries.com/en/citizens/GibsonHack"
+    },
+    {
+      "name": "0wned",
+      "url": "https://robertsspaceindustries.com/en/citizens/0wned"
+    },
+    {
+      "name": "GoRoot",
+      "url": "https://robertsspaceindustries.com/en/citizens/GoRoot"
+    },
+    {
+      "name": "GotShell",
+      "url": "https://robertsspaceindustries.com/en/citizens/GotShell"
+    },
+    {
+      "name": "Packer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Packer"
+    },
+    {
+      "name": "Shellcode",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shellcode"
+    },
+    {
+      "name": "Stacksmash",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stacksmash"
+    },
+    {
+      "name": "HeapSpray",
+      "url": "https://robertsspaceindustries.com/en/citizens/HeapSpray"
+    },
+    {
+      "name": "ReturnToLibc",
+      "url": "https://robertsspaceindustries.com/en/citizens/ReturnToLibc"
+    },
+    {
+      "name": "FreeKevin",
+      "url": "https://robertsspaceindustries.com/en/citizens/FreeKevin"
+    },
+    {
+      "name": "VHost",
+      "url": "https://robertsspaceindustries.com/en/citizens/VHost"
+    },
+    {
+      "name": "ProxyChain",
+      "url": "https://robertsspaceindustries.com/en/citizens/ProxyChain"
+    },
+    {
+      "name": "SevenProxies",
+      "url": "https://robertsspaceindustries.com/en/citizens/SevenProxies"
+    },
+    {
+      "name": "Torified",
+      "url": "https://robertsspaceindustries.com/en/citizens/Torified"
+    },
+    {
+      "name": "CoverTrack",
+      "url": "https://robertsspaceindustries.com/en/citizens/CoverTrack"
+    },
+    {
+      "name": "Topsite",
+      "url": "https://robertsspaceindustries.com/en/citizens/Topsite"
+    },
+    {
+      "name": "RARpass",
+      "url": "https://robertsspaceindustries.com/en/citizens/RARpass"
+    },
+    {
+      "name": "XDCC",
+      "url": "https://robertsspaceindustries.com/en/citizens/XDCC"
+    },
+    {
+      "name": "FServe",
+      "url": "https://robertsspaceindustries.com/en/citizens/FServe"
+    },
+    {
+      "name": "FloodBot",
+      "url": "https://robertsspaceindustries.com/en/citizens/FloodBot"
+    },
+    {
+      "name": "WarDrive",
+      "url": "https://robertsspaceindustries.com/en/citizens/WarDrive"
+    },
+    {
+      "name": "Wardial",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wardial"
+    },
+    {
+      "name": "Rootless",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rootless"
+    },
+    {
+      "name": "NetBus",
+      "url": "https://robertsspaceindustries.com/en/citizens/NetBus"
+    },
+    {
+      "name": "BackOrifice",
+      "url": "https://robertsspaceindustries.com/en/citizens/BackOrifice"
+    },
+    {
+      "name": "Nmapr",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nmapr"
+    },
+    {
+      "name": "Logging0ut",
+      "url": "https://robertsspaceindustries.com/en/citizens/Logging0ut"
+    },
+    {
+      "name": "Backdoored",
+      "url": "https://robertsspaceindustries.com/en/citizens/Backdoored"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Phrack",
+      "url": "https://robertsspaceindustries.com/en/citizens/Phrack"
+    },
+    {
+      "name": "L0pht",
+      "url": "https://robertsspaceindustries.com/en/citizens/L0pht"
+    },
+    {
+      "name": "Mudge",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mudge"
+    },
+    {
+      "name": "cDc",
+      "url": "https://robertsspaceindustries.com/en/citizens/cDc"
+    },
+    {
+      "name": "ZeroCool",
+      "url": "https://robertsspaceindustries.com/en/citizens/ZeroCool"
+    },
+    {
+      "name": "CrashOverride",
+      "url": "https://robertsspaceindustries.com/en/citizens/CrashOverride"
+    },
+    {
+      "name": "AcidBurn",
+      "url": "https://robertsspaceindustries.com/en/citizens/AcidBurn"
+    },
+    {
+      "name": "ThePlague",
+      "url": "https://robertsspaceindustries.com/en/citizens/ThePlague"
+    },
+    {
+      "name": "CerealKiller",
+      "url": "https://robertsspaceindustries.com/en/citizens/CerealKiller"
+    },
+    {
+      "name": "PhantomPhreak",
+      "url": "https://robertsspaceindustries.com/en/citizens/PhantomPhreak"
+    },
+    {
+      "name": "HackThePlanet",
+      "url": "https://robertsspaceindustries.com/en/citizens/HackThePlanet"
+    },
+    {
+      "name": "Sploit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sploit"
+    },
+    {
+      "name": "GoingDark",
+      "url": "https://robertsspaceindustries.com/en/citizens/GoingDark"
+    },
+    {
+      "name": "Deface",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deface"
+    },
+    {
+      "name": "Pivot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pivot"
+    },
+    {
+      "name": "Dropper",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dropper"
+    },
+    {
+      "name": "Crypter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Crypter"
+    },
+    {
+      "name": "Bouncer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bouncer"
+    },
+    {
+      "name": "Proxied",
+      "url": "https://robertsspaceindustries.com/en/citizens/Proxied"
+    },
+    {
+      "name": "Darkened",
+      "url": "https://robertsspaceindustries.com/en/citizens/Darkened"
+    },
+    {
+      "name": "Cloaked",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cloaked"
+    },
+    {
+      "name": "Covert",
+      "url": "https://robertsspaceindustries.com/en/citizens/Covert"
+    },
+    {
+      "name": "Exfiltrate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Exfiltrate"
+    },
+    {
+      "name": "Exfil",
+      "url": "https://robertsspaceindustries.com/en/citizens/Exfil"
+    },
+    {
+      "name": "Warez",
+      "url": "https://robertsspaceindustries.com/en/citizens/Warez"
+    },
+    {
+      "name": "0day",
+      "url": "https://robertsspaceindustries.com/en/citizens/0day"
+    },
+    {
+      "name": "Courier",
+      "url": "https://robertsspaceindustries.com/en/citizens/Courier"
+    },
+    {
+      "name": "Ratio",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ratio"
+    },
+    {
+      "name": "Leecher",
+      "url": "https://robertsspaceindustries.com/en/citizens/Leecher"
+    },
+    {
+      "name": "Nfo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nfo"
+    },
+    {
+      "name": "Nuker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nuker"
+    },
+    {
+      "name": "Stumbler",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stumbler"
+    },
+    {
+      "name": "Phreaker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Phreaker"
+    },
+    {
+      "name": "BlueBox",
+      "url": "https://robertsspaceindustries.com/en/citizens/BlueBox"
+    },
+    {
+      "name": "RedBox",
+      "url": "https://robertsspaceindustries.com/en/citizens/RedBox"
+    },
+    {
+      "name": "ToneLoc",
+      "url": "https://robertsspaceindustries.com/en/citizens/ToneLoc"
+    },
+    {
+      "name": "ScanLine",
+      "url": "https://robertsspaceindustries.com/en/citizens/ScanLine"
+    },
+    {
+      "name": "Skiddie",
+      "url": "https://robertsspaceindustries.com/en/citizens/Skiddie"
+    },
+    {
+      "name": "Scriptkid",
+      "url": "https://robertsspaceindustries.com/en/citizens/Scriptkid"
+    },
+    {
+      "name": "LamEr",
+      "url": "https://robertsspaceindustries.com/en/citizens/LamEr"
+    },
+    {
+      "name": "Newbie",
+      "url": "https://robertsspaceindustries.com/en/citizens/Newbie"
+    },
+    {
+      "name": "SubSeven",
+      "url": "https://robertsspaceindustries.com/en/citizens/SubSeven"
+    },
+    {
+      "name": "Nessus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nessus"
+    },
+    {
+      "name": "Nikto",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nikto"
+    },
+    {
+      "name": "Hydrar",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hydrar"
+    },
+    {
+      "name": "THC",
+      "url": "https://robertsspaceindustries.com/en/citizens/THC"
+    },
+    {
+      "name": "Metasploit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Metasploit"
+    },
+    {
+      "name": "Armitage",
+      "url": "https://robertsspaceindustries.com/en/citizens/Armitage"
+    },
+    {
+      "name": "AccessDenied",
+      "url": "https://robertsspaceindustries.com/en/citizens/AccessDenied"
+    },
+    {
+      "name": "Unauthorized",
+      "url": "https://robertsspaceindustries.com/en/citizens/Unauthorized"
+    },
+    {
+      "name": "Connected",
+      "url": "https://robertsspaceindustries.com/en/citizens/Connected"
+    },
+    {
+      "name": "Rooted",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rooted"
+    },
+    {
+      "name": "Compromised",
+      "url": "https://robertsspaceindustries.com/en/citizens/Compromised"
+    },
+    {
+      "name": "Persistent",
+      "url": "https://robertsspaceindustries.com/en/citizens/Persistent"
+    }
+  ],
+  "errors": []
+}

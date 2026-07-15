@@ -1,0 +1,273 @@
+{
+  "checked_at": "2026-07-09T21:26:03.695914Z",
+  "total": 66,
+  "available": [
+    {
+      "name": "DevMem",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevMem"
+    },
+    {
+      "name": "DevFull",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevFull"
+    },
+    {
+      "name": "DevUrandom",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevUrandom"
+    },
+    {
+      "name": "DevTun",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevTun"
+    },
+    {
+      "name": "DevShm",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevShm"
+    },
+    {
+      "name": "DevKmem",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevKmem"
+    },
+    {
+      "name": "DevLoop",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevLoop"
+    },
+    {
+      "name": "DevPtmx",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevPtmx"
+    },
+    {
+      "name": "DevPts",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevPts"
+    },
+    {
+      "name": "DevStdin",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevStdin"
+    },
+    {
+      "name": "DevStdout",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevStdout"
+    },
+    {
+      "name": "DevStderr",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevStderr"
+    },
+    {
+      "name": "DevFd",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevFd"
+    },
+    {
+      "name": "DevHda",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevHda"
+    },
+    {
+      "name": "DevSda",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevSda"
+    },
+    {
+      "name": "DevSdb",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevSdb"
+    },
+    {
+      "name": "NullSink",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullSink"
+    },
+    {
+      "name": "DataSink",
+      "url": "https://robertsspaceindustries.com/en/citizens/DataSink"
+    },
+    {
+      "name": "ErrorSink",
+      "url": "https://robertsspaceindustries.com/en/citizens/ErrorSink"
+    },
+    {
+      "name": "OutputSink",
+      "url": "https://robertsspaceindustries.com/en/citizens/OutputSink"
+    },
+    {
+      "name": "Tarpit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tarpit"
+    },
+    {
+      "name": "NullChar",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullChar"
+    },
+    {
+      "name": "NullTerm",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullTerm"
+    },
+    {
+      "name": "DevVoid",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevVoid"
+    },
+    {
+      "name": "DevBleed",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevBleed"
+    },
+    {
+      "name": "DevMode",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevMode"
+    },
+    {
+      "name": "DevBox",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevBox"
+    },
+    {
+      "name": "DevDrop",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevDrop"
+    },
+    {
+      "name": "DevSilent",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevSilent"
+    },
+    {
+      "name": "DevHole",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevHole"
+    },
+    {
+      "name": "DevSink",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevSink"
+    },
+    {
+      "name": "DevDead",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevDead"
+    },
+    {
+      "name": "DevPhantom",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevPhantom"
+    },
+    {
+      "name": "DevRoute",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevRoute"
+    },
+    {
+      "name": "DevFlux",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevFlux"
+    },
+    {
+      "name": "DevStray",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevStray"
+    },
+    {
+      "name": "DevCold",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevCold"
+    },
+    {
+      "name": "DevDark",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevDark"
+    },
+    {
+      "name": "DevLost",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevLost"
+    },
+    {
+      "name": "DevMute",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevMute"
+    },
+    {
+      "name": "DevBlank",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevBlank"
+    },
+    {
+      "name": "SendToNull",
+      "url": "https://robertsspaceindustries.com/en/citizens/SendToNull"
+    },
+    {
+      "name": "PipeToNull",
+      "url": "https://robertsspaceindustries.com/en/citizens/PipeToNull"
+    },
+    {
+      "name": "RedirectNull",
+      "url": "https://robertsspaceindustries.com/en/citizens/RedirectNull"
+    },
+    {
+      "name": "OutputNull",
+      "url": "https://robertsspaceindustries.com/en/citizens/OutputNull"
+    },
+    {
+      "name": "NullOutput",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullOutput"
+    },
+    {
+      "name": "NullInput",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullInput"
+    },
+    {
+      "name": "NullReturn",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullReturn"
+    },
+    {
+      "name": "NullResult",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullResult"
+    },
+    {
+      "name": "EmptyReturn",
+      "url": "https://robertsspaceindustries.com/en/citizens/EmptyReturn"
+    },
+    {
+      "name": "NullReply",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullReply"
+    },
+    {
+      "name": "NoReply",
+      "url": "https://robertsspaceindustries.com/en/citizens/NoReply"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "BitBucket",
+      "url": "https://robertsspaceindustries.com/en/citizens/BitBucket"
+    },
+    {
+      "name": "Discard",
+      "url": "https://robertsspaceindustries.com/en/citizens/Discard"
+    },
+    {
+      "name": "NullRoute",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullRoute"
+    },
+    {
+      "name": "Blackhole",
+      "url": "https://robertsspaceindustries.com/en/citizens/Blackhole"
+    },
+    {
+      "name": "Sinkhole",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sinkhole"
+    },
+    {
+      "name": "Honeypot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Honeypot"
+    },
+    {
+      "name": "Darkspace",
+      "url": "https://robertsspaceindustries.com/en/citizens/Darkspace"
+    },
+    {
+      "name": "NullByte",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullByte"
+    },
+    {
+      "name": "NullPtr",
+      "url": "https://robertsspaceindustries.com/en/citizens/NullPtr"
+    },
+    {
+      "name": "DevGhost",
+      "url": "https://robertsspaceindustries.com/en/citizens/DevGhost"
+    },
+    {
+      "name": "VoidReturn",
+      "url": "https://robertsspaceindustries.com/en/citizens/VoidReturn"
+    },
+    {
+      "name": "Unresponsive",
+      "url": "https://robertsspaceindustries.com/en/citizens/Unresponsive"
+    },
+    {
+      "name": "Unreachable",
+      "url": "https://robertsspaceindustries.com/en/citizens/Unreachable"
+    },
+    {
+      "name": "Devnul",
+      "url": "https://robertsspaceindustries.com/en/citizens/Devnul"
+    }
+  ],
+  "errors": []
+}

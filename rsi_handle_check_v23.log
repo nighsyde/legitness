@@ -1,0 +1,198 @@
+Checking 92 original cyberpunk/AI/hacker handles...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/92]   200  TAKEN       Flatline                   https://robertsspaceindustries.com/en/citizens/Flatline
+[  2/92]   200  TAKEN       Segfault                   https://robertsspaceindustries.com/en/citizens/Segfault
+[  3/92]   404  AVAILABLE   Coldparse                  https://robertsspaceindustries.com/en/citizens/Coldparse
+[  4/92]   404  AVAILABLE   Hexfrost                   https://robertsspaceindustries.com/en/citizens/Hexfrost
+[  5/92]   200  TAKEN       Wetware                    https://robertsspaceindustries.com/en/citizens/Wetware
+[  6/92]   200  TAKEN       Firmware                   https://robertsspaceindustries.com/en/citizens/Firmware
+[  7/92]   200  TAKEN       Jackpoint                  https://robertsspaceindustries.com/en/citizens/Jackpoint
+[  8/92]   404  AVAILABLE   Nullform                   https://robertsspaceindustries.com/en/citizens/Nullform
+[  9/92]   200  TAKEN       Glitch                     https://robertsspaceindustries.com/en/citizens/Glitch
+[ 10/92]   200  TAKEN       Sprawl                     https://robertsspaceindustries.com/en/citizens/Sprawl
+[ 11/92]   200  TAKEN       Iterate                    https://robertsspaceindustries.com/en/citizens/Iterate
+[ 12/92]   200  TAKEN       Recurse                    https://robertsspaceindustries.com/en/citizens/Recurse
+[ 13/92]   200  TAKEN       Overflow                   https://robertsspaceindustries.com/en/citizens/Overflow
+[ 14/92]   200  TAKEN       Coldboot                   https://robertsspaceindustries.com/en/citizens/Coldboot
+[ 15/92]   200  TAKEN       Deadcode                   https://robertsspaceindustries.com/en/citizens/Deadcode
+[ 16/92]   200  TAKEN       Voidrun                    https://robertsspaceindustries.com/en/citizens/Voidrun
+[ 17/92]   404  AVAILABLE   Latent                     https://robertsspaceindustries.com/en/citizens/Latent
+[ 18/92]   200  TAKEN       Chrome                     https://robertsspaceindustries.com/en/citizens/Chrome
+[ 19/92]   200  TAKEN       Axiom                      https://robertsspaceindustries.com/en/citizens/Axiom
+[ 20/92]   200  TAKEN       Static                     https://robertsspaceindustries.com/en/citizens/Static
+[ 21/92]   200  TAKEN       Uplink                     https://robertsspaceindustries.com/en/citizens/Uplink
+[ 22/92]   200  TAKEN       Downlink                   https://robertsspaceindustries.com/en/citizens/Downlink
+[ 23/92]   404  AVAILABLE   Sideload                   https://robertsspaceindustries.com/en/citizens/Sideload
+[ 24/92]   200  TAKEN       Jailbreak                  https://robertsspaceindustries.com/en/citizens/Jailbreak
+[ 25/92]   404  AVAILABLE   Brutepass                  https://robertsspaceindustries.com/en/citizens/Brutepass
+[ 26/92]   200  TAKEN       Nullsec                    https://robertsspaceindustries.com/en/citizens/Nullsec
+[ 27/92]   200  TAKEN       Flatspace                  https://robertsspaceindustries.com/en/citizens/Flatspace
+[ 28/92]   200  TAKEN       Ghostline                  https://robertsspaceindustries.com/en/citizens/Ghostline
+[ 29/92]   200  TAKEN       Ironveil                   https://robertsspaceindustries.com/en/citizens/Ironveil
+[ 30/92]   404  AVAILABLE   Coldwire                   https://robertsspaceindustries.com/en/citizens/Coldwire
+[ 31/92]   404  AVAILABLE   Stackwipe                  https://robertsspaceindustries.com/en/citizens/Stackwipe
+[ 32/92]   404  AVAILABLE   Patchghost                 https://robertsspaceindustries.com/en/citizens/Patchghost
+[ 33/92]   404  AVAILABLE   Hexblind                   https://robertsspaceindustries.com/en/citizens/Hexblind
+[ 34/92]   404  AVAILABLE   Darkparse                  https://robertsspaceindustries.com/en/citizens/Darkparse
+[ 35/92]   404  AVAILABLE   Zeroform                   https://robertsspaceindustries.com/en/citizens/Zeroform
+[ 36/92]   200  TAKEN       Vexcore                    https://robertsspaceindustries.com/en/citizens/Vexcore
+[ 37/92]   200  TAKEN       Coldcore                   https://robertsspaceindustries.com/en/citizens/Coldcore
+[ 38/92]   404  AVAILABLE   Corebleed                  https://robertsspaceindustries.com/en/citizens/Corebleed
+[ 39/92]   404  AVAILABLE   Memwipe                    https://robertsspaceindustries.com/en/citizens/Memwipe
+[ 40/92]   404  AVAILABLE   Rootvoid                   https://robertsspaceindustries.com/en/citizens/Rootvoid
+[ 41/92]   200  TAKEN       Deepfreeze                 https://robertsspaceindustries.com/en/citizens/Deepfreeze
+[ 42/92]   200  TAKEN       Killchain                  https://robertsspaceindustries.com/en/citizens/Killchain
+[ 43/92]   200  TAKEN       Greyhat                    https://robertsspaceindustries.com/en/citizens/Greyhat
+[ 44/92]   200  TAKEN       Blackhat                   https://robertsspaceindustries.com/en/citizens/Blackhat
+[ 45/92]   200  TAKEN       Whitehat                   https://robertsspaceindustries.com/en/citizens/Whitehat
+[ 46/92]   200  TAKEN       Null0                      https://robertsspaceindustries.com/en/citizens/Null0
+[ 47/92]   200  TAKEN       Vex0                       https://robertsspaceindustries.com/en/citizens/Vex0
+[ 48/92]   200  TAKEN       Hex0                       https://robertsspaceindustries.com/en/citizens/Hex0
+[ 49/92]   200  TAKEN       Tendril                    https://robertsspaceindustries.com/en/citizens/Tendril
+[ 50/92]   200  TAKEN       Filament                   https://robertsspaceindustries.com/en/citizens/Filament
+[ 51/92]   200  TAKEN       Conduit                    https://robertsspaceindustries.com/en/citizens/Conduit
+[ 52/92]   200  TAKEN       Resonant                   https://robertsspaceindustries.com/en/citizens/Resonant
+[ 53/92]   200  TAKEN       Aberrant                   https://robertsspaceindustries.com/en/citizens/Aberrant
+[ 54/92]   200  TAKEN       Insurgent                  https://robertsspaceindustries.com/en/citizens/Insurgent
+[ 55/92]   200  TAKEN       Latency                    https://robertsspaceindustries.com/en/citizens/Latency
+[ 56/92]   404  AVAILABLE   Propagate                  https://robertsspaceindustries.com/en/citizens/Propagate
+[ 57/92]   200  TAKEN       Cascade                    https://robertsspaceindustries.com/en/citizens/Cascade
+[ 58/92]   200  TAKEN       Threshold                  https://robertsspaceindustries.com/en/citizens/Threshold
+[ 59/92]   200  TAKEN       Precipice                  https://robertsspaceindustries.com/en/citizens/Precipice
+[ 60/92]   200  TAKEN       Terminus                   https://robertsspaceindustries.com/en/citizens/Terminus
+[ 61/92]   200  TAKEN       Nexus                      https://robertsspaceindustries.com/en/citizens/Nexus
+[ 62/92]   200  TAKEN       Vertex                     https://robertsspaceindustries.com/en/citizens/Vertex
+[ 63/92]   200  TAKEN       Nadir                      https://robertsspaceindustries.com/en/citizens/Nadir
+[ 64/92]   200  TAKEN       Apogee                     https://robertsspaceindustries.com/en/citizens/Apogee
+[ 65/92]   200  TAKEN       Perigee                    https://robertsspaceindustries.com/en/citizens/Perigee
+[ 66/92]   200  TAKEN       Kernel                     https://robertsspaceindustries.com/en/citizens/Kernel
+[ 67/92]   200  TAKEN       Daemon                     https://robertsspaceindustries.com/en/citizens/Daemon
+[ 68/92]   200  TAKEN       Phantom0                   https://robertsspaceindustries.com/en/citizens/Phantom0
+[ 69/92]   404  AVAILABLE   Process0                   https://robertsspaceindustries.com/en/citizens/Process0
+[ 70/92]   200  TAKEN       Greyzone                   https://robertsspaceindustries.com/en/citizens/Greyzone
+[ 71/92]   200  TAKEN       Coldslate                  https://robertsspaceindustries.com/en/citizens/Coldslate
+[ 72/92]   404  AVAILABLE   Inkblot                    https://robertsspaceindustries.com/en/citizens/Inkblot
+[ 73/92]   200  TAKEN       Blindspot                  https://robertsspaceindustries.com/en/citizens/Blindspot
+[ 74/92]   404  AVAILABLE   Deadangle                  https://robertsspaceindustries.com/en/citizens/Deadangle
+[ 75/92]   200  TAKEN       Darkangle                  https://robertsspaceindustries.com/en/citizens/Darkangle
+[ 76/92]   200  TAKEN       Blackzone                  https://robertsspaceindustries.com/en/citizens/Blackzone
+[ 77/92]   200  TAKEN       Coldzone                   https://robertsspaceindustries.com/en/citizens/Coldzone
+[ 78/92]   200  TAKEN       Blindside                  https://robertsspaceindustries.com/en/citizens/Blindside
+[ 79/92]   200  TAKEN       Deadchannel                https://robertsspaceindustries.com/en/citizens/Deadchannel
+[ 80/92]   200  TAKEN       Coldfront                  https://robertsspaceindustries.com/en/citizens/Coldfront
+[ 81/92]   200  TAKEN       Lowkey                     https://robertsspaceindustries.com/en/citizens/Lowkey
+[ 82/92]   200  TAKEN       Sublevel                   https://robertsspaceindustries.com/en/citizens/Sublevel
+[ 83/92]   200  TAKEN       Deepdive                   https://robertsspaceindustries.com/en/citizens/Deepdive
+[ 84/92]   200  TAKEN       Hardwired                  https://robertsspaceindustries.com/en/citizens/Hardwired
+[ 85/92]   200  TAKEN       Overclock                  https://robertsspaceindustries.com/en/citizens/Overclock
+[ 86/92]   404  AVAILABLE   Frostbyte                  https://robertsspaceindustries.com/en/citizens/Frostbyte
+[ 87/92]   404  AVAILABLE   Bitrot                     https://robertsspaceindustries.com/en/citizens/Bitrot
+[ 88/92]   200  TAKEN       Entropy0                   https://robertsspaceindustries.com/en/citizens/Entropy0
+[ 89/92]   200  TAKEN       Killbit                    https://robertsspaceindustries.com/en/citizens/Killbit
+[ 90/92]   200  TAKEN       Deadbit                    https://robertsspaceindustries.com/en/citizens/Deadbit
+[ 91/92]   404  AVAILABLE   Coldbit                    https://robertsspaceindustries.com/en/citizens/Coldbit
+[ 92/92]   404  AVAILABLE   Vexbyte                    https://robertsspaceindustries.com/en/citizens/Vexbyte
+
+==============================================================================================================
+
+✅  AVAILABLE (23):
+   Coldparse                       https://robertsspaceindustries.com/en/citizens/Coldparse
+   Hexfrost                        https://robertsspaceindustries.com/en/citizens/Hexfrost
+   Nullform                        https://robertsspaceindustries.com/en/citizens/Nullform
+   Latent                          https://robertsspaceindustries.com/en/citizens/Latent
+   Sideload                        https://robertsspaceindustries.com/en/citizens/Sideload
+   Brutepass                       https://robertsspaceindustries.com/en/citizens/Brutepass
+   Coldwire                        https://robertsspaceindustries.com/en/citizens/Coldwire
+   Stackwipe                       https://robertsspaceindustries.com/en/citizens/Stackwipe
+   Patchghost                      https://robertsspaceindustries.com/en/citizens/Patchghost
+   Hexblind                        https://robertsspaceindustries.com/en/citizens/Hexblind
+   Darkparse                       https://robertsspaceindustries.com/en/citizens/Darkparse
+   Zeroform                        https://robertsspaceindustries.com/en/citizens/Zeroform
+   Corebleed                       https://robertsspaceindustries.com/en/citizens/Corebleed
+   Memwipe                         https://robertsspaceindustries.com/en/citizens/Memwipe
+   Rootvoid                        https://robertsspaceindustries.com/en/citizens/Rootvoid
+   Propagate                       https://robertsspaceindustries.com/en/citizens/Propagate
+   Process0                        https://robertsspaceindustries.com/en/citizens/Process0
+   Inkblot                         https://robertsspaceindustries.com/en/citizens/Inkblot
+   Deadangle                       https://robertsspaceindustries.com/en/citizens/Deadangle
+   Frostbyte                       https://robertsspaceindustries.com/en/citizens/Frostbyte
+   Bitrot                          https://robertsspaceindustries.com/en/citizens/Bitrot
+   Coldbit                         https://robertsspaceindustries.com/en/citizens/Coldbit
+   Vexbyte                         https://robertsspaceindustries.com/en/citizens/Vexbyte
+
+❌  TAKEN (69):
+   Flatline                        https://robertsspaceindustries.com/en/citizens/Flatline
+   Segfault                        https://robertsspaceindustries.com/en/citizens/Segfault
+   Wetware                         https://robertsspaceindustries.com/en/citizens/Wetware
+   Firmware                        https://robertsspaceindustries.com/en/citizens/Firmware
+   Jackpoint                       https://robertsspaceindustries.com/en/citizens/Jackpoint
+   Glitch                          https://robertsspaceindustries.com/en/citizens/Glitch
+   Sprawl                          https://robertsspaceindustries.com/en/citizens/Sprawl
+   Iterate                         https://robertsspaceindustries.com/en/citizens/Iterate
+   Recurse                         https://robertsspaceindustries.com/en/citizens/Recurse
+   Overflow                        https://robertsspaceindustries.com/en/citizens/Overflow
+   Coldboot                        https://robertsspaceindustries.com/en/citizens/Coldboot
+   Deadcode                        https://robertsspaceindustries.com/en/citizens/Deadcode
+   Voidrun                         https://robertsspaceindustries.com/en/citizens/Voidrun
+   Chrome                          https://robertsspaceindustries.com/en/citizens/Chrome
+   Axiom                           https://robertsspaceindustries.com/en/citizens/Axiom
+   Static                          https://robertsspaceindustries.com/en/citizens/Static
+   Uplink                          https://robertsspaceindustries.com/en/citizens/Uplink
+   Downlink                        https://robertsspaceindustries.com/en/citizens/Downlink
+   Jailbreak                       https://robertsspaceindustries.com/en/citizens/Jailbreak
+   Nullsec                         https://robertsspaceindustries.com/en/citizens/Nullsec
+   Flatspace                       https://robertsspaceindustries.com/en/citizens/Flatspace
+   Ghostline                       https://robertsspaceindustries.com/en/citizens/Ghostline
+   Ironveil                        https://robertsspaceindustries.com/en/citizens/Ironveil
+   Vexcore                         https://robertsspaceindustries.com/en/citizens/Vexcore
+   Coldcore                        https://robertsspaceindustries.com/en/citizens/Coldcore
+   Deepfreeze                      https://robertsspaceindustries.com/en/citizens/Deepfreeze
+   Killchain                       https://robertsspaceindustries.com/en/citizens/Killchain
+   Greyhat                         https://robertsspaceindustries.com/en/citizens/Greyhat
+   Blackhat                        https://robertsspaceindustries.com/en/citizens/Blackhat
+   Whitehat                        https://robertsspaceindustries.com/en/citizens/Whitehat
+   Null0                           https://robertsspaceindustries.com/en/citizens/Null0
+   Vex0                            https://robertsspaceindustries.com/en/citizens/Vex0
+   Hex0                            https://robertsspaceindustries.com/en/citizens/Hex0
+   Tendril                         https://robertsspaceindustries.com/en/citizens/Tendril
+   Filament                        https://robertsspaceindustries.com/en/citizens/Filament
+   Conduit                         https://robertsspaceindustries.com/en/citizens/Conduit
+   Resonant                        https://robertsspaceindustries.com/en/citizens/Resonant
+   Aberrant                        https://robertsspaceindustries.com/en/citizens/Aberrant
+   Insurgent                       https://robertsspaceindustries.com/en/citizens/Insurgent
+   Latency                         https://robertsspaceindustries.com/en/citizens/Latency
+   Cascade                         https://robertsspaceindustries.com/en/citizens/Cascade
+   Threshold                       https://robertsspaceindustries.com/en/citizens/Threshold
+   Precipice                       https://robertsspaceindustries.com/en/citizens/Precipice
+   Terminus                        https://robertsspaceindustries.com/en/citizens/Terminus
+   Nexus                           https://robertsspaceindustries.com/en/citizens/Nexus
+   Vertex                          https://robertsspaceindustries.com/en/citizens/Vertex
+   Nadir                           https://robertsspaceindustries.com/en/citizens/Nadir
+   Apogee                          https://robertsspaceindustries.com/en/citizens/Apogee
+   Perigee                         https://robertsspaceindustries.com/en/citizens/Perigee
+   Kernel                          https://robertsspaceindustries.com/en/citizens/Kernel
+   Daemon                          https://robertsspaceindustries.com/en/citizens/Daemon
+   Phantom0                        https://robertsspaceindustries.com/en/citizens/Phantom0
+   Greyzone                        https://robertsspaceindustries.com/en/citizens/Greyzone
+   Coldslate                       https://robertsspaceindustries.com/en/citizens/Coldslate
+   Blindspot                       https://robertsspaceindustries.com/en/citizens/Blindspot
+   Darkangle                       https://robertsspaceindustries.com/en/citizens/Darkangle
+   Blackzone                       https://robertsspaceindustries.com/en/citizens/Blackzone
+   Coldzone                        https://robertsspaceindustries.com/en/citizens/Coldzone
+   Blindside                       https://robertsspaceindustries.com/en/citizens/Blindside
+   Deadchannel                     https://robertsspaceindustries.com/en/citizens/Deadchannel
+   Coldfront                       https://robertsspaceindustries.com/en/citizens/Coldfront
+   Lowkey                          https://robertsspaceindustries.com/en/citizens/Lowkey
+   Sublevel                        https://robertsspaceindustries.com/en/citizens/Sublevel
+   Deepdive                        https://robertsspaceindustries.com/en/citizens/Deepdive
+   Hardwired                       https://robertsspaceindustries.com/en/citizens/Hardwired
+   Overclock                       https://robertsspaceindustries.com/en/citizens/Overclock
+   Entropy0                        https://robertsspaceindustries.com/en/citizens/Entropy0
+   Killbit                         https://robertsspaceindustries.com/en/citizens/Killbit
+   Deadbit                         https://robertsspaceindustries.com/en/citizens/Deadbit
+/workspace/check_rsi_handles_v23.py:188: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v23.json

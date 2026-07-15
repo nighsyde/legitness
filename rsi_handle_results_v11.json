@@ -1,0 +1,417 @@
+{
+  "checked_at": "2026-07-01T01:17:46.551516Z",
+  "total": 102,
+  "available": [
+    {
+      "name": "hogger",
+      "url": "https://robertsspaceindustries.com/en/citizens/hogger"
+    },
+    {
+      "name": "mrglglgl",
+      "url": "https://robertsspaceindustries.com/en/citizens/mrglglgl"
+    },
+    {
+      "name": "defias",
+      "url": "https://robertsspaceindustries.com/en/citizens/defias"
+    },
+    {
+      "name": "vankleef",
+      "url": "https://robertsspaceindustries.com/en/citizens/vankleef"
+    },
+    {
+      "name": "stormwind",
+      "url": "https://robertsspaceindustries.com/en/citizens/stormwind"
+    },
+    {
+      "name": "undercity",
+      "url": "https://robertsspaceindustries.com/en/citizens/undercity"
+    },
+    {
+      "name": "darnassus",
+      "url": "https://robertsspaceindustries.com/en/citizens/darnassus"
+    },
+    {
+      "name": "goldshire",
+      "url": "https://robertsspaceindustries.com/en/citizens/goldshire"
+    },
+    {
+      "name": "darkshore",
+      "url": "https://robertsspaceindustries.com/en/citizens/darkshore"
+    },
+    {
+      "name": "dustwallow",
+      "url": "https://robertsspaceindustries.com/en/citizens/dustwallow"
+    },
+    {
+      "name": "hillsbrad",
+      "url": "https://robertsspaceindustries.com/en/citizens/hillsbrad"
+    },
+    {
+      "name": "feralas",
+      "url": "https://robertsspaceindustries.com/en/citizens/feralas"
+    },
+    {
+      "name": "stockades",
+      "url": "https://robertsspaceindustries.com/en/citizens/stockades"
+    },
+    {
+      "name": "zulfarrak",
+      "url": "https://robertsspaceindustries.com/en/citizens/zulfarrak"
+    },
+    {
+      "name": "diremaul",
+      "url": "https://robertsspaceindustries.com/en/citizens/diremaul"
+    },
+    {
+      "name": "innervate",
+      "url": "https://robertsspaceindustries.com/en/citizens/innervate"
+    },
+    {
+      "name": "offtank",
+      "url": "https://robertsspaceindustries.com/en/citizens/offtank"
+    },
+    {
+      "name": "raidnight",
+      "url": "https://robertsspaceindustries.com/en/citizens/raidnight"
+    },
+    {
+      "name": "softres",
+      "url": "https://robertsspaceindustries.com/en/citizens/softres"
+    },
+    {
+      "name": "greedroll",
+      "url": "https://robertsspaceindustries.com/en/citizens/greedroll"
+    },
+    {
+      "name": "monsterkill",
+      "url": "https://robertsspaceindustries.com/en/citizens/monsterkill"
+    },
+    {
+      "name": "gravgun",
+      "url": "https://robertsspaceindustries.com/en/citizens/gravgun"
+    },
+    {
+      "name": "nanotrite",
+      "url": "https://robertsspaceindustries.com/en/citizens/nanotrite"
+    },
+    {
+      "name": "prismtower",
+      "url": "https://robertsspaceindustries.com/en/citizens/prismtower"
+    },
+    {
+      "name": "teslatower",
+      "url": "https://robertsspaceindustries.com/en/citizens/teslatower"
+    },
+    {
+      "name": "nerevarine",
+      "url": "https://robertsspaceindustries.com/en/citizens/nerevarine"
+    },
+    {
+      "name": "kunark",
+      "url": "https://robertsspaceindustries.com/en/citizens/kunark"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "ragnaros",
+      "url": "https://robertsspaceindustries.com/en/citizens/ragnaros"
+    },
+    {
+      "name": "nefarian",
+      "url": "https://robertsspaceindustries.com/en/citizens/nefarian"
+    },
+    {
+      "name": "hakkar",
+      "url": "https://robertsspaceindustries.com/en/citizens/hakkar"
+    },
+    {
+      "name": "murloc",
+      "url": "https://robertsspaceindustries.com/en/citizens/murloc"
+    },
+    {
+      "name": "quilboar",
+      "url": "https://robertsspaceindustries.com/en/citizens/quilboar"
+    },
+    {
+      "name": "kobold",
+      "url": "https://robertsspaceindustries.com/en/citizens/kobold"
+    },
+    {
+      "name": "orgrimmar",
+      "url": "https://robertsspaceindustries.com/en/citizens/orgrimmar"
+    },
+    {
+      "name": "ironforge",
+      "url": "https://robertsspaceindustries.com/en/citizens/ironforge"
+    },
+    {
+      "name": "azshara",
+      "url": "https://robertsspaceindustries.com/en/citizens/azshara"
+    },
+    {
+      "name": "moonglade",
+      "url": "https://robertsspaceindustries.com/en/citizens/moonglade"
+    },
+    {
+      "name": "arathi",
+      "url": "https://robertsspaceindustries.com/en/citizens/arathi"
+    },
+    {
+      "name": "shadowfang",
+      "url": "https://robertsspaceindustries.com/en/citizens/shadowfang"
+    },
+    {
+      "name": "blackrock",
+      "url": "https://robertsspaceindustries.com/en/citizens/blackrock"
+    },
+    {
+      "name": "moonfire",
+      "url": "https://robertsspaceindustries.com/en/citizens/moonfire"
+    },
+    {
+      "name": "polymorph",
+      "url": "https://robertsspaceindustries.com/en/citizens/polymorph"
+    },
+    {
+      "name": "pyroblast",
+      "url": "https://robertsspaceindustries.com/en/citizens/pyroblast"
+    },
+    {
+      "name": "windfury",
+      "url": "https://robertsspaceindustries.com/en/citizens/windfury"
+    },
+    {
+      "name": "bubble",
+      "url": "https://robertsspaceindustries.com/en/citizens/bubble"
+    },
+    {
+      "name": "dkp",
+      "url": "https://robertsspaceindustries.com/en/citizens/dkp"
+    },
+    {
+      "name": "maintank",
+      "url": "https://robertsspaceindustries.com/en/citizens/maintank"
+    },
+    {
+      "name": "reroll",
+      "url": "https://robertsspaceindustries.com/en/citizens/reroll"
+    },
+    {
+      "name": "godlike",
+      "url": "https://robertsspaceindustries.com/en/citizens/godlike"
+    },
+    {
+      "name": "rampage",
+      "url": "https://robertsspaceindustries.com/en/citizens/rampage"
+    },
+    {
+      "name": "dominating",
+      "url": "https://robertsspaceindustries.com/en/citizens/dominating"
+    },
+    {
+      "name": "impressive",
+      "url": "https://robertsspaceindustries.com/en/citizens/impressive"
+    },
+    {
+      "name": "excellent",
+      "url": "https://robertsspaceindustries.com/en/citizens/excellent"
+    },
+    {
+      "name": "ultrakill",
+      "url": "https://robertsspaceindustries.com/en/citizens/ultrakill"
+    },
+    {
+      "name": "wickedsick",
+      "url": "https://robertsspaceindustries.com/en/citizens/wickedsick"
+    },
+    {
+      "name": "firstblood",
+      "url": "https://robertsspaceindustries.com/en/citizens/firstblood"
+    },
+    {
+      "name": "killingspree",
+      "url": "https://robertsspaceindustries.com/en/citizens/killingspree"
+    },
+    {
+      "name": "halflife",
+      "url": "https://robertsspaceindustries.com/en/citizens/halflife"
+    },
+    {
+      "name": "crowbar",
+      "url": "https://robertsspaceindustries.com/en/citizens/crowbar"
+    },
+    {
+      "name": "blackmesa",
+      "url": "https://robertsspaceindustries.com/en/citizens/blackmesa"
+    },
+    {
+      "name": "lambda",
+      "url": "https://robertsspaceindustries.com/en/citizens/lambda"
+    },
+    {
+      "name": "freeman",
+      "url": "https://robertsspaceindustries.com/en/citizens/freeman"
+    },
+    {
+      "name": "resonance",
+      "url": "https://robertsspaceindustries.com/en/citizens/resonance"
+    },
+    {
+      "name": "xenworld",
+      "url": "https://robertsspaceindustries.com/en/citizens/xenworld"
+    },
+    {
+      "name": "nihilanth",
+      "url": "https://robertsspaceindustries.com/en/citizens/nihilanth"
+    },
+    {
+      "name": "alyx",
+      "url": "https://robertsspaceindustries.com/en/citizens/alyx"
+    },
+    {
+      "name": "combine",
+      "url": "https://robertsspaceindustries.com/en/citizens/combine"
+    },
+    {
+      "name": "shodan",
+      "url": "https://robertsspaceindustries.com/en/citizens/shodan"
+    },
+    {
+      "name": "jcdenton",
+      "url": "https://robertsspaceindustries.com/en/citizens/jcdenton"
+    },
+    {
+      "name": "deus",
+      "url": "https://robertsspaceindustries.com/en/citizens/deus"
+    },
+    {
+      "name": "augmented",
+      "url": "https://robertsspaceindustries.com/en/citizens/augmented"
+    },
+    {
+      "name": "kirov",
+      "url": "https://robertsspaceindustries.com/en/citizens/kirov"
+    },
+    {
+      "name": "chronosphere",
+      "url": "https://robertsspaceindustries.com/en/citizens/chronosphere"
+    },
+    {
+      "name": "yuri",
+      "url": "https://robertsspaceindustries.com/en/citizens/yuri"
+    },
+    {
+      "name": "soviets",
+      "url": "https://robertsspaceindustries.com/en/citizens/soviets"
+    },
+    {
+      "name": "ironguard",
+      "url": "https://robertsspaceindustries.com/en/citizens/ironguard"
+    },
+    {
+      "name": "tengu",
+      "url": "https://robertsspaceindustries.com/en/citizens/tengu"
+    },
+    {
+      "name": "balmora",
+      "url": "https://robertsspaceindustries.com/en/citizens/balmora"
+    },
+    {
+      "name": "vivec",
+      "url": "https://robertsspaceindustries.com/en/citizens/vivec"
+    },
+    {
+      "name": "dagothur",
+      "url": "https://robertsspaceindustries.com/en/citizens/dagothur"
+    },
+    {
+      "name": "telvanni",
+      "url": "https://robertsspaceindustries.com/en/citizens/telvanni"
+    },
+    {
+      "name": "dunmer",
+      "url": "https://robertsspaceindustries.com/en/citizens/dunmer"
+    },
+    {
+      "name": "outlander",
+      "url": "https://robertsspaceindustries.com/en/citizens/outlander"
+    },
+    {
+      "name": "almsivi",
+      "url": "https://robertsspaceindustries.com/en/citizens/almsivi"
+    },
+    {
+      "name": "almalexia",
+      "url": "https://robertsspaceindustries.com/en/citizens/almalexia"
+    },
+    {
+      "name": "sotha",
+      "url": "https://robertsspaceindustries.com/en/citizens/sotha"
+    },
+    {
+      "name": "seyda",
+      "url": "https://robertsspaceindustries.com/en/citizens/seyda"
+    },
+    {
+      "name": "redoran",
+      "url": "https://robertsspaceindustries.com/en/citizens/redoran"
+    },
+    {
+      "name": "hlaalu",
+      "url": "https://robertsspaceindustries.com/en/citizens/hlaalu"
+    },
+    {
+      "name": "indoril",
+      "url": "https://robertsspaceindustries.com/en/citizens/indoril"
+    },
+    {
+      "name": "minsc",
+      "url": "https://robertsspaceindustries.com/en/citizens/minsc"
+    },
+    {
+      "name": "boo",
+      "url": "https://robertsspaceindustries.com/en/citizens/boo"
+    },
+    {
+      "name": "jaheira",
+      "url": "https://robertsspaceindustries.com/en/citizens/jaheira"
+    },
+    {
+      "name": "imoen",
+      "url": "https://robertsspaceindustries.com/en/citizens/imoen"
+    },
+    {
+      "name": "busted",
+      "url": "https://robertsspaceindustries.com/en/citizens/busted"
+    },
+    {
+      "name": "nitrous",
+      "url": "https://robertsspaceindustries.com/en/citizens/nitrous"
+    },
+    {
+      "name": "pursuit",
+      "url": "https://robertsspaceindustries.com/en/citizens/pursuit"
+    },
+    {
+      "name": "infernus",
+      "url": "https://robertsspaceindustries.com/en/citizens/infernus"
+    },
+    {
+      "name": "moonglow",
+      "url": "https://robertsspaceindustries.com/en/citizens/moonglow"
+    },
+    {
+      "name": "norrath",
+      "url": "https://robertsspaceindustries.com/en/citizens/norrath"
+    },
+    {
+      "name": "luclin",
+      "url": "https://robertsspaceindustries.com/en/citizens/luclin"
+    },
+    {
+      "name": "velious",
+      "url": "https://robertsspaceindustries.com/en/citizens/velious"
+    }
+  ],
+  "errors": []
+}

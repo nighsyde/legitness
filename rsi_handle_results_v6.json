@@ -1,0 +1,445 @@
+{
+  "checked_at": "2026-06-30T23:45:07.774453Z",
+  "total": 109,
+  "available": [
+    {
+      "name": "Stunlock",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stunlock"
+    },
+    {
+      "name": "Globaled",
+      "url": "https://robertsspaceindustries.com/en/citizens/Globaled"
+    },
+    {
+      "name": "SitBoy",
+      "url": "https://robertsspaceindustries.com/en/citizens/SitBoy"
+    },
+    {
+      "name": "PillarHumper",
+      "url": "https://robertsspaceindustries.com/en/citizens/PillarHumper"
+    },
+    {
+      "name": "PillarHump",
+      "url": "https://robertsspaceindustries.com/en/citizens/PillarHump"
+    },
+    {
+      "name": "HonorFarming",
+      "url": "https://robertsspaceindustries.com/en/citizens/HonorFarming"
+    },
+    {
+      "name": "GraveyardCamp",
+      "url": "https://robertsspaceindustries.com/en/citizens/GraveyardCamp"
+    },
+    {
+      "name": "CorpseCamp",
+      "url": "https://robertsspaceindustries.com/en/citizens/CorpseCamp"
+    },
+    {
+      "name": "Turtling",
+      "url": "https://robertsspaceindustries.com/en/citizens/Turtling"
+    },
+    {
+      "name": "NinjaCap",
+      "url": "https://robertsspaceindustries.com/en/citizens/NinjaCap"
+    },
+    {
+      "name": "PvPTrinket",
+      "url": "https://robertsspaceindustries.com/en/citizens/PvPTrinket"
+    },
+    {
+      "name": "Backpedaler",
+      "url": "https://robertsspaceindustries.com/en/citizens/Backpedaler"
+    },
+    {
+      "name": "Counterspell",
+      "url": "https://robertsspaceindustries.com/en/citizens/Counterspell"
+    },
+    {
+      "name": "Sheeped",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sheeped"
+    },
+    {
+      "name": "Sapped",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sapped"
+    },
+    {
+      "name": "Procced",
+      "url": "https://robertsspaceindustries.com/en/citizens/Procced"
+    },
+    {
+      "name": "SwiftyMacro",
+      "url": "https://robertsspaceindustries.com/en/citizens/SwiftyMacro"
+    },
+    {
+      "name": "Rerollhunter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rerollhunter"
+    },
+    {
+      "name": "LolRet",
+      "url": "https://robertsspaceindustries.com/en/citizens/LolRet"
+    },
+    {
+      "name": "ShadowWeave",
+      "url": "https://robertsspaceindustries.com/en/citizens/ShadowWeave"
+    },
+    {
+      "name": "HardSwap",
+      "url": "https://robertsspaceindustries.com/en/citizens/HardSwap"
+    },
+    {
+      "name": "TradedKills",
+      "url": "https://robertsspaceindustries.com/en/citizens/TradedKills"
+    },
+    {
+      "name": "RmpComp",
+      "url": "https://robertsspaceindustries.com/en/citizens/RmpComp"
+    },
+    {
+      "name": "CleaveCleave",
+      "url": "https://robertsspaceindustries.com/en/citizens/CleaveCleave"
+    },
+    {
+      "name": "DampeningWins",
+      "url": "https://robertsspaceindustries.com/en/citizens/DampeningWins"
+    },
+    {
+      "name": "StealthNoob",
+      "url": "https://robertsspaceindustries.com/en/citizens/StealthNoob"
+    },
+    {
+      "name": "Kitebot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kitebot"
+    },
+    {
+      "name": "BubbleHearth",
+      "url": "https://robertsspaceindustries.com/en/citizens/BubbleHearth"
+    },
+    {
+      "name": "BubbleHearthstoner",
+      "url": "https://robertsspaceindustries.com/en/citizens/BubbleHearthstoner"
+    },
+    {
+      "name": "Barkskinned",
+      "url": "https://robertsspaceindustries.com/en/citizens/Barkskinned"
+    },
+    {
+      "name": "BearForm",
+      "url": "https://robertsspaceindustries.com/en/citizens/BearForm"
+    },
+    {
+      "name": "ChickenForm",
+      "url": "https://robertsspaceindustries.com/en/citizens/ChickenForm"
+    },
+    {
+      "name": "OneTapper",
+      "url": "https://robertsspaceindustries.com/en/citizens/OneTapper"
+    },
+    {
+      "name": "Spinbotter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Spinbotter"
+    },
+    {
+      "name": "AceRound",
+      "url": "https://robertsspaceindustries.com/en/citizens/AceRound"
+    },
+    {
+      "name": "HardCarry",
+      "url": "https://robertsspaceindustries.com/en/citizens/HardCarry"
+    },
+    {
+      "name": "EcoKill",
+      "url": "https://robertsspaceindustries.com/en/citizens/EcoKill"
+    },
+    {
+      "name": "ForceRound",
+      "url": "https://robertsspaceindustries.com/en/citizens/ForceRound"
+    },
+    {
+      "name": "PlantIt",
+      "url": "https://robertsspaceindustries.com/en/citizens/PlantIt"
+    },
+    {
+      "name": "Rushed",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rushed"
+    },
+    {
+      "name": "Peeked",
+      "url": "https://robertsspaceindustries.com/en/citizens/Peeked"
+    },
+    {
+      "name": "PreAimed",
+      "url": "https://robertsspaceindustries.com/en/citizens/PreAimed"
+    },
+    {
+      "name": "AngleHeld",
+      "url": "https://robertsspaceindustries.com/en/citizens/AngleHeld"
+    },
+    {
+      "name": "WallBanged",
+      "url": "https://robertsspaceindustries.com/en/citizens/WallBanged"
+    },
+    {
+      "name": "FlashTraded",
+      "url": "https://robertsspaceindustries.com/en/citizens/FlashTraded"
+    },
+    {
+      "name": "CycleKill",
+      "url": "https://robertsspaceindustries.com/en/citizens/CycleKill"
+    },
+    {
+      "name": "TimeBuy",
+      "url": "https://robertsspaceindustries.com/en/citizens/TimeBuy"
+    },
+    {
+      "name": "SmokeSpam",
+      "url": "https://robertsspaceindustries.com/en/citizens/SmokeSpam"
+    },
+    {
+      "name": "NadeStack",
+      "url": "https://robertsspaceindustries.com/en/citizens/NadeStack"
+    },
+    {
+      "name": "KnifeRound",
+      "url": "https://robertsspaceindustries.com/en/citizens/KnifeRound"
+    },
+    {
+      "name": "PistolGod",
+      "url": "https://robertsspaceindustries.com/en/citizens/PistolGod"
+    },
+    {
+      "name": "DeagleGod",
+      "url": "https://robertsspaceindustries.com/en/citizens/DeagleGod"
+    },
+    {
+      "name": "AimPunch",
+      "url": "https://robertsspaceindustries.com/en/citizens/AimPunch"
+    },
+    {
+      "name": "Tapfire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tapfire"
+    },
+    {
+      "name": "Spraydown",
+      "url": "https://robertsspaceindustries.com/en/citizens/Spraydown"
+    },
+    {
+      "name": "HeadLevel",
+      "url": "https://robertsspaceindustries.com/en/citizens/HeadLevel"
+    },
+    {
+      "name": "PixelWalk",
+      "url": "https://robertsspaceindustries.com/en/citizens/PixelWalk"
+    },
+    {
+      "name": "JumpThrow",
+      "url": "https://robertsspaceindustries.com/en/citizens/JumpThrow"
+    },
+    {
+      "name": "LineupSmoke",
+      "url": "https://robertsspaceindustries.com/en/citizens/LineupSmoke"
+    },
+    {
+      "name": "ThreeKKnife",
+      "url": "https://robertsspaceindustries.com/en/citizens/ThreeKKnife"
+    },
+    {
+      "name": "DinkShot",
+      "url": "https://robertsspaceindustries.com/en/citizens/DinkShot"
+    },
+    {
+      "name": "FullHPAce",
+      "url": "https://robertsspaceindustries.com/en/citizens/FullHPAce"
+    },
+    {
+      "name": "SoloEntry",
+      "url": "https://robertsspaceindustries.com/en/citizens/SoloEntry"
+    },
+    {
+      "name": "TradeKill",
+      "url": "https://robertsspaceindustries.com/en/citizens/TradeKill"
+    },
+    {
+      "name": "EcoRound",
+      "url": "https://robertsspaceindustries.com/en/citizens/EcoRound"
+    },
+    {
+      "name": "StartFreshRound",
+      "url": "https://robertsspaceindustries.com/en/citizens/StartFreshRound"
+    },
+    {
+      "name": "ClanTag",
+      "url": "https://robertsspaceindustries.com/en/citizens/ClanTag"
+    },
+    {
+      "name": "LagSwitcher",
+      "url": "https://robertsspaceindustries.com/en/citizens/LagSwitcher"
+    },
+    {
+      "name": "Teleporting",
+      "url": "https://robertsspaceindustries.com/en/citizens/Teleporting"
+    },
+    {
+      "name": "PureRNG",
+      "url": "https://robertsspaceindustries.com/en/citizens/PureRNG"
+    },
+    {
+      "name": "LuckNoskill",
+      "url": "https://robertsspaceindustries.com/en/citizens/LuckNoskill"
+    },
+    {
+      "name": "PubStar",
+      "url": "https://robertsspaceindustries.com/en/citizens/PubStar"
+    },
+    {
+      "name": "ScrimGod",
+      "url": "https://robertsspaceindustries.com/en/citizens/ScrimGod"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "RNGesus",
+      "url": "https://robertsspaceindustries.com/en/citizens/RNGesus"
+    },
+    {
+      "name": "Stunbot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stunbot"
+    },
+    {
+      "name": "Trinket",
+      "url": "https://robertsspaceindustries.com/en/citizens/Trinket"
+    },
+    {
+      "name": "Vanished",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vanished"
+    },
+    {
+      "name": "HighWarlord",
+      "url": "https://robertsspaceindustries.com/en/citizens/HighWarlord"
+    },
+    {
+      "name": "GrandMarshal",
+      "url": "https://robertsspaceindustries.com/en/citizens/GrandMarshal"
+    },
+    {
+      "name": "Gladiator",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gladiator"
+    },
+    {
+      "name": "Duelist",
+      "url": "https://robertsspaceindustries.com/en/citizens/Duelist"
+    },
+    {
+      "name": "FlagCarrier",
+      "url": "https://robertsspaceindustries.com/en/citizens/FlagCarrier"
+    },
+    {
+      "name": "Cycloned",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cycloned"
+    },
+    {
+      "name": "Feared",
+      "url": "https://robertsspaceindustries.com/en/citizens/Feared"
+    },
+    {
+      "name": "Disoriented",
+      "url": "https://robertsspaceindustries.com/en/citizens/Disoriented"
+    },
+    {
+      "name": "FaceMelter",
+      "url": "https://robertsspaceindustries.com/en/citizens/FaceMelter"
+    },
+    {
+      "name": "TwoShot",
+      "url": "https://robertsspaceindustries.com/en/citizens/TwoShot"
+    },
+    {
+      "name": "GlobalCd",
+      "url": "https://robertsspaceindustries.com/en/citizens/GlobalCd"
+    },
+    {
+      "name": "Peel",
+      "url": "https://robertsspaceindustries.com/en/citizens/Peel"
+    },
+    {
+      "name": "GoGoGo",
+      "url": "https://robertsspaceindustries.com/en/citizens/GoGoGo"
+    },
+    {
+      "name": "Bursting",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bursting"
+    },
+    {
+      "name": "Tunneling",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tunneling"
+    },
+    {
+      "name": "HealBot",
+      "url": "https://robertsspaceindustries.com/en/citizens/HealBot"
+    },
+    {
+      "name": "IceBlock",
+      "url": "https://robertsspaceindustries.com/en/citizens/IceBlock"
+    },
+    {
+      "name": "GGEZ",
+      "url": "https://robertsspaceindustries.com/en/citizens/GGEZ"
+    },
+    {
+      "name": "ClutchOrKick",
+      "url": "https://robertsspaceindustries.com/en/citizens/ClutchOrKick"
+    },
+    {
+      "name": "SpinBot",
+      "url": "https://robertsspaceindustries.com/en/citizens/SpinBot"
+    },
+    {
+      "name": "SkillIssue",
+      "url": "https://robertsspaceindustries.com/en/citizens/SkillIssue"
+    },
+    {
+      "name": "GetRekt",
+      "url": "https://robertsspaceindustries.com/en/citizens/GetRekt"
+    },
+    {
+      "name": "DropMe",
+      "url": "https://robertsspaceindustries.com/en/citizens/DropMe"
+    },
+    {
+      "name": "Retake",
+      "url": "https://robertsspaceindustries.com/en/citizens/Retake"
+    },
+    {
+      "name": "Dinked",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dinked"
+    },
+    {
+      "name": "ForceGG",
+      "url": "https://robertsspaceindustries.com/en/citizens/ForceGG"
+    },
+    {
+      "name": "GoNext",
+      "url": "https://robertsspaceindustries.com/en/citizens/GoNext"
+    },
+    {
+      "name": "NoRecoil",
+      "url": "https://robertsspaceindustries.com/en/citizens/NoRecoil"
+    },
+    {
+      "name": "LagSwitch",
+      "url": "https://robertsspaceindustries.com/en/citizens/LagSwitch"
+    },
+    {
+      "name": "Warping",
+      "url": "https://robertsspaceindustries.com/en/citizens/Warping"
+    },
+    {
+      "name": "TryHarder",
+      "url": "https://robertsspaceindustries.com/en/citizens/TryHarder"
+    },
+    {
+      "name": "CasualPlayer",
+      "url": "https://robertsspaceindustries.com/en/citizens/CasualPlayer"
+    }
+  ],
+  "errors": []
+}

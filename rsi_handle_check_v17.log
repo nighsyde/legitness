@@ -1,0 +1,228 @@
+Checking 107 diamond-in-the-rough handles...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/107]   200  TAKEN       Mutalisk                   https://robertsspaceindustries.com/en/citizens/Mutalisk
+[  2/107]   200  TAKEN       Lurker                     https://robertsspaceindustries.com/en/citizens/Lurker
+[  3/107]   200  TAKEN       Defiler                    https://robertsspaceindustries.com/en/citizens/Defiler
+[  4/107]   200  TAKEN       Reaver                     https://robertsspaceindustries.com/en/citizens/Reaver
+[  5/107]   200  TAKEN       Corsair                    https://robertsspaceindustries.com/en/citizens/Corsair
+[  6/107]   200  TAKEN       Devourer                   https://robertsspaceindustries.com/en/citizens/Devourer
+[  7/107]   200  TAKEN       Ultralisk                  https://robertsspaceindustries.com/en/citizens/Ultralisk
+[  8/107]   200  TAKEN       Dragoon                    https://robertsspaceindustries.com/en/citizens/Dragoon
+[  9/107]   200  TAKEN       Goliath                    https://robertsspaceindustries.com/en/citizens/Goliath
+[ 10/107]   200  TAKEN       Valkyrie                   https://robertsspaceindustries.com/en/citizens/Valkyrie
+[ 11/107]   200  TAKEN       Battlecruiser              https://robertsspaceindustries.com/en/citizens/Battlecruiser
+[ 12/107]   200  TAKEN       Yamato                     https://robertsspaceindustries.com/en/citizens/Yamato
+[ 13/107]   200  TAKEN       Medic                      https://robertsspaceindustries.com/en/citizens/Medic
+[ 14/107]   200  TAKEN       Firebat                    https://robertsspaceindustries.com/en/citizens/Firebat
+[ 15/107]   200  TAKEN       Wraith                     https://robertsspaceindustries.com/en/citizens/Wraith
+[ 16/107]   200  TAKEN       Overlord                   https://robertsspaceindustries.com/en/citizens/Overlord
+[ 17/107]   200  TAKEN       Larva                      https://robertsspaceindustries.com/en/citizens/Larva
+[ 18/107]   200  TAKEN       Hydralisk                  https://robertsspaceindustries.com/en/citizens/Hydralisk
+[ 19/107]   200  TAKEN       Zergling                   https://robertsspaceindustries.com/en/citizens/Zergling
+[ 20/107]   200  TAKEN       Zealot                     https://robertsspaceindustries.com/en/citizens/Zealot
+[ 21/107]   200  TAKEN       Arbiter                    https://robertsspaceindustries.com/en/citizens/Arbiter
+[ 22/107]   200  TAKEN       Ravenfrost                 https://robertsspaceindustries.com/en/citizens/Ravenfrost
+[ 23/107]   200  TAKEN       Maras                      https://robertsspaceindustries.com/en/citizens/Maras
+[ 24/107]   200  TAKEN       Arachnid                   https://robertsspaceindustries.com/en/citizens/Arachnid
+[ 25/107]   404  AVAILABLE   Highlords                  https://robertsspaceindustries.com/en/citizens/Highlords
+[ 26/107]   200  TAKEN       Nosferatu                  https://robertsspaceindustries.com/en/citizens/Nosferatu
+[ 27/107]   200  TAKEN       Verdungo                   https://robertsspaceindustries.com/en/citizens/Verdungo
+[ 28/107]   404  AVAILABLE   Ribcracker                 https://robertsspaceindustries.com/en/citizens/Ribcracker
+[ 29/107]   200  TAKEN       Buriza                     https://robertsspaceindustries.com/en/citizens/Buriza
+[ 30/107]   404  AVAILABLE   Razortail                  https://robertsspaceindustries.com/en/citizens/Razortail
+[ 31/107]   200  TAKEN       Nightwing                  https://robertsspaceindustries.com/en/citizens/Nightwing
+[ 32/107]   200  TAKEN       Lycander                   https://robertsspaceindustries.com/en/citizens/Lycander
+[ 33/107]   200  TAKEN       Titan                      https://robertsspaceindustries.com/en/citizens/Titan
+[ 34/107]   200  TAKEN       Shaftstop                  https://robertsspaceindustries.com/en/citizens/Shaftstop
+[ 35/107]   200  TAKEN       Treachery                  https://robertsspaceindustries.com/en/citizens/Treachery
+[ 36/107]   200  TAKEN       Duress                     https://robertsspaceindustries.com/en/citizens/Duress
+[ 37/107]   200  TAKEN       Delirium                   https://robertsspaceindustries.com/en/citizens/Delirium
+[ 38/107]   404  AVAILABLE   Obedience                  https://robertsspaceindustries.com/en/citizens/Obedience
+[ 39/107]   200  TAKEN       Exile                      https://robertsspaceindustries.com/en/citizens/Exile
+[ 40/107]   200  TAKEN       Passion                    https://robertsspaceindustries.com/en/citizens/Passion
+[ 41/107]   200  TAKEN       Eviscerate                 https://robertsspaceindustries.com/en/citizens/Eviscerate
+[ 42/107]   200  TAKEN       Hemorrhage                 https://robertsspaceindustries.com/en/citizens/Hemorrhage
+[ 43/107]   200  TAKEN       Ambush                     https://robertsspaceindustries.com/en/citizens/Ambush
+[ 44/107]   200  TAKEN       Thunderclap                https://robertsspaceindustries.com/en/citizens/Thunderclap
+[ 45/107]   200  TAKEN       Bloodrage                  https://robertsspaceindustries.com/en/citizens/Bloodrage
+[ 46/107]   200  TAKEN       Hamstring                  https://robertsspaceindustries.com/en/citizens/Hamstring
+[ 47/107]   404  AVAILABLE   Overpower                  https://robertsspaceindustries.com/en/citizens/Overpower
+[ 48/107]   200  TAKEN       Intercept                  https://robertsspaceindustries.com/en/citizens/Intercept
+[ 49/107]   200  TAKEN       Shadowmeld                 https://robertsspaceindustries.com/en/citizens/Shadowmeld
+[ 50/107]   200  TAKEN       Combustion                 https://robertsspaceindustries.com/en/citizens/Combustion
+[ 51/107]   404  AVAILABLE   Counterspell               https://robertsspaceindustries.com/en/citizens/Counterspell
+[ 52/107]   200  TAKEN       Polymorph                  https://robertsspaceindustries.com/en/citizens/Polymorph
+[ 53/107]   200  TAKEN       Shadowform                 https://robertsspaceindustries.com/en/citizens/Shadowform
+[ 54/107]   404  AVAILABLE   Vampirictouch              https://robertsspaceindustries.com/en/citizens/Vampirictouch
+[ 55/107]   200  TAKEN       Mindblast                  https://robertsspaceindustries.com/en/citizens/Mindblast
+[ 56/107]   200  TAKEN       Dispersion                 https://robertsspaceindustries.com/en/citizens/Dispersion
+[ 57/107]   200  TAKEN       Windfury                   https://robertsspaceindustries.com/en/citizens/Windfury
+[ 58/107]   404  AVAILABLE   Earthshock                 https://robertsspaceindustries.com/en/citizens/Earthshock
+[ 59/107]   200  TAKEN       Frostnova                  https://robertsspaceindustries.com/en/citizens/Frostnova
+[ 60/107]   200  TAKEN       Fireblast                  https://robertsspaceindustries.com/en/citizens/Fireblast
+[ 61/107]   404  AVAILABLE   Arcaneblast                https://robertsspaceindustries.com/en/citizens/Arcaneblast
+[ 62/107]   200  TAKEN       Lifebloom                  https://robertsspaceindustries.com/en/citizens/Lifebloom
+[ 63/107]   200  TAKEN       Swiftmend                  https://robertsspaceindustries.com/en/citizens/Swiftmend
+[ 64/107]   200  TAKEN       Cyclone                    https://robertsspaceindustries.com/en/citizens/Cyclone
+[ 65/107]   404  AVAILABLE   Entangling                 https://robertsspaceindustries.com/en/citizens/Entangling
+[ 66/107]   200  TAKEN       Faeriefire                 https://robertsspaceindustries.com/en/citizens/Faeriefire
+[ 67/107]   404  AVAILABLE   Barkskin                   https://robertsspaceindustries.com/en/citizens/Barkskin
+[ 68/107]   200  TAKEN       Lifeblood                  https://robertsspaceindustries.com/en/citizens/Lifeblood
+[ 69/107]   200  TAKEN       Soulfire                   https://robertsspaceindustries.com/en/citizens/Soulfire
+[ 70/107]   200  TAKEN       Shadowbolt                 https://robertsspaceindustries.com/en/citizens/Shadowbolt
+[ 71/107]   404  AVAILABLE   Conflagrate                https://robertsspaceindustries.com/en/citizens/Conflagrate
+[ 72/107]   200  TAKEN       Immolate                   https://robertsspaceindustries.com/en/citizens/Immolate
+[ 73/107]   200  TAKEN       Corruption                 https://robertsspaceindustries.com/en/citizens/Corruption
+[ 74/107]   200  TAKEN       Voodoo                     https://robertsspaceindustries.com/en/citizens/Voodoo
+[ 75/107]   200  TAKEN       Voodoo2                    https://robertsspaceindustries.com/en/citizens/Voodoo2
+[ 76/107]   200  TAKEN       Glide                      https://robertsspaceindustries.com/en/citizens/Glide
+[ 77/107]   404  AVAILABLE   TNT2                       https://robertsspaceindustries.com/en/citizens/TNT2
+[ 78/107]   200  TAKEN       GeForce                    https://robertsspaceindustries.com/en/citizens/GeForce
+[ 79/107]   200  TAKEN       Radeon                     https://robertsspaceindustries.com/en/citizens/Radeon
+[ 80/107]   200  TAKEN       SoundBlaster               https://robertsspaceindustries.com/en/citizens/SoundBlaster
+[ 81/107]   200  TAKEN       Laughingskull              https://robertsspaceindustries.com/en/citizens/Laughingskull
+[ 82/107]   200  TAKEN       Stormrage                  https://robertsspaceindustries.com/en/citizens/Stormrage
+[ 83/107]   200  TAKEN       Mannoroth                  https://robertsspaceindustries.com/en/citizens/Mannoroth
+[ 84/107]   200  TAKEN       Archimonde                 https://robertsspaceindustries.com/en/citizens/Archimonde
+[ 85/107]   200  TAKEN       Medivh                     https://robertsspaceindustries.com/en/citizens/Medivh
+[ 86/107]   200  TAKEN       Dalvengyr                  https://robertsspaceindustries.com/en/citizens/Dalvengyr
+[ 87/107]   200  TAKEN       Headglitch                 https://robertsspaceindustries.com/en/citizens/Headglitch
+[ 88/107]   200  TAKEN       Dropshot                   https://robertsspaceindustries.com/en/citizens/Dropshot
+[ 89/107]   404  AVAILABLE   Jumppeek                   https://robertsspaceindustries.com/en/citizens/Jumppeek
+[ 90/107]   404  AVAILABLE   Counterstraf               https://robertsspaceindustries.com/en/citizens/Counterstraf
+[ 91/107]   200  TAKEN       Prefire                    https://robertsspaceindustries.com/en/citizens/Prefire
+[ 92/107]   404  AVAILABLE   Spraycontrol               https://robertsspaceindustries.com/en/citizens/Spraycontrol
+[ 93/107]   200  TAKEN       Gravemind                  https://robertsspaceindustries.com/en/citizens/Gravemind
+[ 94/107]   404  AVAILABLE   GuiltyS                    https://robertsspaceindustries.com/en/citizens/GuiltyS
+[ 95/107]   200  TAKEN       Reclaimer                  https://robertsspaceindustries.com/en/citizens/Reclaimer
+[ 96/107]   404  AVAILABLE   Ringworld                  https://robertsspaceindustries.com/en/citizens/Ringworld
+[ 97/107]   200  TAKEN       Installation               https://robertsspaceindustries.com/en/citizens/Installation
+[ 98/107]   200  TAKEN       Forerunner                 https://robertsspaceindustries.com/en/citizens/Forerunner
+[ 99/107]   200  TAKEN       Monitor                    https://robertsspaceindustries.com/en/citizens/Monitor
+[100/107]   200  TAKEN       Index                      https://robertsspaceindustries.com/en/citizens/Index
+[101/107]   200  TAKEN       Flash                      https://robertsspaceindustries.com/en/citizens/Flash
+[102/107]   404  AVAILABLE   Jaedong                    https://robertsspaceindustries.com/en/citizens/Jaedong
+[103/107]   200  TAKEN       Bisu                       https://robertsspaceindustries.com/en/citizens/Bisu
+[104/107]   200  TAKEN       Boxer                      https://robertsspaceindustries.com/en/citizens/Boxer
+[105/107]   200  TAKEN       Nada                       https://robertsspaceindustries.com/en/citizens/Nada
+[106/107]   200  TAKEN       Yellow                     https://robertsspaceindustries.com/en/citizens/Yellow
+[107/107]   200  TAKEN       Reach                      https://robertsspaceindustries.com/en/citizens/Reach
+
+==============================================================================================================
+
+✅  AVAILABLE (19):
+   Highlords                       https://robertsspaceindustries.com/en/citizens/Highlords
+   Ribcracker                      https://robertsspaceindustries.com/en/citizens/Ribcracker
+   Razortail                       https://robertsspaceindustries.com/en/citizens/Razortail
+   Obedience                       https://robertsspaceindustries.com/en/citizens/Obedience
+   Overpower                       https://robertsspaceindustries.com/en/citizens/Overpower
+   Counterspell                    https://robertsspaceindustries.com/en/citizens/Counterspell
+   Vampirictouch                   https://robertsspaceindustries.com/en/citizens/Vampirictouch
+   Earthshock                      https://robertsspaceindustries.com/en/citizens/Earthshock
+   Arcaneblast                     https://robertsspaceindustries.com/en/citizens/Arcaneblast
+   Entangling                      https://robertsspaceindustries.com/en/citizens/Entangling
+   Barkskin                        https://robertsspaceindustries.com/en/citizens/Barkskin
+   Conflagrate                     https://robertsspaceindustries.com/en/citizens/Conflagrate
+   TNT2                            https://robertsspaceindustries.com/en/citizens/TNT2
+   Jumppeek                        https://robertsspaceindustries.com/en/citizens/Jumppeek
+   Counterstraf                    https://robertsspaceindustries.com/en/citizens/Counterstraf
+   Spraycontrol                    https://robertsspaceindustries.com/en/citizens/Spraycontrol
+   GuiltyS                         https://robertsspaceindustries.com/en/citizens/GuiltyS
+   Ringworld                       https://robertsspaceindustries.com/en/citizens/Ringworld
+   Jaedong                         https://robertsspaceindustries.com/en/citizens/Jaedong
+
+❌  TAKEN (88):
+   Mutalisk                        https://robertsspaceindustries.com/en/citizens/Mutalisk
+   Lurker                          https://robertsspaceindustries.com/en/citizens/Lurker
+   Defiler                         https://robertsspaceindustries.com/en/citizens/Defiler
+   Reaver                          https://robertsspaceindustries.com/en/citizens/Reaver
+   Corsair                         https://robertsspaceindustries.com/en/citizens/Corsair
+   Devourer                        https://robertsspaceindustries.com/en/citizens/Devourer
+   Ultralisk                       https://robertsspaceindustries.com/en/citizens/Ultralisk
+   Dragoon                         https://robertsspaceindustries.com/en/citizens/Dragoon
+   Goliath                         https://robertsspaceindustries.com/en/citizens/Goliath
+   Valkyrie                        https://robertsspaceindustries.com/en/citizens/Valkyrie
+   Battlecruiser                   https://robertsspaceindustries.com/en/citizens/Battlecruiser
+   Yamato                          https://robertsspaceindustries.com/en/citizens/Yamato
+   Medic                           https://robertsspaceindustries.com/en/citizens/Medic
+   Firebat                         https://robertsspaceindustries.com/en/citizens/Firebat
+   Wraith                          https://robertsspaceindustries.com/en/citizens/Wraith
+   Overlord                        https://robertsspaceindustries.com/en/citizens/Overlord
+   Larva                           https://robertsspaceindustries.com/en/citizens/Larva
+   Hydralisk                       https://robertsspaceindustries.com/en/citizens/Hydralisk
+   Zergling                        https://robertsspaceindustries.com/en/citizens/Zergling
+   Zealot                          https://robertsspaceindustries.com/en/citizens/Zealot
+   Arbiter                         https://robertsspaceindustries.com/en/citizens/Arbiter
+   Ravenfrost                      https://robertsspaceindustries.com/en/citizens/Ravenfrost
+   Maras                           https://robertsspaceindustries.com/en/citizens/Maras
+   Arachnid                        https://robertsspaceindustries.com/en/citizens/Arachnid
+   Nosferatu                       https://robertsspaceindustries.com/en/citizens/Nosferatu
+   Verdungo                        https://robertsspaceindustries.com/en/citizens/Verdungo
+   Buriza                          https://robertsspaceindustries.com/en/citizens/Buriza
+   Nightwing                       https://robertsspaceindustries.com/en/citizens/Nightwing
+   Lycander                        https://robertsspaceindustries.com/en/citizens/Lycander
+   Titan                           https://robertsspaceindustries.com/en/citizens/Titan
+   Shaftstop                       https://robertsspaceindustries.com/en/citizens/Shaftstop
+   Treachery                       https://robertsspaceindustries.com/en/citizens/Treachery
+   Duress                          https://robertsspaceindustries.com/en/citizens/Duress
+   Delirium                        https://robertsspaceindustries.com/en/citizens/Delirium
+   Exile                           https://robertsspaceindustries.com/en/citizens/Exile
+   Passion                         https://robertsspaceindustries.com/en/citizens/Passion
+   Eviscerate                      https://robertsspaceindustries.com/en/citizens/Eviscerate
+   Hemorrhage                      https://robertsspaceindustries.com/en/citizens/Hemorrhage
+   Ambush                          https://robertsspaceindustries.com/en/citizens/Ambush
+   Thunderclap                     https://robertsspaceindustries.com/en/citizens/Thunderclap
+   Bloodrage                       https://robertsspaceindustries.com/en/citizens/Bloodrage
+   Hamstring                       https://robertsspaceindustries.com/en/citizens/Hamstring
+   Intercept                       https://robertsspaceindustries.com/en/citizens/Intercept
+   Shadowmeld                      https://robertsspaceindustries.com/en/citizens/Shadowmeld
+   Combustion                      https://robertsspaceindustries.com/en/citizens/Combustion
+   Polymorph                       https://robertsspaceindustries.com/en/citizens/Polymorph
+   Shadowform                      https://robertsspaceindustries.com/en/citizens/Shadowform
+   Mindblast                       https://robertsspaceindustries.com/en/citizens/Mindblast
+   Dispersion                      https://robertsspaceindustries.com/en/citizens/Dispersion
+   Windfury                        https://robertsspaceindustries.com/en/citizens/Windfury
+   Frostnova                       https://robertsspaceindustries.com/en/citizens/Frostnova
+   Fireblast                       https://robertsspaceindustries.com/en/citizens/Fireblast
+   Lifebloom                       https://robertsspaceindustries.com/en/citizens/Lifebloom
+   Swiftmend                       https://robertsspaceindustries.com/en/citizens/Swiftmend
+   Cyclone                         https://robertsspaceindustries.com/en/citizens/Cyclone
+   Faeriefire                      https://robertsspaceindustries.com/en/citizens/Faeriefire
+   Lifeblood                       https://robertsspaceindustries.com/en/citizens/Lifeblood
+   Soulfire                        https://robertsspaceindustries.com/en/citizens/Soulfire
+   Shadowbolt                      https://robertsspaceindustries.com/en/citizens/Shadowbolt
+   Immolate                        https://robertsspaceindustries.com/en/citizens/Immolate
+   Corruption                      https://robertsspaceindustries.com/en/citizens/Corruption
+   Voodoo                          https://robertsspaceindustries.com/en/citizens/Voodoo
+   Voodoo2                         https://robertsspaceindustries.com/en/citizens/Voodoo2
+   Glide                           https://robertsspaceindustries.com/en/citizens/Glide
+   GeForce                         https://robertsspaceindustries.com/en/citizens/GeForce
+   Radeon                          https://robertsspaceindustries.com/en/citizens/Radeon
+   SoundBlaster                    https://robertsspaceindustries.com/en/citizens/SoundBlaster
+   Laughingskull                   https://robertsspaceindustries.com/en/citizens/Laughingskull
+   Stormrage                       https://robertsspaceindustries.com/en/citizens/Stormrage
+   Mannoroth                       https://robertsspaceindustries.com/en/citizens/Mannoroth
+   Archimonde                      https://robertsspaceindustries.com/en/citizens/Archimonde
+   Medivh                          https://robertsspaceindustries.com/en/citizens/Medivh
+   Dalvengyr                       https://robertsspaceindustries.com/en/citizens/Dalvengyr
+   Headglitch                      https://robertsspaceindustries.com/en/citizens/Headglitch
+   Dropshot                        https://robertsspaceindustries.com/en/citizens/Dropshot
+   Prefire                         https://robertsspaceindustries.com/en/citizens/Prefire
+   Gravemind                       https://robertsspaceindustries.com/en/citizens/Gravemind
+   Reclaimer                       https://robertsspaceindustries.com/en/citizens/Reclaimer
+   Installation                    https://robertsspaceindustries.com/en/citizens/Installation
+   Forerunner                      https://robertsspaceindustries.com/en/citizens/Forerunner
+   Monitor                         https://robertsspaceindustries.com/en/citizens/Monitor
+   Index                           https://robertsspaceindustries.com/en/citizens/Index
+   Flash                           https://robertsspaceindustries.com/en/citizens/Flash
+   Bisu                            https://robertsspaceindustries.com/en/citizens/Bisu
+   Boxer                           https://robertsspaceindustries.com/en/citizens/Boxer
+   Nada                            https://robertsspaceindustries.com/en/citizens/Nada
+   Yellow                          https://robertsspaceindustries.com/en/citizens/Yellow
+   Reach                           https://robertsspaceindustries.com/en/citizens/Reach
+/workspace/check_rsi_handles_v17.py:234: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v17.json

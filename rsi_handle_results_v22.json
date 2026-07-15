@@ -1,0 +1,457 @@
+{
+  "checked_at": "2026-07-09T20:25:14.976720Z",
+  "total": 112,
+  "available": [
+    {
+      "name": "Maledict",
+      "url": "https://robertsspaceindustries.com/en/citizens/Maledict"
+    },
+    {
+      "name": "Nidoquil",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nidoquil"
+    },
+    {
+      "name": "Shubnie",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shubnie"
+    },
+    {
+      "name": "Darkseid",
+      "url": "https://robertsspaceindustries.com/en/citizens/Darkseid"
+    },
+    {
+      "name": "Tiamat",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tiamat"
+    },
+    {
+      "name": "Voidborne",
+      "url": "https://robertsspaceindustries.com/en/citizens/Voidborne"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Fenrir",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fenrir"
+    },
+    {
+      "name": "Nidhogg",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nidhogg"
+    },
+    {
+      "name": "Surtr",
+      "url": "https://robertsspaceindustries.com/en/citizens/Surtr"
+    },
+    {
+      "name": "Jormungandr",
+      "url": "https://robertsspaceindustries.com/en/citizens/Jormungandr"
+    },
+    {
+      "name": "Hel",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hel"
+    },
+    {
+      "name": "Muspel",
+      "url": "https://robertsspaceindustries.com/en/citizens/Muspel"
+    },
+    {
+      "name": "Niflheim",
+      "url": "https://robertsspaceindustries.com/en/citizens/Niflheim"
+    },
+    {
+      "name": "Erebus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Erebus"
+    },
+    {
+      "name": "Nyx",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nyx"
+    },
+    {
+      "name": "Typhon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Typhon"
+    },
+    {
+      "name": "Apep",
+      "url": "https://robertsspaceindustries.com/en/citizens/Apep"
+    },
+    {
+      "name": "Moros",
+      "url": "https://robertsspaceindustries.com/en/citizens/Moros"
+    },
+    {
+      "name": "Nemean",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nemean"
+    },
+    {
+      "name": "Charybdis",
+      "url": "https://robertsspaceindustries.com/en/citizens/Charybdis"
+    },
+    {
+      "name": "Scylla",
+      "url": "https://robertsspaceindustries.com/en/citizens/Scylla"
+    },
+    {
+      "name": "Echidna",
+      "url": "https://robertsspaceindustries.com/en/citizens/Echidna"
+    },
+    {
+      "name": "Styx",
+      "url": "https://robertsspaceindustries.com/en/citizens/Styx"
+    },
+    {
+      "name": "Tartarus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tartarus"
+    },
+    {
+      "name": "Thanatos",
+      "url": "https://robertsspaceindustries.com/en/citizens/Thanatos"
+    },
+    {
+      "name": "Morgoth",
+      "url": "https://robertsspaceindustries.com/en/citizens/Morgoth"
+    },
+    {
+      "name": "Ungoliant",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ungoliant"
+    },
+    {
+      "name": "Ancalagon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ancalagon"
+    },
+    {
+      "name": "Gothmog",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gothmog"
+    },
+    {
+      "name": "Glaurung",
+      "url": "https://robertsspaceindustries.com/en/citizens/Glaurung"
+    },
+    {
+      "name": "Shelob",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shelob"
+    },
+    {
+      "name": "Wormtongue",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wormtongue"
+    },
+    {
+      "name": "Ungol",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ungol"
+    },
+    {
+      "name": "Mirkwood",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mirkwood"
+    },
+    {
+      "name": "Mordor",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mordor"
+    },
+    {
+      "name": "Cthulhu",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cthulhu"
+    },
+    {
+      "name": "Azathoth",
+      "url": "https://robertsspaceindustries.com/en/citizens/Azathoth"
+    },
+    {
+      "name": "Nyarlathotep",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nyarlathotep"
+    },
+    {
+      "name": "Dagon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dagon"
+    },
+    {
+      "name": "Hastur",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hastur"
+    },
+    {
+      "name": "YogSothoth",
+      "url": "https://robertsspaceindustries.com/en/citizens/YogSothoth"
+    },
+    {
+      "name": "Shoggoth",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shoggoth"
+    },
+    {
+      "name": "Nihilus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nihilus"
+    },
+    {
+      "name": "Revan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Revan"
+    },
+    {
+      "name": "Malak",
+      "url": "https://robertsspaceindustries.com/en/citizens/Malak"
+    },
+    {
+      "name": "Traya",
+      "url": "https://robertsspaceindustries.com/en/citizens/Traya"
+    },
+    {
+      "name": "Sion",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sion"
+    },
+    {
+      "name": "Bane",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bane"
+    },
+    {
+      "name": "Sidious",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sidious"
+    },
+    {
+      "name": "Vitiate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vitiate"
+    },
+    {
+      "name": "Malgus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Malgus"
+    },
+    {
+      "name": "SHODAN",
+      "url": "https://robertsspaceindustries.com/en/citizens/SHODAN"
+    },
+    {
+      "name": "Wintermute",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wintermute"
+    },
+    {
+      "name": "Neuromancer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Neuromancer"
+    },
+    {
+      "name": "Blackice",
+      "url": "https://robertsspaceindustries.com/en/citizens/Blackice"
+    },
+    {
+      "name": "Daemon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Daemon"
+    },
+    {
+      "name": "Killswitch",
+      "url": "https://robertsspaceindustries.com/en/citizens/Killswitch"
+    },
+    {
+      "name": "Deadmans",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deadmans"
+    },
+    {
+      "name": "Payload",
+      "url": "https://robertsspaceindustries.com/en/citizens/Payload"
+    },
+    {
+      "name": "Zeroday",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zeroday"
+    },
+    {
+      "name": "Rootkit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rootkit"
+    },
+    {
+      "name": "Darknet",
+      "url": "https://robertsspaceindustries.com/en/citizens/Darknet"
+    },
+    {
+      "name": "Brainiac",
+      "url": "https://robertsspaceindustries.com/en/citizens/Brainiac"
+    },
+    {
+      "name": "Dormammu",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dormammu"
+    },
+    {
+      "name": "Galactus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Galactus"
+    },
+    {
+      "name": "Knull",
+      "url": "https://robertsspaceindustries.com/en/citizens/Knull"
+    },
+    {
+      "name": "Gorr",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gorr"
+    },
+    {
+      "name": "Malekith",
+      "url": "https://robertsspaceindustries.com/en/citizens/Malekith"
+    },
+    {
+      "name": "Parallax",
+      "url": "https://robertsspaceindustries.com/en/citizens/Parallax"
+    },
+    {
+      "name": "Mephisto",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mephisto"
+    },
+    {
+      "name": "Carnage",
+      "url": "https://robertsspaceindustries.com/en/citizens/Carnage"
+    },
+    {
+      "name": "Sinister",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sinister"
+    },
+    {
+      "name": "Apocalypse",
+      "url": "https://robertsspaceindustries.com/en/citizens/Apocalypse"
+    },
+    {
+      "name": "Morlun",
+      "url": "https://robertsspaceindustries.com/en/citizens/Morlun"
+    },
+    {
+      "name": "Beyonder",
+      "url": "https://robertsspaceindustries.com/en/citizens/Beyonder"
+    },
+    {
+      "name": "Vecna",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vecna"
+    },
+    {
+      "name": "Orcus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Orcus"
+    },
+    {
+      "name": "Demogorgon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Demogorgon"
+    },
+    {
+      "name": "Acererak",
+      "url": "https://robertsspaceindustries.com/en/citizens/Acererak"
+    },
+    {
+      "name": "Asmodeus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Asmodeus"
+    },
+    {
+      "name": "Beholder",
+      "url": "https://robertsspaceindustries.com/en/citizens/Beholder"
+    },
+    {
+      "name": "Mindflayer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mindflayer"
+    },
+    {
+      "name": "Aboleth",
+      "url": "https://robertsspaceindustries.com/en/citizens/Aboleth"
+    },
+    {
+      "name": "Lich",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lich"
+    },
+    {
+      "name": "Demilich",
+      "url": "https://robertsspaceindustries.com/en/citizens/Demilich"
+    },
+    {
+      "name": "Dracolich",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dracolich"
+    },
+    {
+      "name": "Nightwalker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nightwalker"
+    },
+    {
+      "name": "Entropy",
+      "url": "https://robertsspaceindustries.com/en/citizens/Entropy"
+    },
+    {
+      "name": "Malice",
+      "url": "https://robertsspaceindustries.com/en/citizens/Malice"
+    },
+    {
+      "name": "Spite",
+      "url": "https://robertsspaceindustries.com/en/citizens/Spite"
+    },
+    {
+      "name": "Ruin",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ruin"
+    },
+    {
+      "name": "Dread",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dread"
+    },
+    {
+      "name": "Hollow",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hollow"
+    },
+    {
+      "name": "Umbral",
+      "url": "https://robertsspaceindustries.com/en/citizens/Umbral"
+    },
+    {
+      "name": "Moribund",
+      "url": "https://robertsspaceindustries.com/en/citizens/Moribund"
+    },
+    {
+      "name": "Necrotic",
+      "url": "https://robertsspaceindustries.com/en/citizens/Necrotic"
+    },
+    {
+      "name": "Baleful",
+      "url": "https://robertsspaceindustries.com/en/citizens/Baleful"
+    },
+    {
+      "name": "Eldritch",
+      "url": "https://robertsspaceindustries.com/en/citizens/Eldritch"
+    },
+    {
+      "name": "Abyssal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Abyssal"
+    },
+    {
+      "name": "Infernal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Infernal"
+    },
+    {
+      "name": "Profane",
+      "url": "https://robertsspaceindustries.com/en/citizens/Profane"
+    },
+    {
+      "name": "Null",
+      "url": "https://robertsspaceindustries.com/en/citizens/Null"
+    },
+    {
+      "name": "Cipher",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cipher"
+    },
+    {
+      "name": "Hex",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hex"
+    },
+    {
+      "name": "Wrack",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wrack"
+    },
+    {
+      "name": "Blight",
+      "url": "https://robertsspaceindustries.com/en/citizens/Blight"
+    },
+    {
+      "name": "Scourge",
+      "url": "https://robertsspaceindustries.com/en/citizens/Scourge"
+    },
+    {
+      "name": "Pestis",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pestis"
+    },
+    {
+      "name": "Mors",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mors"
+    },
+    {
+      "name": "Nox",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nox"
+    },
+    {
+      "name": "Tenebris",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tenebris"
+    },
+    {
+      "name": "Nihil",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nihil"
+    }
+  ],
+  "errors": []
+}

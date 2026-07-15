@@ -1,0 +1,188 @@
+Checking 87 'lost vocabulary' handles...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/87]   200  TAKEN       Telefrag                   https://robertsspaceindustries.com/en/citizens/Telefrag
+[  2/87]   200  TAKEN       Telefragged                https://robertsspaceindustries.com/en/citizens/Telefragged
+[  3/87]   200  TAKEN       Airshot                    https://robertsspaceindustries.com/en/citizens/Airshot
+[  4/87]   200  TAKEN       Shafted                    https://robertsspaceindustries.com/en/citizens/Shafted
+[  5/87]   200  TAKEN       Railed                     https://robertsspaceindustries.com/en/citizens/Railed
+[  6/87]   404  AVAILABLE   Jumpad                     https://robertsspaceindustries.com/en/citizens/Jumpad
+[  7/87]   200  TAKEN       Strafe                     https://robertsspaceindustries.com/en/citizens/Strafe
+[  8/87]   200  TAKEN       Strafed                    https://robertsspaceindustries.com/en/citizens/Strafed
+[  9/87]   200  TAKEN       Deathmatch                 https://robertsspaceindustries.com/en/citizens/Deathmatch
+[ 10/87]   200  TAKEN       Fragfest                   https://robertsspaceindustries.com/en/citizens/Fragfest
+[ 11/87]   404  AVAILABLE   Fraglimit                  https://robertsspaceindustries.com/en/citizens/Fraglimit
+[ 12/87]   200  TAKEN       Overtime                   https://robertsspaceindustries.com/en/citizens/Overtime
+[ 13/87]   404  AVAILABLE   Railwhore                  https://robertsspaceindustries.com/en/citizens/Railwhore
+[ 14/87]   404  AVAILABLE   Rocketwhore                https://robertsspaceindustries.com/en/citizens/Rocketwhore
+[ 15/87]   404  AVAILABLE   Rocketjumped               https://robertsspaceindustries.com/en/citizens/Rocketjumped
+[ 16/87]   200  TAKEN       GrandMarshal               https://robertsspaceindustries.com/en/citizens/GrandMarshal
+[ 17/87]   200  TAKEN       HighWarlord                https://robertsspaceindustries.com/en/citizens/HighWarlord
+[ 18/87]   200  TAKEN       FieldMarshal               https://robertsspaceindustries.com/en/citizens/FieldMarshal
+[ 19/87]   200  TAKEN       BloodGuard                 https://robertsspaceindustries.com/en/citizens/BloodGuard
+[ 20/87]   200  TAKEN       Legionnaire                https://robertsspaceindustries.com/en/citizens/Legionnaire
+[ 21/87]   200  TAKEN       Stoneguard                 https://robertsspaceindustries.com/en/citizens/Stoneguard
+[ 22/87]   200  TAKEN       Challenger                 https://robertsspaceindustries.com/en/citizens/Challenger
+[ 23/87]   200  TAKEN       Gladiator                  https://robertsspaceindustries.com/en/citizens/Gladiator
+[ 24/87]   200  TAKEN       Duelist                    https://robertsspaceindustries.com/en/citizens/Duelist
+[ 25/87]   200  TAKEN       Rival                      https://robertsspaceindustries.com/en/citizens/Rival
+[ 26/87]   200  TAKEN       Recount                    https://robertsspaceindustries.com/en/citizens/Recount
+[ 27/87]   200  TAKEN       Omen                       https://robertsspaceindustries.com/en/citizens/Omen
+[ 28/87]   404  AVAILABLE   BigWigs                    https://robertsspaceindustries.com/en/citizens/BigWigs
+[ 29/87]   200  TAKEN       Decursive                  https://robertsspaceindustries.com/en/citizens/Decursive
+[ 30/87]   200  TAKEN       Bartender                  https://robertsspaceindustries.com/en/citizens/Bartender
+[ 31/87]   404  AVAILABLE   Questhelper                https://robertsspaceindustries.com/en/citizens/Questhelper
+[ 32/87]   200  TAKEN       Gatherer                   https://robertsspaceindustries.com/en/citizens/Gatherer
+[ 33/87]   200  TAKEN       Auctioneer                 https://robertsspaceindustries.com/en/citizens/Auctioneer
+[ 34/87]   404  AVAILABLE   Atlasloot                  https://robertsspaceindustries.com/en/citizens/Atlasloot
+[ 35/87]   404  AVAILABLE   Deadlyboss                 https://robertsspaceindustries.com/en/citizens/Deadlyboss
+[ 36/87]   200  TAKEN       Decursed                   https://robertsspaceindustries.com/en/citizens/Decursed
+[ 37/87]   200  TAKEN       Readycheck                 https://robertsspaceindustries.com/en/citizens/Readycheck
+[ 38/87]   404  AVAILABLE   Softenrage                 https://robertsspaceindustries.com/en/citizens/Softenrage
+[ 39/87]   404  AVAILABLE   Hardenrage                 https://robertsspaceindustries.com/en/citizens/Hardenrage
+[ 40/87]   404  AVAILABLE   Pullcount                  https://robertsspaceindustries.com/en/citizens/Pullcount
+[ 41/87]   200  TAKEN       Soulstone                  https://robertsspaceindustries.com/en/citizens/Soulstone
+[ 42/87]   404  AVAILABLE   Innervate                  https://robertsspaceindustries.com/en/citizens/Innervate
+[ 43/87]   404  AVAILABLE   Rebirth                    https://robertsspaceindustries.com/en/citizens/Rebirth
+[ 44/87]   200  TAKEN       Ankh                       https://robertsspaceindustries.com/en/citizens/Ankh
+[ 45/87]   404  AVAILABLE   Layonhands                 https://robertsspaceindustries.com/en/citizens/Layonhands
+[ 46/87]   404  AVAILABLE   Tranquility                https://robertsspaceindustries.com/en/citizens/Tranquility
+[ 47/87]   404  AVAILABLE   Stampeding                 https://robertsspaceindustries.com/en/citizens/Stampeding
+[ 48/87]   404  AVAILABLE   Horadric                   https://robertsspaceindustries.com/en/citizens/Horadric
+[ 49/87]   200  TAKEN       Annihilus                  https://robertsspaceindustries.com/en/citizens/Annihilus
+[ 50/87]   404  AVAILABLE   HellforTorch               https://robertsspaceindustries.com/en/citizens/HellforTorch
+[ 51/87]   200  TAKEN       Hellfire                   https://robertsspaceindustries.com/en/citizens/Hellfire
+[ 52/87]   200  TAKEN       Tristram                   https://robertsspaceindustries.com/en/citizens/Tristram
+[ 53/87]   200  TAKEN       Catacombs                  https://robertsspaceindustries.com/en/citizens/Catacombs
+[ 54/87]   200  TAKEN       Arreat                     https://robertsspaceindustries.com/en/citizens/Arreat
+[ 55/87]   200  TAKEN       Worldstone                 https://robertsspaceindustries.com/en/citizens/Worldstone
+[ 56/87]   404  AVAILABLE   StonneOfJordan             https://robertsspaceindustries.com/en/citizens/StonneOfJordan
+[ 57/87]   404  AVAILABLE   SoJTrade                   https://robertsspaceindustries.com/en/citizens/SoJTrade
+[ 58/87]   404  AVAILABLE   Runeword                   https://robertsspaceindustries.com/en/citizens/Runeword
+[ 59/87]   200  TAKEN       Enigma                     https://robertsspaceindustries.com/en/citizens/Enigma
+[ 60/87]   200  TAKEN       Grief                      https://robertsspaceindustries.com/en/citizens/Grief
+[ 61/87]   200  TAKEN       Insight                    https://robertsspaceindustries.com/en/citizens/Insight
+[ 62/87]   200  TAKEN       Infinity                   https://robertsspaceindustries.com/en/citizens/Infinity
+[ 63/87]   200  TAKEN       Fortitude                  https://robertsspaceindustries.com/en/citizens/Fortitude
+[ 64/87]   200  TAKEN       Breath                     https://robertsspaceindustries.com/en/citizens/Breath
+[ 65/87]   200  TAKEN       Zod                        https://robertsspaceindustries.com/en/citizens/Zod
+[ 66/87]   404  AVAILABLE   Ber                        https://robertsspaceindustries.com/en/citizens/Ber
+[ 67/87]   200  TAKEN       Jah                        https://robertsspaceindustries.com/en/citizens/Jah
+[ 68/87]   200  TAKEN       Vex                        https://robertsspaceindustries.com/en/citizens/Vex
+[ 69/87]   200  TAKEN       Ohm                        https://robertsspaceindustries.com/en/citizens/Ohm
+[ 70/87]   200  TAKEN       Sur                        https://robertsspaceindustries.com/en/citizens/Sur
+[ 71/87]   200  TAKEN       Gul                        https://robertsspaceindustries.com/en/citizens/Gul
+[ 72/87]   200  TAKEN       Twinking                   https://robertsspaceindustries.com/en/citizens/Twinking
+[ 73/87]   404  AVAILABLE   Corpsecamp                 https://robertsspaceindustries.com/en/citizens/Corpsecamp
+[ 74/87]   404  AVAILABLE   Gravecamp                  https://robertsspaceindustries.com/en/citizens/Gravecamp
+[ 75/87]   404  AVAILABLE   Ganksquad                  https://robertsspaceindustries.com/en/citizens/Ganksquad
+[ 76/87]   200  TAKEN       Swiftmend                  https://robertsspaceindustries.com/en/citizens/Swiftmend
+[ 77/87]   200  TAKEN       Lifebloom                  https://robertsspaceindustries.com/en/citizens/Lifebloom
+[ 78/87]   200  TAKEN       Vampiric                   https://robertsspaceindustries.com/en/citizens/Vampiric
+[ 79/87]   404  AVAILABLE   Shadowweave                https://robertsspaceindustries.com/en/citizens/Shadowweave
+[ 80/87]   200  TAKEN       Shadowpriest               https://robertsspaceindustries.com/en/citizens/Shadowpriest
+[ 81/87]   200  TAKEN       Roguelike                  https://robertsspaceindustries.com/en/citizens/Roguelike
+[ 82/87]   200  TAKEN       Permadeath                 https://robertsspaceindustries.com/en/citizens/Permadeath
+[ 83/87]   200  TAKEN       Ironman                    https://robertsspaceindustries.com/en/citizens/Ironman
+[ 84/87]   200  TAKEN       Speedrun                   https://robertsspaceindustries.com/en/citizens/Speedrun
+[ 85/87]   404  AVAILABLE   TASrun                     https://robertsspaceindustries.com/en/citizens/TASrun
+[ 86/87]   200  TAKEN       Deathless                  https://robertsspaceindustries.com/en/citizens/Deathless
+[ 87/87]   200  TAKEN       Zerohour                   https://robertsspaceindustries.com/en/citizens/Zerohour
+
+==============================================================================================================
+
+✅  AVAILABLE (28):
+   Jumpad                          https://robertsspaceindustries.com/en/citizens/Jumpad
+   Fraglimit                       https://robertsspaceindustries.com/en/citizens/Fraglimit
+   Railwhore                       https://robertsspaceindustries.com/en/citizens/Railwhore
+   Rocketwhore                     https://robertsspaceindustries.com/en/citizens/Rocketwhore
+   Rocketjumped                    https://robertsspaceindustries.com/en/citizens/Rocketjumped
+   BigWigs                         https://robertsspaceindustries.com/en/citizens/BigWigs
+   Questhelper                     https://robertsspaceindustries.com/en/citizens/Questhelper
+   Atlasloot                       https://robertsspaceindustries.com/en/citizens/Atlasloot
+   Deadlyboss                      https://robertsspaceindustries.com/en/citizens/Deadlyboss
+   Softenrage                      https://robertsspaceindustries.com/en/citizens/Softenrage
+   Hardenrage                      https://robertsspaceindustries.com/en/citizens/Hardenrage
+   Pullcount                       https://robertsspaceindustries.com/en/citizens/Pullcount
+   Innervate                       https://robertsspaceindustries.com/en/citizens/Innervate
+   Rebirth                         https://robertsspaceindustries.com/en/citizens/Rebirth
+   Layonhands                      https://robertsspaceindustries.com/en/citizens/Layonhands
+   Tranquility                     https://robertsspaceindustries.com/en/citizens/Tranquility
+   Stampeding                      https://robertsspaceindustries.com/en/citizens/Stampeding
+   Horadric                        https://robertsspaceindustries.com/en/citizens/Horadric
+   HellforTorch                    https://robertsspaceindustries.com/en/citizens/HellforTorch
+   StonneOfJordan                  https://robertsspaceindustries.com/en/citizens/StonneOfJordan
+   SoJTrade                        https://robertsspaceindustries.com/en/citizens/SoJTrade
+   Runeword                        https://robertsspaceindustries.com/en/citizens/Runeword
+   Ber                             https://robertsspaceindustries.com/en/citizens/Ber
+   Corpsecamp                      https://robertsspaceindustries.com/en/citizens/Corpsecamp
+   Gravecamp                       https://robertsspaceindustries.com/en/citizens/Gravecamp
+   Ganksquad                       https://robertsspaceindustries.com/en/citizens/Ganksquad
+   Shadowweave                     https://robertsspaceindustries.com/en/citizens/Shadowweave
+   TASrun                          https://robertsspaceindustries.com/en/citizens/TASrun
+
+❌  TAKEN (59):
+   Telefrag                        https://robertsspaceindustries.com/en/citizens/Telefrag
+   Telefragged                     https://robertsspaceindustries.com/en/citizens/Telefragged
+   Airshot                         https://robertsspaceindustries.com/en/citizens/Airshot
+   Shafted                         https://robertsspaceindustries.com/en/citizens/Shafted
+   Railed                          https://robertsspaceindustries.com/en/citizens/Railed
+   Strafe                          https://robertsspaceindustries.com/en/citizens/Strafe
+   Strafed                         https://robertsspaceindustries.com/en/citizens/Strafed
+   Deathmatch                      https://robertsspaceindustries.com/en/citizens/Deathmatch
+   Fragfest                        https://robertsspaceindustries.com/en/citizens/Fragfest
+   Overtime                        https://robertsspaceindustries.com/en/citizens/Overtime
+   GrandMarshal                    https://robertsspaceindustries.com/en/citizens/GrandMarshal
+   HighWarlord                     https://robertsspaceindustries.com/en/citizens/HighWarlord
+   FieldMarshal                    https://robertsspaceindustries.com/en/citizens/FieldMarshal
+   BloodGuard                      https://robertsspaceindustries.com/en/citizens/BloodGuard
+   Legionnaire                     https://robertsspaceindustries.com/en/citizens/Legionnaire
+   Stoneguard                      https://robertsspaceindustries.com/en/citizens/Stoneguard
+   Challenger                      https://robertsspaceindustries.com/en/citizens/Challenger
+   Gladiator                       https://robertsspaceindustries.com/en/citizens/Gladiator
+   Duelist                         https://robertsspaceindustries.com/en/citizens/Duelist
+   Rival                           https://robertsspaceindustries.com/en/citizens/Rival
+   Recount                         https://robertsspaceindustries.com/en/citizens/Recount
+   Omen                            https://robertsspaceindustries.com/en/citizens/Omen
+   Decursive                       https://robertsspaceindustries.com/en/citizens/Decursive
+   Bartender                       https://robertsspaceindustries.com/en/citizens/Bartender
+   Gatherer                        https://robertsspaceindustries.com/en/citizens/Gatherer
+   Auctioneer                      https://robertsspaceindustries.com/en/citizens/Auctioneer
+   Decursed                        https://robertsspaceindustries.com/en/citizens/Decursed
+   Readycheck                      https://robertsspaceindustries.com/en/citizens/Readycheck
+   Soulstone                       https://robertsspaceindustries.com/en/citizens/Soulstone
+   Ankh                            https://robertsspaceindustries.com/en/citizens/Ankh
+   Annihilus                       https://robertsspaceindustries.com/en/citizens/Annihilus
+   Hellfire                        https://robertsspaceindustries.com/en/citizens/Hellfire
+   Tristram                        https://robertsspaceindustries.com/en/citizens/Tristram
+   Catacombs                       https://robertsspaceindustries.com/en/citizens/Catacombs
+   Arreat                          https://robertsspaceindustries.com/en/citizens/Arreat
+   Worldstone                      https://robertsspaceindustries.com/en/citizens/Worldstone
+   Enigma                          https://robertsspaceindustries.com/en/citizens/Enigma
+   Grief                           https://robertsspaceindustries.com/en/citizens/Grief
+   Insight                         https://robertsspaceindustries.com/en/citizens/Insight
+   Infinity                        https://robertsspaceindustries.com/en/citizens/Infinity
+   Fortitude                       https://robertsspaceindustries.com/en/citizens/Fortitude
+   Breath                          https://robertsspaceindustries.com/en/citizens/Breath
+   Zod                             https://robertsspaceindustries.com/en/citizens/Zod
+   Jah                             https://robertsspaceindustries.com/en/citizens/Jah
+   Vex                             https://robertsspaceindustries.com/en/citizens/Vex
+   Ohm                             https://robertsspaceindustries.com/en/citizens/Ohm
+   Sur                             https://robertsspaceindustries.com/en/citizens/Sur
+   Gul                             https://robertsspaceindustries.com/en/citizens/Gul
+   Twinking                        https://robertsspaceindustries.com/en/citizens/Twinking
+   Swiftmend                       https://robertsspaceindustries.com/en/citizens/Swiftmend
+   Lifebloom                       https://robertsspaceindustries.com/en/citizens/Lifebloom
+   Vampiric                        https://robertsspaceindustries.com/en/citizens/Vampiric
+   Shadowpriest                    https://robertsspaceindustries.com/en/citizens/Shadowpriest
+   Roguelike                       https://robertsspaceindustries.com/en/citizens/Roguelike
+   Permadeath                      https://robertsspaceindustries.com/en/citizens/Permadeath
+   Ironman                         https://robertsspaceindustries.com/en/citizens/Ironman
+   Speedrun                        https://robertsspaceindustries.com/en/citizens/Speedrun
+   Deathless                       https://robertsspaceindustries.com/en/citizens/Deathless
+   Zerohour                        https://robertsspaceindustries.com/en/citizens/Zerohour
+/workspace/check_rsi_handles_v14.py:201: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v14.json

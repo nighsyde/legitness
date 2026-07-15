@@ -1,0 +1,548 @@
+Checking 267 RSI handles ...
+
+[  1/267] 200  TAKEN     MasterChief
+[  2/267] 200  TAKEN     Cortana
+[  3/267] 200  TAKEN     Arbiter
+[  4/267] 200  TAKEN     Spartan
+[  5/267] 404  AVAILABLE  UNSC
+[  6/267] 200  TAKEN     DoomGuy
+[  7/267] 200  TAKEN     DoomSlayer
+[  8/267] 200  TAKEN     Gordon
+[  9/267] 200  TAKEN     GordonFreeman
+[ 10/267] 200  TAKEN     GLaDOS
+[ 11/267] 200  TAKEN     Chell
+[ 12/267] 200  TAKEN     Wheatley
+[ 13/267] 200  TAKEN     Herobrine
+[ 14/267] 200  TAKEN     Creeper
+[ 15/267] 200  TAKEN     Enderman
+[ 16/267] 200  TAKEN     Notch
+[ 17/267] 200  TAKEN     Pickaxe
+[ 18/267] 200  TAKEN     Pikachu
+[ 19/267] 200  TAKEN     Charizard
+[ 20/267] 200  TAKEN     Mewtwo
+[ 21/267] 200  TAKEN     Eevee
+[ 22/267] 200  TAKEN     Bulbasaur
+[ 23/267] 200  TAKEN     Squirtle
+[ 24/267] 200  TAKEN     Gengar
+[ 25/267] 200  TAKEN     Snorlax
+[ 26/267] 200  TAKEN     Lucario
+[ 27/267] 200  TAKEN     Greninja
+[ 28/267] 200  TAKEN     Link
+[ 29/267] 200  TAKEN     Zelda
+[ 30/267] 404  AVAILABLE  Ganondorf
+[ 31/267] 200  TAKEN     Ganon
+[ 32/267] 200  TAKEN     Hyrule
+[ 33/267] 200  TAKEN     Triforce
+[ 34/267] 404  AVAILABLE  Midna
+[ 35/267] 200  TAKEN     Navi
+[ 36/267] 200  TAKEN     Mario
+[ 37/267] 200  TAKEN     Luigi
+[ 38/267] 200  TAKEN     Bowser
+[ 39/267] 200  TAKEN     Peach
+[ 40/267] 200  TAKEN     Yoshi
+[ 41/267] 200  TAKEN     Wario
+[ 42/267] 404  AVAILABLE  Waluigi
+[ 43/267] 200  TAKEN     DonkeyKong
+[ 44/267] 200  TAKEN     Toad
+[ 45/267] 200  TAKEN     Rosalina
+[ 46/267] 200  TAKEN     Samus
+[ 47/267] 200  TAKEN     Ridley
+[ 48/267] 404  AVAILABLE  CaptainFalcon
+[ 49/267] 200  TAKEN     FoxMcCloud
+[ 50/267] 200  TAKEN     Falco
+[ 51/267] 200  TAKEN     Kirby
+[ 52/267] 200  TAKEN     KingDedede
+[ 53/267] 200  TAKEN     MetaKnight
+[ 54/267] 200  TAKEN     Sonic
+[ 55/267] 200  TAKEN     Tails
+[ 56/267] 200  TAKEN     Knuckles
+[ 57/267] 200  TAKEN     ShadowTheHedgehog
+[ 58/267] 200  TAKEN     Eggman
+[ 59/267] 200  TAKEN     Robotnik
+[ 60/267] 200  TAKEN     Rouge
+[ 61/267] 200  TAKEN     Sephiroth
+[ 62/267] 200  TAKEN     CloudStrife
+[ 63/267] 200  TAKEN     Aerith
+[ 64/267] 200  TAKEN     Tifa
+[ 65/267] 200  TAKEN     Barret
+[ 66/267] 200  TAKEN     Lightning
+[ 67/267] 200  TAKEN     Tidus
+[ 68/267] 200  TAKEN     Yuna
+[ 69/267] 200  TAKEN     Vivi
+[ 70/267] 200  TAKEN     Kefka
+[ 71/267] 200  TAKEN     Terra
+[ 72/267] 404  AVAILABLE  Chocobo
+[ 73/267] 404  AVAILABLE  Midgar
+[ 74/267] 200  TAKEN     SolidSnake
+[ 75/267] 200  TAKEN     BigBoss
+[ 76/267] 200  TAKEN     LiquidSnake
+[ 77/267] 200  TAKEN     Raiden
+[ 78/267] 200  TAKEN     Otacon
+[ 79/267] 200  TAKEN     Meryl
+[ 80/267] 200  TAKEN     Codec
+[ 81/267] 200  TAKEN     Arthas
+[ 82/267] 404  AVAILABLE  LichKing
+[ 83/267] 200  TAKEN     Thrall
+[ 84/267] 200  TAKEN     Illidan
+[ 85/267] 200  TAKEN     Ragnaros
+[ 86/267] 200  TAKEN     Sylvanas
+[ 87/267] 200  TAKEN     Jaina
+[ 88/267] 404  AVAILABLE  Anduin
+[ 89/267] 404  AVAILABLE  Gul'dan
+[ 90/267] 200  TAKEN     Guldan
+[ 91/267] 200  TAKEN     Azeroth
+[ 92/267] 200  TAKEN     Orgrimmar
+[ 93/267] 404  AVAILABLE  Stormwind
+[ 94/267] 200  TAKEN     Diablo
+[ 95/267] 200  TAKEN     Tristram
+[ 96/267] 200  TAKEN     Sanctuary
+[ 97/267] 200  TAKEN     Deckard
+[ 98/267] 200  TAKEN     Kerrigan
+[ 99/267] 200  TAKEN     Raynor
+[100/267] 200  TAKEN     Zergling
+[101/267] 200  TAKEN     Protoss
+[102/267] 200  TAKEN     Zerg
+[103/267] 200  TAKEN     Ryu
+[104/267] 200  TAKEN     Ken
+[105/267] 200  TAKEN     ChunLi
+[106/267] 200  TAKEN     Akuma
+[107/267] 200  TAKEN     Guile
+[108/267] 200  TAKEN     Blanka
+[109/267] 200  TAKEN     Zangief
+[110/267] 200  TAKEN     Hadouken
+[111/267] 200  TAKEN     Scorpion
+[112/267] 200  TAKEN     SubZero
+[113/267] 200  TAKEN     LiuKang
+[114/267] 200  TAKEN     Shang
+[115/267] 200  TAKEN     Kitana
+[116/267] 200  TAKEN     Fatality
+[117/267] 200  TAKEN     Tracer
+[118/267] 200  TAKEN     Genji
+[119/267] 200  TAKEN     Hanzo
+[120/267] 200  TAKEN     Widowmaker
+[121/267] 200  TAKEN     Reaper
+[122/267] 200  TAKEN     Reinhardt
+[123/267] 200  TAKEN     Mercy
+[124/267] 200  TAKEN     Pharah
+[125/267] 404  AVAILABLE  McCree
+[126/267] 200  TAKEN     Cassidy
+[127/267] 200  TAKEN     Teemo
+[128/267] 200  TAKEN     Yasuo
+[129/267] 200  TAKEN     Jinx
+[130/267] 200  TAKEN     Lux
+[131/267] 200  TAKEN     Thresh
+[132/267] 200  TAKEN     Faker
+[133/267] 200  TAKEN     Ahri
+[134/267] 200  TAKEN     Vayne
+[135/267] 200  TAKEN     Zed
+[136/267] 404  AVAILABLE  Yone
+[137/267] 404  AVAILABLE  CounterTerrorist
+[138/267] 200  TAKEN     Defuse
+[139/267] 200  TAKEN     Flashbang
+[140/267] 200  TAKEN     NikoBellic
+[141/267] 200  TAKEN     TrevorPhilips
+[142/267] 200  TAKEN     MichaelDeSanta
+[143/267] 200  TAKEN     CarlJohnson
+[144/267] 200  TAKEN     ViceCity
+[145/267] 404  AVAILABLE  LibertyCity
+[146/267] 200  TAKEN     ArthurMorgan
+[147/267] 200  TAKEN     JohnMarston
+[148/267] 200  TAKEN     DutchVanDerLinde
+[149/267] 200  TAKEN     Dovahkiin
+[150/267] 200  TAKEN     Dragonborn
+[151/267] 200  TAKEN     Alduin
+[152/267] 200  TAKEN     Tamriel
+[153/267] 200  TAKEN     Skyrim
+[154/267] 200  TAKEN     FusRoDah
+[155/267] 200  TAKEN     Whiterun
+[156/267] 200  TAKEN     VaultBoy
+[157/267] 200  TAKEN     Wasteland
+[158/267] 200  TAKEN     Brotherhood
+[159/267] 200  TAKEN     PipBoy
+[160/267] 200  TAKEN     Ghoul
+[161/267] 404  AVAILABLE  Rapture
+[162/267] 404  AVAILABLE  AndrewRyan
+[163/267] 200  TAKEN     BigDaddy
+[164/267] 404  AVAILABLE  LittleSister
+[165/267] 200  TAKEN     BioShock
+[166/267] 200  TAKEN     Columbia
+[167/267] 200  TAKEN     Ezio
+[168/267] 200  TAKEN     Altair
+[169/267] 200  TAKEN     Desmond
+[170/267] 200  TAKEN     Bayek
+[171/267] 200  TAKEN     Eivor
+[172/267] 200  TAKEN     LeonKennedy
+[173/267] 200  TAKEN     JillValentine
+[174/267] 200  TAKEN     ChrisRedfield
+[175/267] 404  AVAILABLE  ClairRedfield
+[176/267] 200  TAKEN     Nemesis
+[177/267] 200  TAKEN     Umbrella
+[178/267] 200  TAKEN     LaraCroft
+[179/267] 200  TAKEN     HandsomeJack
+[180/267] 200  TAKEN     Claptrap
+[181/267] 200  TAKEN     Lilith
+[182/267] 200  TAKEN     Vault
+[183/267] 200  TAKEN     Sans
+[184/267] 200  TAKEN     Papyrus
+[185/267] 200  TAKEN     Toriel
+[186/267] 404  AVAILABLE  Undyne
+[187/267] 200  TAKEN     Alphys
+[188/267] 200  TAKEN     Flowey
+[189/267] 200  TAKEN     Asgore
+[190/267] 200  TAKEN     Frisk
+[191/267] 200  TAKEN     Chara
+[192/267] 200  TAKEN     YorHa
+[193/267] 200  TAKEN     Emil
+[194/267] 200  TAKEN     Joker
+[195/267] 200  TAKEN     Morgana
+[196/267] 200  TAKEN     Ryuji
+[197/267] 200  TAKEN     Makoto
+[198/267] 200  TAKEN     Crono
+[199/267] 200  TAKEN     Lavos
+[200/267] 404  AVAILABLE  Lucca
+[201/267] 200  TAKEN     Frog
+[202/267] 200  TAKEN     Magus
+[203/267] 200  TAKEN     Ness
+[204/267] 200  TAKEN     Giygas
+[205/267] 404  AVAILABLE  PK
+[206/267] 404  AVAILABLE  Onett
+[207/267] 200  TAKEN     Shepard
+[208/267] 200  TAKEN     Garrus
+[209/267] 200  TAKEN     Liara
+[210/267] 200  TAKEN     Wrex
+[211/267] 200  TAKEN     Normandy
+[212/267] 200  TAKEN     Cayde
+[213/267] 200  TAKEN     Zavala
+[214/267] 404  AVAILABLE  Ikora
+[215/267] 200  TAKEN     Guardian
+[216/267] 200  TAKEN     Drifter
+[217/267] 200  TAKEN     Tarnished
+[218/267] 200  TAKEN     Melina
+[219/267] 200  TAKEN     Ranni
+[220/267] 200  TAKEN     Malenia
+[221/267] 200  TAKEN     Estus
+[222/267] 200  TAKEN     Solaire
+[223/267] 200  TAKEN     Gwyn
+[224/267] 200  TAKEN     Artorias
+[225/267] 200  TAKEN     TomNook
+[226/267] 200  TAKEN     Isabelle
+[227/267] 200  TAKEN     KKSlider
+[228/267] 200  TAKEN     Pelican
+[229/267] 404  AVAILABLE  Stardew
+[230/267] 200  TAKEN     Impostor
+[231/267] 200  TAKEN     Crewmate
+[232/267] 200  TAKEN     Amogus
+[233/267] 200  TAKEN     Vented
+[234/267] 404  AVAILABLE  BattleBus
+[235/267] 404  AVAILABLE  BuildMode
+[236/267] 200  TAKEN     Tilted
+[237/267] 404  AVAILABLE  Zezima
+[238/267] 200  TAKEN     Pandaria
+[239/267] 200  TAKEN     Lordaeron
+[240/267] 200  TAKEN     Icewind
+[241/267] 200  TAKEN     Blizzard
+[242/267] 404  AVAILABLE  Rockstar
+[243/267] 200  TAKEN     Bungie
+[244/267] 200  TAKEN     Naughty
+[245/267] 200  TAKEN     Valve
+[246/267] 200  TAKEN     Respawn
+[247/267] 200  TAKEN     Headshot
+[248/267] 200  TAKEN     Speedrun
+[249/267] 404  AVAILABLE  Noclip
+[250/267] 200  TAKEN     GodMode
+[251/267] 404  AVAILABLE  Pwned
+[252/267] 200  TAKEN     Frag
+[253/267] 200  TAKEN     Aimbot
+[254/267] 200  TAKEN     Teabag
+[255/267] 200  TAKEN     Camper
+[256/267] 200  TAKEN     Ragequit
+[257/267] 200  TAKEN     OneShot
+[258/267] 200  TAKEN     Tryhard
+[259/267] 200  TAKEN     Clutch
+[260/267] 200  TAKEN     Wombo
+[261/267] 200  TAKEN     LastHit
+[262/267] 404  AVAILABLE  GankLane
+[263/267] 404  AVAILABLE  BattlePass
+[264/267] 200  TAKEN     LootBox
+[265/267] 200  TAKEN     NoScope
+[266/267] 200  TAKEN     Quickscope
+[267/267] 200  TAKEN     PentaKill
+
+============================================================
+RESULTS SUMMARY
+============================================================
+
+✅  AVAILABLE (33 names):
+   UNSC
+   Ganondorf
+   Midna
+   Waluigi
+   CaptainFalcon
+   Chocobo
+   Midgar
+   LichKing
+   Anduin
+   Gul'dan
+   Stormwind
+   McCree
+   Yone
+   CounterTerrorist
+   LibertyCity
+   Rapture
+   AndrewRyan
+   LittleSister
+   ClairRedfield
+   Undyne
+   Lucca
+   PK
+   Onett
+   Ikora
+   Stardew
+   BattleBus
+   BuildMode
+   Zezima
+   Rockstar
+   Noclip
+   Pwned
+   GankLane
+   BattlePass
+
+❌  TAKEN (234 names):
+   MasterChief
+   Cortana
+   Arbiter
+   Spartan
+   DoomGuy
+   DoomSlayer
+   Gordon
+   GordonFreeman
+   GLaDOS
+   Chell
+   Wheatley
+   Herobrine
+   Creeper
+   Enderman
+   Notch
+   Pickaxe
+   Pikachu
+   Charizard
+   Mewtwo
+   Eevee
+   Bulbasaur
+   Squirtle
+   Gengar
+   Snorlax
+   Lucario
+   Greninja
+   Link
+   Zelda
+   Ganon
+   Hyrule
+   Triforce
+   Navi
+   Mario
+   Luigi
+   Bowser
+   Peach
+   Yoshi
+   Wario
+   DonkeyKong
+   Toad
+   Rosalina
+   Samus
+   Ridley
+   FoxMcCloud
+   Falco
+   Kirby
+   KingDedede
+   MetaKnight
+   Sonic
+   Tails
+   Knuckles
+   ShadowTheHedgehog
+   Eggman
+   Robotnik
+   Rouge
+   Sephiroth
+   CloudStrife
+   Aerith
+   Tifa
+   Barret
+   Lightning
+   Tidus
+   Yuna
+   Vivi
+   Kefka
+   Terra
+   SolidSnake
+   BigBoss
+   LiquidSnake
+   Raiden
+   Otacon
+   Meryl
+   Codec
+   Arthas
+   Thrall
+   Illidan
+   Ragnaros
+   Sylvanas
+   Jaina
+   Guldan
+   Azeroth
+   Orgrimmar
+   Diablo
+   Tristram
+   Sanctuary
+   Deckard
+   Kerrigan
+   Raynor
+   Zergling
+   Protoss
+   Zerg
+   Ryu
+   Ken
+   ChunLi
+   Akuma
+   Guile
+   Blanka
+   Zangief
+   Hadouken
+   Scorpion
+   SubZero
+   LiuKang
+   Shang
+   Kitana
+   Fatality
+   Tracer
+   Genji
+   Hanzo
+   Widowmaker
+   Reaper
+   Reinhardt
+   Mercy
+   Pharah
+   Cassidy
+   Teemo
+   Yasuo
+   Jinx
+   Lux
+   Thresh
+   Faker
+   Ahri
+   Vayne
+   Zed
+   Defuse
+   Flashbang
+   NikoBellic
+   TrevorPhilips
+   MichaelDeSanta
+   CarlJohnson
+   ViceCity
+   ArthurMorgan
+   JohnMarston
+   DutchVanDerLinde
+   Dovahkiin
+   Dragonborn
+   Alduin
+   Tamriel
+   Skyrim
+   FusRoDah
+   Whiterun
+   VaultBoy
+   Wasteland
+   Brotherhood
+   PipBoy
+   Ghoul
+   BigDaddy
+   BioShock
+   Columbia
+   Ezio
+   Altair
+   Desmond
+   Bayek
+   Eivor
+   LeonKennedy
+   JillValentine
+   ChrisRedfield
+   Nemesis
+   Umbrella
+   LaraCroft
+   HandsomeJack
+   Claptrap
+   Lilith
+   Vault
+   Sans
+   Papyrus
+   Toriel
+   Alphys
+   Flowey
+   Asgore
+   Frisk
+   Chara
+   YorHa
+   Emil
+   Joker
+   Morgana
+   Ryuji
+   Makoto
+   Crono
+   Lavos
+   Frog
+   Magus
+   Ness
+   Giygas
+   Shepard
+   Garrus
+   Liara
+   Wrex
+   Normandy
+   Cayde
+   Zavala
+   Guardian
+   Drifter
+   Tarnished
+   Melina
+   Ranni
+   Malenia
+   Estus
+   Solaire
+   Gwyn
+   Artorias
+   TomNook
+   Isabelle
+   KKSlider
+   Pelican
+   Impostor
+   Crewmate
+   Amogus
+   Vented
+   Tilted
+   Pandaria
+   Lordaeron
+   Icewind
+   Blizzard
+   Bungie
+   Naughty
+   Valve
+   Respawn
+   Headshot
+   Speedrun
+   GodMode
+   Frag
+   Aimbot
+   Teabag
+   Camper
+   Ragequit
+   OneShot
+   Tryhard
+   Clutch
+   Wombo
+   LastHit
+   LootBox
+   NoScope
+   Quickscope
+   PentaKill
+/workspace/check_rsi_handles.py:259: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Full results saved to rsi_handle_results.json

@@ -1,0 +1,182 @@
+Checking 84 underground legend handles...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/84]   200  TAKEN       Terminus                   https://robertsspaceindustries.com/en/citizens/Terminus
+[  2/84]   200  TAKEN       Marauder                   https://robertsspaceindustries.com/en/citizens/Marauder
+[  3/84]   200  TAKEN       Mentor                     https://robertsspaceindustries.com/en/citizens/Mentor
+[  4/84]   200  TAKEN       Bloodaxe                   https://robertsspaceindustries.com/en/citizens/Bloodaxe
+[  5/84]   404  AVAILABLE   LordDigital                https://robertsspaceindustries.com/en/citizens/LordDigital
+[  6/84]   200  TAKEN       Deadlord                   https://robertsspaceindustries.com/en/citizens/Deadlord
+[  7/84]   200  TAKEN       Kinison                    https://robertsspaceindustries.com/en/citizens/Kinison
+[  8/84]   200  TAKEN       Leftist                    https://robertsspaceindustries.com/en/citizens/Leftist
+[  9/84]   200  TAKEN       Nightstalker               https://robertsspaceindustries.com/en/citizens/Nightstalker
+[ 10/84]   404  AVAILABLE   PhibOptik                  https://robertsspaceindustries.com/en/citizens/PhibOptik
+[ 11/84]   200  TAKEN       AcidPhreak                 https://robertsspaceindustries.com/en/citizens/AcidPhreak
+[ 12/84]   200  TAKEN       AlephOne                   https://robertsspaceindustries.com/en/citizens/AlephOne
+[ 13/84]   404  AVAILABLE   Daemon9                    https://robertsspaceindustries.com/en/citizens/Daemon9
+[ 14/84]   200  TAKEN       ReDragon                   https://robertsspaceindustries.com/en/citizens/ReDragon
+[ 15/84]   200  TAKEN       TheMentor                  https://robertsspaceindustries.com/en/citizens/TheMentor
+[ 16/84]   404  AVAILABLE   CrimeOfCuriosity           https://robertsspaceindustries.com/en/citizens/CrimeOfCuriosity
+[ 17/84]   404  AVAILABLE   OutsmartYou                https://robertsspaceindustries.com/en/citizens/OutsmartYou
+[ 18/84]   404  AVAILABLE   WeAreAlike                 https://robertsspaceindustries.com/en/citizens/WeAreAlike
+[ 19/84]   404  AVAILABLE   EnterMyWorld               https://robertsspaceindustries.com/en/citizens/EnterMyWorld
+[ 20/84]   404  AVAILABLE   BeautyOfBaud               https://robertsspaceindustries.com/en/citizens/BeautyOfBaud
+[ 21/84]   404  AVAILABLE   WorldElectron              https://robertsspaceindustries.com/en/citizens/WorldElectron
+[ 22/84]   404  AVAILABLE   YouCallUsCriminals         https://robertsspaceindustries.com/en/citizens/YouCallUsCriminals
+[ 23/84]   404  AVAILABLE   CannotStopUs               https://robertsspaceindustries.com/en/citizens/CannotStopUs
+[ 24/84]   200  TAKEN       Clandestine                https://robertsspaceindustries.com/en/citizens/Clandestine
+[ 25/84]   200  TAKEN       Subterranean               https://robertsspaceindustries.com/en/citizens/Subterranean
+[ 26/84]   200  TAKEN       Specter                    https://robertsspaceindustries.com/en/citizens/Specter
+[ 27/84]   200  TAKEN       Chimera                    https://robertsspaceindustries.com/en/citizens/Chimera
+[ 28/84]   200  TAKEN       Wraith                     https://robertsspaceindustries.com/en/citizens/Wraith
+[ 29/84]   200  TAKEN       Umbra                      https://robertsspaceindustries.com/en/citizens/Umbra
+[ 30/84]   200  TAKEN       Obscura                    https://robertsspaceindustries.com/en/citizens/Obscura
+[ 31/84]   200  TAKEN       Penumbra                   https://robertsspaceindustries.com/en/citizens/Penumbra
+[ 32/84]   200  TAKEN       Silhouette                 https://robertsspaceindustries.com/en/citizens/Silhouette
+[ 33/84]   200  TAKEN       Sigil                      https://robertsspaceindustries.com/en/citizens/Sigil
+[ 34/84]   200  TAKEN       Glyph                      https://robertsspaceindustries.com/en/citizens/Glyph
+[ 35/84]   200  TAKEN       Cipher                     https://robertsspaceindustries.com/en/citizens/Cipher
+[ 36/84]   404  AVAILABLE   Enciphered                 https://robertsspaceindustries.com/en/citizens/Enciphered
+[ 37/84]   200  TAKEN       Redacted                   https://robertsspaceindustries.com/en/citizens/Redacted
+[ 38/84]   200  TAKEN       Expunged                   https://robertsspaceindustries.com/en/citizens/Expunged
+[ 39/84]   200  TAKEN       Stricken                   https://robertsspaceindustries.com/en/citizens/Stricken
+[ 40/84]   200  TAKEN       Nullified                  https://robertsspaceindustries.com/en/citizens/Nullified
+[ 41/84]   200  TAKEN       Phantom                    https://robertsspaceindustries.com/en/citizens/Phantom
+[ 42/84]   200  TAKEN       Revenant                   https://robertsspaceindustries.com/en/citizens/Revenant
+[ 43/84]   200  TAKEN       Latency                    https://robertsspaceindustries.com/en/citizens/Latency
+[ 44/84]   200  TAKEN       Liminal                    https://robertsspaceindustries.com/en/citizens/Liminal
+[ 45/84]   404  AVAILABLE   Interstitial               https://robertsspaceindustries.com/en/citizens/Interstitial
+[ 46/84]   200  TAKEN       Periphery                  https://robertsspaceindustries.com/en/citizens/Periphery
+[ 47/84]   200  TAKEN       Tangential                 https://robertsspaceindustries.com/en/citizens/Tangential
+[ 48/84]   200  TAKEN       Adjacent                   https://robertsspaceindustries.com/en/citizens/Adjacent
+[ 49/84]   404  AVAILABLE   Oblique                    https://robertsspaceindustries.com/en/citizens/Oblique
+[ 50/84]   200  TAKEN       Lateral                    https://robertsspaceindustries.com/en/citizens/Lateral
+[ 51/84]   200  TAKEN       Proximate                  https://robertsspaceindustries.com/en/citizens/Proximate
+[ 52/84]   200  TAKEN       Distal                     https://robertsspaceindustries.com/en/citizens/Distal
+[ 53/84]   200  TAKEN       Remote                     https://robertsspaceindustries.com/en/citizens/Remote
+[ 54/84]   404  AVAILABLE   Vectored                   https://robertsspaceindustries.com/en/citizens/Vectored
+[ 55/84]   200  TAKEN       Ingress                    https://robertsspaceindustries.com/en/citizens/Ingress
+[ 56/84]   200  TAKEN       Egress                     https://robertsspaceindustries.com/en/citizens/Egress
+[ 57/84]   200  TAKEN       Siphon                     https://robertsspaceindustries.com/en/citizens/Siphon
+[ 58/84]   200  TAKEN       Intercept                  https://robertsspaceindustries.com/en/citizens/Intercept
+[ 59/84]   200  TAKEN       Skimmer                    https://robertsspaceindustries.com/en/citizens/Skimmer
+[ 60/84]   200  TAKEN       Resonance                  https://robertsspaceindustries.com/en/citizens/Resonance
+[ 61/84]   200  TAKEN       Frequency                  https://robertsspaceindustries.com/en/citizens/Frequency
+[ 62/84]   200  TAKEN       Carrier                    https://robertsspaceindustries.com/en/citizens/Carrier
+[ 63/84]   404  AVAILABLE   Steganography              https://robertsspaceindustries.com/en/citizens/Steganography
+[ 64/84]   200  TAKEN       Steg                       https://robertsspaceindustries.com/en/citizens/Steg
+[ 65/84]   200  TAKEN       Covert                     https://robertsspaceindustries.com/en/citizens/Covert
+[ 66/84]   200  TAKEN       Subliminal                 https://robertsspaceindustries.com/en/citizens/Subliminal
+[ 67/84]   200  TAKEN       Exponent                   https://robertsspaceindustries.com/en/citizens/Exponent
+[ 68/84]   404  AVAILABLE   Logarithm                  https://robertsspaceindustries.com/en/citizens/Logarithm
+[ 69/84]   200  TAKEN       Algorithm                  https://robertsspaceindustries.com/en/citizens/Algorithm
+[ 70/84]   200  TAKEN       Recursion                  https://robertsspaceindustries.com/en/citizens/Recursion
+[ 71/84]   200  TAKEN       LordChaos                  https://robertsspaceindustries.com/en/citizens/LordChaos
+[ 72/84]   200  TAKEN       DarkPrince                 https://robertsspaceindustries.com/en/citizens/DarkPrince
+[ 73/84]   200  TAKEN       SilverSpy                  https://robertsspaceindustries.com/en/citizens/SilverSpy
+[ 74/84]   200  TAKEN       IronLungs                  https://robertsspaceindustries.com/en/citizens/IronLungs
+[ 75/84]   200  TAKEN       Nightcrawler               https://robertsspaceindustries.com/en/citizens/Nightcrawler
+[ 76/84]   200  TAKEN       Darkforce                  https://robertsspaceindustries.com/en/citizens/Darkforce
+[ 77/84]   200  TAKEN       Blacklung                  https://robertsspaceindustries.com/en/citizens/Blacklung
+[ 78/84]   404  AVAILABLE   Grayzone                   https://robertsspaceindustries.com/en/citizens/Grayzone
+[ 79/84]   200  TAKEN       Duskfall                   https://robertsspaceindustries.com/en/citizens/Duskfall
+[ 80/84]   200  TAKEN       Coldlight                  https://robertsspaceindustries.com/en/citizens/Coldlight
+[ 81/84]   200  TAKEN       Halflife                   https://robertsspaceindustries.com/en/citizens/Halflife
+[ 82/84]   200  TAKEN       Halflight                  https://robertsspaceindustries.com/en/citizens/Halflight
+[ 83/84]   200  TAKEN       Twilight                   https://robertsspaceindustries.com/en/citizens/Twilight
+[ 84/84]   200  TAKEN       Dusk                       https://robertsspaceindustries.com/en/citizens/Dusk
+
+==============================================================================================================
+
+✅  AVAILABLE (18):
+   LordDigital                     https://robertsspaceindustries.com/en/citizens/LordDigital
+   PhibOptik                       https://robertsspaceindustries.com/en/citizens/PhibOptik
+   Daemon9                         https://robertsspaceindustries.com/en/citizens/Daemon9
+   CrimeOfCuriosity                https://robertsspaceindustries.com/en/citizens/CrimeOfCuriosity
+   OutsmartYou                     https://robertsspaceindustries.com/en/citizens/OutsmartYou
+   WeAreAlike                      https://robertsspaceindustries.com/en/citizens/WeAreAlike
+   EnterMyWorld                    https://robertsspaceindustries.com/en/citizens/EnterMyWorld
+   BeautyOfBaud                    https://robertsspaceindustries.com/en/citizens/BeautyOfBaud
+   WorldElectron                   https://robertsspaceindustries.com/en/citizens/WorldElectron
+   YouCallUsCriminals              https://robertsspaceindustries.com/en/citizens/YouCallUsCriminals
+   CannotStopUs                    https://robertsspaceindustries.com/en/citizens/CannotStopUs
+   Enciphered                      https://robertsspaceindustries.com/en/citizens/Enciphered
+   Interstitial                    https://robertsspaceindustries.com/en/citizens/Interstitial
+   Oblique                         https://robertsspaceindustries.com/en/citizens/Oblique
+   Vectored                        https://robertsspaceindustries.com/en/citizens/Vectored
+   Steganography                   https://robertsspaceindustries.com/en/citizens/Steganography
+   Logarithm                       https://robertsspaceindustries.com/en/citizens/Logarithm
+   Grayzone                        https://robertsspaceindustries.com/en/citizens/Grayzone
+
+❌  TAKEN (66):
+   Terminus                        https://robertsspaceindustries.com/en/citizens/Terminus
+   Marauder                        https://robertsspaceindustries.com/en/citizens/Marauder
+   Mentor                          https://robertsspaceindustries.com/en/citizens/Mentor
+   Bloodaxe                        https://robertsspaceindustries.com/en/citizens/Bloodaxe
+   Deadlord                        https://robertsspaceindustries.com/en/citizens/Deadlord
+   Kinison                         https://robertsspaceindustries.com/en/citizens/Kinison
+   Leftist                         https://robertsspaceindustries.com/en/citizens/Leftist
+   Nightstalker                    https://robertsspaceindustries.com/en/citizens/Nightstalker
+   AcidPhreak                      https://robertsspaceindustries.com/en/citizens/AcidPhreak
+   AlephOne                        https://robertsspaceindustries.com/en/citizens/AlephOne
+   ReDragon                        https://robertsspaceindustries.com/en/citizens/ReDragon
+   TheMentor                       https://robertsspaceindustries.com/en/citizens/TheMentor
+   Clandestine                     https://robertsspaceindustries.com/en/citizens/Clandestine
+   Subterranean                    https://robertsspaceindustries.com/en/citizens/Subterranean
+   Specter                         https://robertsspaceindustries.com/en/citizens/Specter
+   Chimera                         https://robertsspaceindustries.com/en/citizens/Chimera
+   Wraith                          https://robertsspaceindustries.com/en/citizens/Wraith
+   Umbra                           https://robertsspaceindustries.com/en/citizens/Umbra
+   Obscura                         https://robertsspaceindustries.com/en/citizens/Obscura
+   Penumbra                        https://robertsspaceindustries.com/en/citizens/Penumbra
+   Silhouette                      https://robertsspaceindustries.com/en/citizens/Silhouette
+   Sigil                           https://robertsspaceindustries.com/en/citizens/Sigil
+   Glyph                           https://robertsspaceindustries.com/en/citizens/Glyph
+   Cipher                          https://robertsspaceindustries.com/en/citizens/Cipher
+   Redacted                        https://robertsspaceindustries.com/en/citizens/Redacted
+   Expunged                        https://robertsspaceindustries.com/en/citizens/Expunged
+   Stricken                        https://robertsspaceindustries.com/en/citizens/Stricken
+   Nullified                       https://robertsspaceindustries.com/en/citizens/Nullified
+   Phantom                         https://robertsspaceindustries.com/en/citizens/Phantom
+   Revenant                        https://robertsspaceindustries.com/en/citizens/Revenant
+   Latency                         https://robertsspaceindustries.com/en/citizens/Latency
+   Liminal                         https://robertsspaceindustries.com/en/citizens/Liminal
+   Periphery                       https://robertsspaceindustries.com/en/citizens/Periphery
+   Tangential                      https://robertsspaceindustries.com/en/citizens/Tangential
+   Adjacent                        https://robertsspaceindustries.com/en/citizens/Adjacent
+   Lateral                         https://robertsspaceindustries.com/en/citizens/Lateral
+   Proximate                       https://robertsspaceindustries.com/en/citizens/Proximate
+   Distal                          https://robertsspaceindustries.com/en/citizens/Distal
+   Remote                          https://robertsspaceindustries.com/en/citizens/Remote
+   Ingress                         https://robertsspaceindustries.com/en/citizens/Ingress
+   Egress                          https://robertsspaceindustries.com/en/citizens/Egress
+   Siphon                          https://robertsspaceindustries.com/en/citizens/Siphon
+   Intercept                       https://robertsspaceindustries.com/en/citizens/Intercept
+   Skimmer                         https://robertsspaceindustries.com/en/citizens/Skimmer
+   Resonance                       https://robertsspaceindustries.com/en/citizens/Resonance
+   Frequency                       https://robertsspaceindustries.com/en/citizens/Frequency
+   Carrier                         https://robertsspaceindustries.com/en/citizens/Carrier
+   Steg                            https://robertsspaceindustries.com/en/citizens/Steg
+   Covert                          https://robertsspaceindustries.com/en/citizens/Covert
+   Subliminal                      https://robertsspaceindustries.com/en/citizens/Subliminal
+   Exponent                        https://robertsspaceindustries.com/en/citizens/Exponent
+   Algorithm                       https://robertsspaceindustries.com/en/citizens/Algorithm
+   Recursion                       https://robertsspaceindustries.com/en/citizens/Recursion
+   LordChaos                       https://robertsspaceindustries.com/en/citizens/LordChaos
+   DarkPrince                      https://robertsspaceindustries.com/en/citizens/DarkPrince
+   SilverSpy                       https://robertsspaceindustries.com/en/citizens/SilverSpy
+   IronLungs                       https://robertsspaceindustries.com/en/citizens/IronLungs
+   Nightcrawler                    https://robertsspaceindustries.com/en/citizens/Nightcrawler
+   Darkforce                       https://robertsspaceindustries.com/en/citizens/Darkforce
+   Blacklung                       https://robertsspaceindustries.com/en/citizens/Blacklung
+   Duskfall                        https://robertsspaceindustries.com/en/citizens/Duskfall
+   Coldlight                       https://robertsspaceindustries.com/en/citizens/Coldlight
+   Halflife                        https://robertsspaceindustries.com/en/citizens/Halflife
+   Halflight                       https://robertsspaceindustries.com/en/citizens/Halflight
+   Twilight                        https://robertsspaceindustries.com/en/citizens/Twilight
+   Dusk                            https://robertsspaceindustries.com/en/citizens/Dusk
+/workspace/check_rsi_handles_v25.py:208: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v25.json

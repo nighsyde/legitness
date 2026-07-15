@@ -1,0 +1,561 @@
+{
+  "checked_at": "2026-07-08T12:33:11.388876Z",
+  "total": 138,
+  "available": [
+    {
+      "name": "SaraTV",
+      "url": "https://robertsspaceindustries.com/en/citizens/SaraTV"
+    },
+    {
+      "name": "MandarkLab",
+      "url": "https://robertsspaceindustries.com/en/citizens/MandarkLab"
+    },
+    {
+      "name": "DeedeeDexter",
+      "url": "https://robertsspaceindustries.com/en/citizens/DeedeeDexter"
+    },
+    {
+      "name": "CourageCoward",
+      "url": "https://robertsspaceindustries.com/en/citizens/CourageCoward"
+    },
+    {
+      "name": "PowerpuffGirls",
+      "url": "https://robertsspaceindustries.com/en/citizens/PowerpuffGirls"
+    },
+    {
+      "name": "Rugrats",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rugrats"
+    },
+    {
+      "name": "HeyArnold",
+      "url": "https://robertsspaceindustries.com/en/citizens/HeyArnold"
+    },
+    {
+      "name": "Tallests",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tallests"
+    },
+    {
+      "name": "OverNineThousand",
+      "url": "https://robertsspaceindustries.com/en/citizens/OverNineThousand"
+    },
+    {
+      "name": "ZecsMerquise",
+      "url": "https://robertsspaceindustries.com/en/citizens/ZecsMerquise"
+    },
+    {
+      "name": "OZsoldier",
+      "url": "https://robertsspaceindustries.com/en/citizens/OZsoldier"
+    },
+    {
+      "name": "Haunter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Haunter"
+    },
+    {
+      "name": "GaryOak",
+      "url": "https://robertsspaceindustries.com/en/citizens/GaryOak"
+    },
+    {
+      "name": "OakLab",
+      "url": "https://robertsspaceindustries.com/en/citizens/OakLab"
+    },
+    {
+      "name": "Pokecenter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pokecenter"
+    },
+    {
+      "name": "Joey",
+      "url": "https://robertsspaceindustries.com/en/citizens/Joey"
+    },
+    {
+      "name": "ClayCrash",
+      "url": "https://robertsspaceindustries.com/en/citizens/ClayCrash"
+    },
+    {
+      "name": "LavaZone",
+      "url": "https://robertsspaceindustries.com/en/citizens/LavaZone"
+    },
+    {
+      "name": "IceZone",
+      "url": "https://robertsspaceindustries.com/en/citizens/IceZone"
+    },
+    {
+      "name": "CarnivalNight",
+      "url": "https://robertsspaceindustries.com/en/citizens/CarnivalNight"
+    },
+    {
+      "name": "MarbleGarden",
+      "url": "https://robertsspaceindustries.com/en/citizens/MarbleGarden"
+    },
+    {
+      "name": "Metroville",
+      "url": "https://robertsspaceindustries.com/en/citizens/Metroville"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Toonami",
+      "url": "https://robertsspaceindustries.com/en/citizens/Toonami"
+    },
+    {
+      "name": "TOM",
+      "url": "https://robertsspaceindustries.com/en/citizens/TOM"
+    },
+    {
+      "name": "Absolution",
+      "url": "https://robertsspaceindustries.com/en/citizens/Absolution"
+    },
+    {
+      "name": "Moltar",
+      "url": "https://robertsspaceindustries.com/en/citizens/Moltar"
+    },
+    {
+      "name": "DextersLab",
+      "url": "https://robertsspaceindustries.com/en/citizens/DextersLab"
+    },
+    {
+      "name": "Dexters",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dexters"
+    },
+    {
+      "name": "Mandark",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mandark"
+    },
+    {
+      "name": "SamuraiJack",
+      "url": "https://robertsspaceindustries.com/en/citizens/SamuraiJack"
+    },
+    {
+      "name": "Aku",
+      "url": "https://robertsspaceindustries.com/en/citizens/Aku"
+    },
+    {
+      "name": "JohnnyBravo",
+      "url": "https://robertsspaceindustries.com/en/citizens/JohnnyBravo"
+    },
+    {
+      "name": "Muriel",
+      "url": "https://robertsspaceindustries.com/en/citizens/Muriel"
+    },
+    {
+      "name": "Eustace",
+      "url": "https://robertsspaceindustries.com/en/citizens/Eustace"
+    },
+    {
+      "name": "Nowhere",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nowhere"
+    },
+    {
+      "name": "Blossom",
+      "url": "https://robertsspaceindustries.com/en/citizens/Blossom"
+    },
+    {
+      "name": "Bubbles",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bubbles"
+    },
+    {
+      "name": "Buttercup",
+      "url": "https://robertsspaceindustries.com/en/citizens/Buttercup"
+    },
+    {
+      "name": "MojoJojo",
+      "url": "https://robertsspaceindustries.com/en/citizens/MojoJojo"
+    },
+    {
+      "name": "Townsville",
+      "url": "https://robertsspaceindustries.com/en/citizens/Townsville"
+    },
+    {
+      "name": "SpaceGhost",
+      "url": "https://robertsspaceindustries.com/en/citizens/SpaceGhost"
+    },
+    {
+      "name": "Zorak",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zorak"
+    },
+    {
+      "name": "Brak",
+      "url": "https://robertsspaceindustries.com/en/citizens/Brak"
+    },
+    {
+      "name": "SwatKats",
+      "url": "https://robertsspaceindustries.com/en/citizens/SwatKats"
+    },
+    {
+      "name": "Angelica",
+      "url": "https://robertsspaceindustries.com/en/citizens/Angelica"
+    },
+    {
+      "name": "Reptar",
+      "url": "https://robertsspaceindustries.com/en/citizens/Reptar"
+    },
+    {
+      "name": "CatDog",
+      "url": "https://robertsspaceindustries.com/en/citizens/CatDog"
+    },
+    {
+      "name": "Rocko",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rocko"
+    },
+    {
+      "name": "Helga",
+      "url": "https://robertsspaceindustries.com/en/citizens/Helga"
+    },
+    {
+      "name": "InvaderZim",
+      "url": "https://robertsspaceindustries.com/en/citizens/InvaderZim"
+    },
+    {
+      "name": "Zim",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zim"
+    },
+    {
+      "name": "GIR",
+      "url": "https://robertsspaceindustries.com/en/citizens/GIR"
+    },
+    {
+      "name": "Dib",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dib"
+    },
+    {
+      "name": "Goku",
+      "url": "https://robertsspaceindustries.com/en/citizens/Goku"
+    },
+    {
+      "name": "Vegeta",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vegeta"
+    },
+    {
+      "name": "Piccolo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Piccolo"
+    },
+    {
+      "name": "Gohan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gohan"
+    },
+    {
+      "name": "Frieza",
+      "url": "https://robertsspaceindustries.com/en/citizens/Frieza"
+    },
+    {
+      "name": "Trunks",
+      "url": "https://robertsspaceindustries.com/en/citizens/Trunks"
+    },
+    {
+      "name": "Krillin",
+      "url": "https://robertsspaceindustries.com/en/citizens/Krillin"
+    },
+    {
+      "name": "Yamcha",
+      "url": "https://robertsspaceindustries.com/en/citizens/Yamcha"
+    },
+    {
+      "name": "Tien",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tien"
+    },
+    {
+      "name": "Nappa",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nappa"
+    },
+    {
+      "name": "Raditz",
+      "url": "https://robertsspaceindustries.com/en/citizens/Raditz"
+    },
+    {
+      "name": "Bardock",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bardock"
+    },
+    {
+      "name": "Broly",
+      "url": "https://robertsspaceindustries.com/en/citizens/Broly"
+    },
+    {
+      "name": "Cell",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cell"
+    },
+    {
+      "name": "Beerus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Beerus"
+    },
+    {
+      "name": "Saiyan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Saiyan"
+    },
+    {
+      "name": "Namekian",
+      "url": "https://robertsspaceindustries.com/en/citizens/Namekian"
+    },
+    {
+      "name": "Scouter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Scouter"
+    },
+    {
+      "name": "Kamehameha",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kamehameha"
+    },
+    {
+      "name": "Kakarot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kakarot"
+    },
+    {
+      "name": "Bulma",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bulma"
+    },
+    {
+      "name": "Majin",
+      "url": "https://robertsspaceindustries.com/en/citizens/Majin"
+    },
+    {
+      "name": "Babidi",
+      "url": "https://robertsspaceindustries.com/en/citizens/Babidi"
+    },
+    {
+      "name": "Usagi",
+      "url": "https://robertsspaceindustries.com/en/citizens/Usagi"
+    },
+    {
+      "name": "Mamoru",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mamoru"
+    },
+    {
+      "name": "Rini",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rini"
+    },
+    {
+      "name": "Darien",
+      "url": "https://robertsspaceindustries.com/en/citizens/Darien"
+    },
+    {
+      "name": "HeeroYuy",
+      "url": "https://robertsspaceindustries.com/en/citizens/HeeroYuy"
+    },
+    {
+      "name": "Heero",
+      "url": "https://robertsspaceindustries.com/en/citizens/Heero"
+    },
+    {
+      "name": "Duo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Duo"
+    },
+    {
+      "name": "Deathscythe",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deathscythe"
+    },
+    {
+      "name": "Trowa",
+      "url": "https://robertsspaceindustries.com/en/citizens/Trowa"
+    },
+    {
+      "name": "Quatre",
+      "url": "https://robertsspaceindustries.com/en/citizens/Quatre"
+    },
+    {
+      "name": "WuFei",
+      "url": "https://robertsspaceindustries.com/en/citizens/WuFei"
+    },
+    {
+      "name": "Treize",
+      "url": "https://robertsspaceindustries.com/en/citizens/Treize"
+    },
+    {
+      "name": "Zechs",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zechs"
+    },
+    {
+      "name": "Epyon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Epyon"
+    },
+    {
+      "name": "Tallgeese",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tallgeese"
+    },
+    {
+      "name": "Mewtwo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mewtwo"
+    },
+    {
+      "name": "Mew",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mew"
+    },
+    {
+      "name": "Charizard",
+      "url": "https://robertsspaceindustries.com/en/citizens/Charizard"
+    },
+    {
+      "name": "Blastoise",
+      "url": "https://robertsspaceindustries.com/en/citizens/Blastoise"
+    },
+    {
+      "name": "Venusaur",
+      "url": "https://robertsspaceindustries.com/en/citizens/Venusaur"
+    },
+    {
+      "name": "Pikachu",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pikachu"
+    },
+    {
+      "name": "Gengar",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gengar"
+    },
+    {
+      "name": "Snorlax",
+      "url": "https://robertsspaceindustries.com/en/citizens/Snorlax"
+    },
+    {
+      "name": "Eevee",
+      "url": "https://robertsspaceindustries.com/en/citizens/Eevee"
+    },
+    {
+      "name": "Vaporeon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vaporeon"
+    },
+    {
+      "name": "Jolteon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Jolteon"
+    },
+    {
+      "name": "Flareon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flareon"
+    },
+    {
+      "name": "Alakazam",
+      "url": "https://robertsspaceindustries.com/en/citizens/Alakazam"
+    },
+    {
+      "name": "Machamp",
+      "url": "https://robertsspaceindustries.com/en/citizens/Machamp"
+    },
+    {
+      "name": "Dragonite",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dragonite"
+    },
+    {
+      "name": "Aerodactyl",
+      "url": "https://robertsspaceindustries.com/en/citizens/Aerodactyl"
+    },
+    {
+      "name": "Clefairy",
+      "url": "https://robertsspaceindustries.com/en/citizens/Clefairy"
+    },
+    {
+      "name": "Cubone",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cubone"
+    },
+    {
+      "name": "Lavender",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lavender"
+    },
+    {
+      "name": "Cerulean",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cerulean"
+    },
+    {
+      "name": "Cinnabar",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cinnabar"
+    },
+    {
+      "name": "Pallet",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pallet"
+    },
+    {
+      "name": "ViridianCity",
+      "url": "https://robertsspaceindustries.com/en/citizens/ViridianCity"
+    },
+    {
+      "name": "Pewter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pewter"
+    },
+    {
+      "name": "Brock",
+      "url": "https://robertsspaceindustries.com/en/citizens/Brock"
+    },
+    {
+      "name": "Misty",
+      "url": "https://robertsspaceindustries.com/en/citizens/Misty"
+    },
+    {
+      "name": "Yugi",
+      "url": "https://robertsspaceindustries.com/en/citizens/Yugi"
+    },
+    {
+      "name": "Yami",
+      "url": "https://robertsspaceindustries.com/en/citizens/Yami"
+    },
+    {
+      "name": "Kaiba",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kaiba"
+    },
+    {
+      "name": "BluEyes",
+      "url": "https://robertsspaceindustries.com/en/citizens/BluEyes"
+    },
+    {
+      "name": "DarkMagician",
+      "url": "https://robertsspaceindustries.com/en/citizens/DarkMagician"
+    },
+    {
+      "name": "Exodia",
+      "url": "https://robertsspaceindustries.com/en/citizens/Exodia"
+    },
+    {
+      "name": "Tristan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tristan"
+    },
+    {
+      "name": "Pegasus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pegasus"
+    },
+    {
+      "name": "Bakura",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bakura"
+    },
+    {
+      "name": "Samus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Samus"
+    },
+    {
+      "name": "Ridley",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ridley"
+    },
+    {
+      "name": "Kraid",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kraid"
+    },
+    {
+      "name": "Spyro",
+      "url": "https://robertsspaceindustries.com/en/citizens/Spyro"
+    },
+    {
+      "name": "Sparx",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sparx"
+    },
+    {
+      "name": "CrashBandicoot",
+      "url": "https://robertsspaceindustries.com/en/citizens/CrashBandicoot"
+    },
+    {
+      "name": "Crash",
+      "url": "https://robertsspaceindustries.com/en/citizens/Crash"
+    },
+    {
+      "name": "Cortex",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cortex"
+    },
+    {
+      "name": "AkuAku",
+      "url": "https://robertsspaceindustries.com/en/citizens/AkuAku"
+    },
+    {
+      "name": "GreenHill",
+      "url": "https://robertsspaceindustries.com/en/citizens/GreenHill"
+    },
+    {
+      "name": "Emerald",
+      "url": "https://robertsspaceindustries.com/en/citizens/Emerald"
+    },
+    {
+      "name": "DeathEgg",
+      "url": "https://robertsspaceindustries.com/en/citizens/DeathEgg"
+    }
+  ],
+  "errors": []
+}

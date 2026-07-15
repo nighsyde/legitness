@@ -1,0 +1,194 @@
+Checking 90 CS 1.6 culture handles (3+ chars, alphanumeric only)...
+
+   #  CODE  RESULT      HANDLE                     URL
+--------------------------------------------------------------------------------------------------------------
+[  1/90]   200  TAKEN       Rcon                       https://robertsspaceindustries.com/en/citizens/Rcon
+[  2/90]   200  TAKEN       Autoexec                   https://robertsspaceindustries.com/en/citizens/Autoexec
+[  3/90]   200  TAKEN       Impulse101                 https://robertsspaceindustries.com/en/citizens/Impulse101
+[  4/90]   200  TAKEN       Retry                      https://robertsspaceindustries.com/en/citizens/Retry
+[  5/90]   200  TAKEN       Status                     https://robertsspaceindustries.com/en/citizens/Status
+[  6/90]   200  TAKEN       Connect                    https://robertsspaceindustries.com/en/citizens/Connect
+[  7/90]   404  AVAILABLE   ListMaps                   https://robertsspaceindustries.com/en/citizens/ListMaps
+[  8/90]   404  AVAILABLE   Changelevel                https://robertsspaceindustries.com/en/citizens/Changelevel
+[  9/90]   200  TAKEN       Exec                       https://robertsspaceindustries.com/en/citizens/Exec
+[ 10/90]   404  AVAILABLE   NetGraph                   https://robertsspaceindustries.com/en/citizens/NetGraph
+[ 11/90]   404  AVAILABLE   Condump                    https://robertsspaceindustries.com/en/citizens/Condump
+[ 12/90]   200  TAKEN       Jailbreak                  https://robertsspaceindustries.com/en/citizens/Jailbreak
+[ 13/90]   200  TAKEN       GunGame                    https://robertsspaceindustries.com/en/citizens/GunGame
+[ 14/90]   404  AVAILABLE   ZombieMod                  https://robertsspaceindustries.com/en/citizens/ZombieMod
+[ 15/90]   404  AVAILABLE   DeathRun                   https://robertsspaceindustries.com/en/citizens/DeathRun
+[ 16/90]   404  AVAILABLE   Surf                       https://robertsspaceindustries.com/en/citizens/Surf
+[ 17/90]   404  AVAILABLE   Furien                     https://robertsspaceindustries.com/en/citizens/Furien
+[ 18/90]   200  TAKEN       Bhop                       https://robertsspaceindustries.com/en/citizens/Bhop
+[ 19/90]   404  AVAILABLE   KZClimb                    https://robertsspaceindustries.com/en/citizens/KZClimb
+[ 20/90]   200  TAKEN       HideNSeek                  https://robertsspaceindustries.com/en/citizens/HideNSeek
+[ 21/90]   404  AVAILABLE   ScoutKnivez                https://robertsspaceindustries.com/en/citizens/ScoutKnivez
+[ 22/90]   404  AVAILABLE   MultiMod                   https://robertsspaceindustries.com/en/citizens/MultiMod
+[ 23/90]   404  AVAILABLE   AimMap                     https://robertsspaceindustries.com/en/citizens/AimMap
+[ 24/90]   404  AVAILABLE   KnifeArena                 https://robertsspaceindustries.com/en/citizens/KnifeArena
+[ 25/90]   404  AVAILABLE   PistolOnly                 https://robertsspaceindustries.com/en/citizens/PistolOnly
+[ 26/90]   404  AVAILABLE   AWPOnly                    https://robertsspaceindustries.com/en/citizens/AWPOnly
+[ 27/90]   404  AVAILABLE   HeadshotOnly               https://robertsspaceindustries.com/en/citizens/HeadshotOnly
+[ 28/90]   200  TAKEN       IceWorld                   https://robertsspaceindustries.com/en/citizens/IceWorld
+[ 29/90]   404  AVAILABLE   PoolDay                    https://robertsspaceindustries.com/en/citizens/PoolDay
+[ 30/90]   404  AVAILABLE   KnifeMap                   https://robertsspaceindustries.com/en/citizens/KnifeMap
+[ 31/90]   200  TAKEN       Deagle                     https://robertsspaceindustries.com/en/citizens/Deagle
+[ 32/90]   200  TAKEN       USP                        https://robertsspaceindustries.com/en/citizens/USP
+[ 33/90]   200  TAKEN       Glock                      https://robertsspaceindustries.com/en/citizens/Glock
+[ 34/90]   200  TAKEN       AK47                       https://robertsspaceindustries.com/en/citizens/AK47
+[ 35/90]   200  TAKEN       M4A1                       https://robertsspaceindustries.com/en/citizens/M4A1
+[ 36/90]   200  TAKEN       Famas                      https://robertsspaceindustries.com/en/citizens/Famas
+[ 37/90]   200  TAKEN       Galil                      https://robertsspaceindustries.com/en/citizens/Galil
+[ 38/90]   404  AVAILABLE   SG552                      https://robertsspaceindustries.com/en/citizens/SG552
+[ 39/90]   200  TAKEN       AWP                        https://robertsspaceindustries.com/en/citizens/AWP
+[ 40/90]   200  TAKEN       Scout                      https://robertsspaceindustries.com/en/citizens/Scout
+[ 41/90]   200  TAKEN       Krieg                      https://robertsspaceindustries.com/en/citizens/Krieg
+[ 42/90]   200  TAKEN       MAC10                      https://robertsspaceindustries.com/en/citizens/MAC10
+[ 43/90]   404  AVAILABLE   MP5Navy                    https://robertsspaceindustries.com/en/citizens/MP5Navy
+[ 44/90]   200  TAKEN       TMP                        https://robertsspaceindustries.com/en/citizens/TMP
+[ 45/90]   200  TAKEN       P90                        https://robertsspaceindustries.com/en/citizens/P90
+[ 46/90]   200  TAKEN       UMP45                      https://robertsspaceindustries.com/en/citizens/UMP45
+[ 47/90]   404  AVAILABLE   HEGrenade                  https://robertsspaceindustries.com/en/citizens/HEGrenade
+[ 48/90]   200  TAKEN       Flashbang                  https://robertsspaceindustries.com/en/citizens/Flashbang
+[ 49/90]   404  AVAILABLE   SmokeGrenade               https://robertsspaceindustries.com/en/citizens/SmokeGrenade
+[ 50/90]   200  TAKEN       Molotov                    https://robertsspaceindustries.com/en/citizens/Molotov
+[ 51/90]   404  AVAILABLE   KevlarHelmet               https://robertsspaceindustries.com/en/citizens/KevlarHelmet
+[ 52/90]   404  AVAILABLE   BombPlanted                https://robertsspaceindustries.com/en/citizens/BombPlanted
+[ 53/90]   404  AVAILABLE   BombDefused                https://robertsspaceindustries.com/en/citizens/BombDefused
+[ 54/90]   200  TAKEN       FireInHole                 https://robertsspaceindustries.com/en/citizens/FireInHole
+[ 55/90]   200  TAKEN       EnemySpotted               https://robertsspaceindustries.com/en/citizens/EnemySpotted
+[ 56/90]   404  AVAILABLE   CantSeeAnyone              https://robertsspaceindustries.com/en/citizens/CantSeeAnyone
+[ 57/90]   404  AVAILABLE   SniperMade                 https://robertsspaceindustries.com/en/citizens/SniperMade
+[ 58/90]   200  TAKEN       GetOutOfThere              https://robertsspaceindustries.com/en/citizens/GetOutOfThere
+[ 59/90]   200  TAKEN       NeedBackup                 https://robertsspaceindustries.com/en/citizens/NeedBackup
+[ 60/90]   404  AVAILABLE   TerroristsWin              https://robertsspaceindustries.com/en/citizens/TerroristsWin
+[ 61/90]   404  AVAILABLE   CTsWin                     https://robertsspaceindustries.com/en/citizens/CTsWin
+[ 62/90]   404  AVAILABLE   RoundDraw                  https://robertsspaceindustries.com/en/citizens/RoundDraw
+[ 63/90]   404  AVAILABLE   OvertimeStart              https://robertsspaceindustries.com/en/citizens/OvertimeStart
+[ 64/90]   404  AVAILABLE   HLStats                    https://robertsspaceindustries.com/en/citizens/HLStats
+[ 65/90]   404  AVAILABLE   AMXMod                     https://robertsspaceindustries.com/en/citizens/AMXMod
+[ 66/90]   404  AVAILABLE   Metamod                    https://robertsspaceindustries.com/en/citizens/Metamod
+[ 67/90]   200  TAKEN       VACBanned                  https://robertsspaceindustries.com/en/citizens/VACBanned
+[ 68/90]   404  AVAILABLE   SteamID                    https://robertsspaceindustries.com/en/citizens/SteamID
+[ 69/90]   200  TAKEN       PunkBuster                 https://robertsspaceindustries.com/en/citizens/PunkBuster
+[ 70/90]   404  AVAILABLE   WonServer                  https://robertsspaceindustries.com/en/citizens/WonServer
+[ 71/90]   200  TAKEN       DedicatedServer            https://robertsspaceindustries.com/en/citizens/DedicatedServer
+[ 72/90]   404  AVAILABLE   ListenServer               https://robertsspaceindustries.com/en/citizens/ListenServer
+[ 73/90]   404  AVAILABLE   ServerBrowser              https://robertsspaceindustries.com/en/citizens/ServerBrowser
+[ 74/90]   200  TAKEN       AllSeeingEye               https://robertsspaceindustries.com/en/citizens/AllSeeingEye
+[ 75/90]   200  TAKEN       Gamespy                    https://robertsspaceindustries.com/en/citizens/Gamespy
+[ 76/90]   200  TAKEN       Gotv                       https://robertsspaceindustries.com/en/citizens/Gotv
+[ 77/90]   404  AVAILABLE   LeetClan                   https://robertsspaceindustries.com/en/citizens/LeetClan
+[ 78/90]   404  AVAILABLE   ClanWar                    https://robertsspaceindustries.com/en/citizens/ClanWar
+[ 79/90]   200  TAKEN       Scrim                      https://robertsspaceindustries.com/en/citizens/Scrim
+[ 80/90]   200  TAKEN       Pcw                        https://robertsspaceindustries.com/en/citizens/Pcw
+[ 81/90]   404  AVAILABLE   PugMatch                   https://robertsspaceindustries.com/en/citizens/PugMatch
+[ 82/90]   404  AVAILABLE   FiveOnFive                 https://robertsspaceindustries.com/en/citizens/FiveOnFive
+[ 83/90]   404  AVAILABLE   OneOnOne                   https://robertsspaceindustries.com/en/citizens/OneOnOne
+[ 84/90]   404  AVAILABLE   KnifeDuel                  https://robertsspaceindustries.com/en/citizens/KnifeDuel
+[ 85/90]   200  TAKEN       HalfTime                   https://robertsspaceindustries.com/en/citizens/HalfTime
+[ 86/90]   404  AVAILABLE   OvertimeRound              https://robertsspaceindustries.com/en/citizens/OvertimeRound
+[ 87/90]   200  TAKEN       MatchPoint                 https://robertsspaceindustries.com/en/citizens/MatchPoint
+[ 88/90]   404  AVAILABLE   MapVeto                    https://robertsspaceindustries.com/en/citizens/MapVeto
+[ 89/90]   404  AVAILABLE   SideVeto                   https://robertsspaceindustries.com/en/citizens/SideVeto
+[ 90/90]   404  AVAILABLE   TimeoutCall                https://robertsspaceindustries.com/en/citizens/TimeoutCall
+
+==============================================================================================================
+
+✅  AVAILABLE (48):
+   ListMaps                        https://robertsspaceindustries.com/en/citizens/ListMaps
+   Changelevel                     https://robertsspaceindustries.com/en/citizens/Changelevel
+   NetGraph                        https://robertsspaceindustries.com/en/citizens/NetGraph
+   Condump                         https://robertsspaceindustries.com/en/citizens/Condump
+   ZombieMod                       https://robertsspaceindustries.com/en/citizens/ZombieMod
+   DeathRun                        https://robertsspaceindustries.com/en/citizens/DeathRun
+   Surf                            https://robertsspaceindustries.com/en/citizens/Surf
+   Furien                          https://robertsspaceindustries.com/en/citizens/Furien
+   KZClimb                         https://robertsspaceindustries.com/en/citizens/KZClimb
+   ScoutKnivez                     https://robertsspaceindustries.com/en/citizens/ScoutKnivez
+   MultiMod                        https://robertsspaceindustries.com/en/citizens/MultiMod
+   AimMap                          https://robertsspaceindustries.com/en/citizens/AimMap
+   KnifeArena                      https://robertsspaceindustries.com/en/citizens/KnifeArena
+   PistolOnly                      https://robertsspaceindustries.com/en/citizens/PistolOnly
+   AWPOnly                         https://robertsspaceindustries.com/en/citizens/AWPOnly
+   HeadshotOnly                    https://robertsspaceindustries.com/en/citizens/HeadshotOnly
+   PoolDay                         https://robertsspaceindustries.com/en/citizens/PoolDay
+   KnifeMap                        https://robertsspaceindustries.com/en/citizens/KnifeMap
+   SG552                           https://robertsspaceindustries.com/en/citizens/SG552
+   MP5Navy                         https://robertsspaceindustries.com/en/citizens/MP5Navy
+   HEGrenade                       https://robertsspaceindustries.com/en/citizens/HEGrenade
+   SmokeGrenade                    https://robertsspaceindustries.com/en/citizens/SmokeGrenade
+   KevlarHelmet                    https://robertsspaceindustries.com/en/citizens/KevlarHelmet
+   BombPlanted                     https://robertsspaceindustries.com/en/citizens/BombPlanted
+   BombDefused                     https://robertsspaceindustries.com/en/citizens/BombDefused
+   CantSeeAnyone                   https://robertsspaceindustries.com/en/citizens/CantSeeAnyone
+   SniperMade                      https://robertsspaceindustries.com/en/citizens/SniperMade
+   TerroristsWin                   https://robertsspaceindustries.com/en/citizens/TerroristsWin
+   CTsWin                          https://robertsspaceindustries.com/en/citizens/CTsWin
+   RoundDraw                       https://robertsspaceindustries.com/en/citizens/RoundDraw
+   OvertimeStart                   https://robertsspaceindustries.com/en/citizens/OvertimeStart
+   HLStats                         https://robertsspaceindustries.com/en/citizens/HLStats
+   AMXMod                          https://robertsspaceindustries.com/en/citizens/AMXMod
+   Metamod                         https://robertsspaceindustries.com/en/citizens/Metamod
+   SteamID                         https://robertsspaceindustries.com/en/citizens/SteamID
+   WonServer                       https://robertsspaceindustries.com/en/citizens/WonServer
+   ListenServer                    https://robertsspaceindustries.com/en/citizens/ListenServer
+   ServerBrowser                   https://robertsspaceindustries.com/en/citizens/ServerBrowser
+   LeetClan                        https://robertsspaceindustries.com/en/citizens/LeetClan
+   ClanWar                         https://robertsspaceindustries.com/en/citizens/ClanWar
+   PugMatch                        https://robertsspaceindustries.com/en/citizens/PugMatch
+   FiveOnFive                      https://robertsspaceindustries.com/en/citizens/FiveOnFive
+   OneOnOne                        https://robertsspaceindustries.com/en/citizens/OneOnOne
+   KnifeDuel                       https://robertsspaceindustries.com/en/citizens/KnifeDuel
+   OvertimeRound                   https://robertsspaceindustries.com/en/citizens/OvertimeRound
+   MapVeto                         https://robertsspaceindustries.com/en/citizens/MapVeto
+   SideVeto                        https://robertsspaceindustries.com/en/citizens/SideVeto
+   TimeoutCall                     https://robertsspaceindustries.com/en/citizens/TimeoutCall
+
+❌  TAKEN (42):
+   Rcon                            https://robertsspaceindustries.com/en/citizens/Rcon
+   Autoexec                        https://robertsspaceindustries.com/en/citizens/Autoexec
+   Impulse101                      https://robertsspaceindustries.com/en/citizens/Impulse101
+   Retry                           https://robertsspaceindustries.com/en/citizens/Retry
+   Status                          https://robertsspaceindustries.com/en/citizens/Status
+   Connect                         https://robertsspaceindustries.com/en/citizens/Connect
+   Exec                            https://robertsspaceindustries.com/en/citizens/Exec
+   Jailbreak                       https://robertsspaceindustries.com/en/citizens/Jailbreak
+   GunGame                         https://robertsspaceindustries.com/en/citizens/GunGame
+   Bhop                            https://robertsspaceindustries.com/en/citizens/Bhop
+   HideNSeek                       https://robertsspaceindustries.com/en/citizens/HideNSeek
+   IceWorld                        https://robertsspaceindustries.com/en/citizens/IceWorld
+   Deagle                          https://robertsspaceindustries.com/en/citizens/Deagle
+   USP                             https://robertsspaceindustries.com/en/citizens/USP
+   Glock                           https://robertsspaceindustries.com/en/citizens/Glock
+   AK47                            https://robertsspaceindustries.com/en/citizens/AK47
+   M4A1                            https://robertsspaceindustries.com/en/citizens/M4A1
+   Famas                           https://robertsspaceindustries.com/en/citizens/Famas
+   Galil                           https://robertsspaceindustries.com/en/citizens/Galil
+   AWP                             https://robertsspaceindustries.com/en/citizens/AWP
+   Scout                           https://robertsspaceindustries.com/en/citizens/Scout
+   Krieg                           https://robertsspaceindustries.com/en/citizens/Krieg
+   MAC10                           https://robertsspaceindustries.com/en/citizens/MAC10
+   TMP                             https://robertsspaceindustries.com/en/citizens/TMP
+   P90                             https://robertsspaceindustries.com/en/citizens/P90
+   UMP45                           https://robertsspaceindustries.com/en/citizens/UMP45
+   Flashbang                       https://robertsspaceindustries.com/en/citizens/Flashbang
+   Molotov                         https://robertsspaceindustries.com/en/citizens/Molotov
+   FireInHole                      https://robertsspaceindustries.com/en/citizens/FireInHole
+   EnemySpotted                    https://robertsspaceindustries.com/en/citizens/EnemySpotted
+   GetOutOfThere                   https://robertsspaceindustries.com/en/citizens/GetOutOfThere
+   NeedBackup                      https://robertsspaceindustries.com/en/citizens/NeedBackup
+   VACBanned                       https://robertsspaceindustries.com/en/citizens/VACBanned
+   PunkBuster                      https://robertsspaceindustries.com/en/citizens/PunkBuster
+   DedicatedServer                 https://robertsspaceindustries.com/en/citizens/DedicatedServer
+   AllSeeingEye                    https://robertsspaceindustries.com/en/citizens/AllSeeingEye
+   Gamespy                         https://robertsspaceindustries.com/en/citizens/Gamespy
+   Gotv                            https://robertsspaceindustries.com/en/citizens/Gotv
+   Scrim                           https://robertsspaceindustries.com/en/citizens/Scrim
+   Pcw                             https://robertsspaceindustries.com/en/citizens/Pcw
+   HalfTime                        https://robertsspaceindustries.com/en/citizens/HalfTime
+   MatchPoint                      https://robertsspaceindustries.com/en/citizens/MatchPoint
+/workspace/check_rsi_handles_v7.py:198: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "checked_at": datetime.utcnow().isoformat() + "Z",
+
+Results saved to rsi_handle_results_v7.json

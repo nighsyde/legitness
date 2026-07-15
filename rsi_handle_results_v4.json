@@ -1,0 +1,337 @@
+{
+  "checked_at": "2026-06-30T23:30:18.974758Z",
+  "total": 82,
+  "available": [
+    {
+      "name": "Italy",
+      "url": "https://robertsspaceindustries.com/en/citizens/Italy"
+    },
+    {
+      "name": "Overpass",
+      "url": "https://robertsspaceindustries.com/en/citizens/Overpass"
+    },
+    {
+      "name": "TwoFort",
+      "url": "https://robertsspaceindustries.com/en/citizens/TwoFort"
+    },
+    {
+      "name": "Dustbowl",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dustbowl"
+    },
+    {
+      "name": "Granary",
+      "url": "https://robertsspaceindustries.com/en/citizens/Granary"
+    },
+    {
+      "name": "Gorge",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gorge"
+    },
+    {
+      "name": "Barnblitz",
+      "url": "https://robertsspaceindustries.com/en/citizens/Barnblitz"
+    },
+    {
+      "name": "Mannhattan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mannhattan"
+    },
+    {
+      "name": "BloodGulch",
+      "url": "https://robertsspaceindustries.com/en/citizens/BloodGulch"
+    },
+    {
+      "name": "BattleCreek",
+      "url": "https://robertsspaceindustries.com/en/citizens/BattleCreek"
+    },
+    {
+      "name": "DeathIsland",
+      "url": "https://robertsspaceindustries.com/en/citizens/DeathIsland"
+    },
+    {
+      "name": "IceFields",
+      "url": "https://robertsspaceindustries.com/en/citizens/IceFields"
+    },
+    {
+      "name": "Gephyrophobia",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gephyrophobia"
+    },
+    {
+      "name": "BoardingAction",
+      "url": "https://robertsspaceindustries.com/en/citizens/BoardingAction"
+    },
+    {
+      "name": "Headlong",
+      "url": "https://robertsspaceindustries.com/en/citizens/Headlong"
+    },
+    {
+      "name": "Coagulation",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coagulation"
+    },
+    {
+      "name": "BurialMounds",
+      "url": "https://robertsspaceindustries.com/en/citizens/BurialMounds"
+    },
+    {
+      "name": "BeaverCreek",
+      "url": "https://robertsspaceindustries.com/en/citizens/BeaverCreek"
+    },
+    {
+      "name": "Campgrounds",
+      "url": "https://robertsspaceindustries.com/en/citizens/Campgrounds"
+    },
+    {
+      "name": "Cpm1a",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cpm1a"
+    },
+    {
+      "name": "DeckSixteen",
+      "url": "https://robertsspaceindustries.com/en/citizens/DeckSixteen"
+    },
+    {
+      "name": "LavaGiant",
+      "url": "https://robertsspaceindustries.com/en/citizens/LavaGiant"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Inferno",
+      "url": "https://robertsspaceindustries.com/en/citizens/Inferno"
+    },
+    {
+      "name": "Nuke",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nuke"
+    },
+    {
+      "name": "Train",
+      "url": "https://robertsspaceindustries.com/en/citizens/Train"
+    },
+    {
+      "name": "Aztec",
+      "url": "https://robertsspaceindustries.com/en/citizens/Aztec"
+    },
+    {
+      "name": "Cobblestone",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cobblestone"
+    },
+    {
+      "name": "Cache",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cache"
+    },
+    {
+      "name": "Mirage",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mirage"
+    },
+    {
+      "name": "Office",
+      "url": "https://robertsspaceindustries.com/en/citizens/Office"
+    },
+    {
+      "name": "Assault",
+      "url": "https://robertsspaceindustries.com/en/citizens/Assault"
+    },
+    {
+      "name": "Militia",
+      "url": "https://robertsspaceindustries.com/en/citizens/Militia"
+    },
+    {
+      "name": "Prodigy",
+      "url": "https://robertsspaceindustries.com/en/citizens/Prodigy"
+    },
+    {
+      "name": "Tuscan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tuscan"
+    },
+    {
+      "name": "Piranesi",
+      "url": "https://robertsspaceindustries.com/en/citizens/Piranesi"
+    },
+    {
+      "name": "Chateau",
+      "url": "https://robertsspaceindustries.com/en/citizens/Chateau"
+    },
+    {
+      "name": "Tides",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tides"
+    },
+    {
+      "name": "Depot",
+      "url": "https://robertsspaceindustries.com/en/citizens/Depot"
+    },
+    {
+      "name": "Season",
+      "url": "https://robertsspaceindustries.com/en/citizens/Season"
+    },
+    {
+      "name": "Vertigo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vertigo"
+    },
+    {
+      "name": "Breach",
+      "url": "https://robertsspaceindustries.com/en/citizens/Breach"
+    },
+    {
+      "name": "Badlands",
+      "url": "https://robertsspaceindustries.com/en/citizens/Badlands"
+    },
+    {
+      "name": "Gravelpit",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gravelpit"
+    },
+    {
+      "name": "Goldrush",
+      "url": "https://robertsspaceindustries.com/en/citizens/Goldrush"
+    },
+    {
+      "name": "Badwater",
+      "url": "https://robertsspaceindustries.com/en/citizens/Badwater"
+    },
+    {
+      "name": "Upward",
+      "url": "https://robertsspaceindustries.com/en/citizens/Upward"
+    },
+    {
+      "name": "Hydro",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hydro"
+    },
+    {
+      "name": "Coldfront",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldfront"
+    },
+    {
+      "name": "Mercenary",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mercenary"
+    },
+    {
+      "name": "Hightower",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hightower"
+    },
+    {
+      "name": "HangEmHigh",
+      "url": "https://robertsspaceindustries.com/en/citizens/HangEmHigh"
+    },
+    {
+      "name": "Sidewinder",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sidewinder"
+    },
+    {
+      "name": "Damnation",
+      "url": "https://robertsspaceindustries.com/en/citizens/Damnation"
+    },
+    {
+      "name": "Longest",
+      "url": "https://robertsspaceindustries.com/en/citizens/Longest"
+    },
+    {
+      "name": "Prisoner",
+      "url": "https://robertsspaceindustries.com/en/citizens/Prisoner"
+    },
+    {
+      "name": "ChillOut",
+      "url": "https://robertsspaceindustries.com/en/citizens/ChillOut"
+    },
+    {
+      "name": "Wizard",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wizard"
+    },
+    {
+      "name": "RatRace",
+      "url": "https://robertsspaceindustries.com/en/citizens/RatRace"
+    },
+    {
+      "name": "Chiron",
+      "url": "https://robertsspaceindustries.com/en/citizens/Chiron"
+    },
+    {
+      "name": "Infinity",
+      "url": "https://robertsspaceindustries.com/en/citizens/Infinity"
+    },
+    {
+      "name": "Lockout",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lockout"
+    },
+    {
+      "name": "Midship",
+      "url": "https://robertsspaceindustries.com/en/citizens/Midship"
+    },
+    {
+      "name": "Zanzibar",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zanzibar"
+    },
+    {
+      "name": "Ascension",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ascension"
+    },
+    {
+      "name": "Foundation",
+      "url": "https://robertsspaceindustries.com/en/citizens/Foundation"
+    },
+    {
+      "name": "IvoryTower",
+      "url": "https://robertsspaceindustries.com/en/citizens/IvoryTower"
+    },
+    {
+      "name": "Colossus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Colossus"
+    },
+    {
+      "name": "Terminal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Terminal"
+    },
+    {
+      "name": "Sanctuary",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sanctuary"
+    },
+    {
+      "name": "Turf",
+      "url": "https://robertsspaceindustries.com/en/citizens/Turf"
+    },
+    {
+      "name": "Waterworks",
+      "url": "https://robertsspaceindustries.com/en/citizens/Waterworks"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gemini"
+    },
+    {
+      "name": "Aerowalk",
+      "url": "https://robertsspaceindustries.com/en/citizens/Aerowalk"
+    },
+    {
+      "name": "Toxicity",
+      "url": "https://robertsspaceindustries.com/en/citizens/Toxicity"
+    },
+    {
+      "name": "Ztn",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ztn"
+    },
+    {
+      "name": "Phrantic",
+      "url": "https://robertsspaceindustries.com/en/citizens/Phrantic"
+    },
+    {
+      "name": "FacingWorlds",
+      "url": "https://robertsspaceindustries.com/en/citizens/FacingWorlds"
+    },
+    {
+      "name": "Morpheus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Morpheus"
+    },
+    {
+      "name": "Phobos",
+      "url": "https://robertsspaceindustries.com/en/citizens/Phobos"
+    },
+    {
+      "name": "Stalwart",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stalwart"
+    },
+    {
+      "name": "Rankin",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rankin"
+    },
+    {
+      "name": "Asbestos",
+      "url": "https://robertsspaceindustries.com/en/citizens/Asbestos"
+    }
+  ],
+  "errors": []
+}

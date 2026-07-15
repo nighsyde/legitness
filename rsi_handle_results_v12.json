@@ -1,0 +1,177 @@
+{
+  "checked_at": "2026-07-01T18:41:27.183835Z",
+  "total": 42,
+  "available": [
+    {
+      "name": "Thunderfury",
+      "url": "https://robertsspaceindustries.com/en/citizens/Thunderfury"
+    },
+    {
+      "name": "Cryptstalker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cryptstalker"
+    },
+    {
+      "name": "Bonescythe",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bonescythe"
+    },
+    {
+      "name": "Fatal1ty",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fatal1ty"
+    },
+    {
+      "name": "Preparation",
+      "url": "https://robertsspaceindustries.com/en/citizens/Preparation"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Thresh",
+      "url": "https://robertsspaceindustries.com/en/citizens/Thresh"
+    },
+    {
+      "name": "Benediction",
+      "url": "https://robertsspaceindustries.com/en/citizens/Benediction"
+    },
+    {
+      "name": "Anathema",
+      "url": "https://robertsspaceindustries.com/en/citizens/Anathema"
+    },
+    {
+      "name": "Sulfuras",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sulfuras"
+    },
+    {
+      "name": "Ashkandi",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ashkandi"
+    },
+    {
+      "name": "Judgement",
+      "url": "https://robertsspaceindustries.com/en/citizens/Judgement"
+    },
+    {
+      "name": "Shadowmourne",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shadowmourne"
+    },
+    {
+      "name": "Dreadnaught",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dreadnaught"
+    },
+    {
+      "name": "Plagueheart",
+      "url": "https://robertsspaceindustries.com/en/citizens/Plagueheart"
+    },
+    {
+      "name": "Bloodfang",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bloodfang"
+    },
+    {
+      "name": "Netherwind",
+      "url": "https://robertsspaceindustries.com/en/citizens/Netherwind"
+    },
+    {
+      "name": "Frostmourne",
+      "url": "https://robertsspaceindustries.com/en/citizens/Frostmourne"
+    },
+    {
+      "name": "Thunderaan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Thunderaan"
+    },
+    {
+      "name": "Atiesh",
+      "url": "https://robertsspaceindustries.com/en/citizens/Atiesh"
+    },
+    {
+      "name": "Arthas",
+      "url": "https://robertsspaceindustries.com/en/citizens/Arthas"
+    },
+    {
+      "name": "Illidan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Illidan"
+    },
+    {
+      "name": "Kerrigan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kerrigan"
+    },
+    {
+      "name": "Deathwing",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deathwing"
+    },
+    {
+      "name": "Sylvanas",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sylvanas"
+    },
+    {
+      "name": "Cenarius",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cenarius"
+    },
+    {
+      "name": "Heaton",
+      "url": "https://robertsspaceindustries.com/en/citizens/Heaton"
+    },
+    {
+      "name": "Carmack",
+      "url": "https://robertsspaceindustries.com/en/citizens/Carmack"
+    },
+    {
+      "name": "Romero",
+      "url": "https://robertsspaceindustries.com/en/citizens/Romero"
+    },
+    {
+      "name": "Windforce",
+      "url": "https://robertsspaceindustries.com/en/citizens/Windforce"
+    },
+    {
+      "name": "Doombringer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Doombringer"
+    },
+    {
+      "name": "Grandfather",
+      "url": "https://robertsspaceindustries.com/en/citizens/Grandfather"
+    },
+    {
+      "name": "Stormshield",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stormshield"
+    },
+    {
+      "name": "Tyrael",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tyrael"
+    },
+    {
+      "name": "Xfire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Xfire"
+    },
+    {
+      "name": "Frostbrand",
+      "url": "https://robertsspaceindustries.com/en/citizens/Frostbrand"
+    },
+    {
+      "name": "Stormcaller",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stormcaller"
+    },
+    {
+      "name": "Deathcoil",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deathcoil"
+    },
+    {
+      "name": "Coldblood",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldblood"
+    },
+    {
+      "name": "Shadowstep",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shadowstep"
+    },
+    {
+      "name": "Vendetta",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vendetta"
+    },
+    {
+      "name": "Adrenaline",
+      "url": "https://robertsspaceindustries.com/en/citizens/Adrenaline"
+    },
+    {
+      "name": "Vanish",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vanish"
+    }
+  ],
+  "errors": []
+}

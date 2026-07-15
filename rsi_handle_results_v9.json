@@ -1,0 +1,473 @@
+{
+  "checked_at": "2026-07-01T00:44:33.475928Z",
+  "total": 116,
+  "available": [
+    {
+      "name": "idclip",
+      "url": "https://robertsspaceindustries.com/en/citizens/idclip"
+    },
+    {
+      "name": "idchoppers",
+      "url": "https://robertsspaceindustries.com/en/citizens/idchoppers"
+    },
+    {
+      "name": "iddt",
+      "url": "https://robertsspaceindustries.com/en/citizens/iddt"
+    },
+    {
+      "name": "idbeholdv",
+      "url": "https://robertsspaceindustries.com/en/citizens/idbeholdv"
+    },
+    {
+      "name": "lxgiwyl",
+      "url": "https://robertsspaceindustries.com/en/citizens/lxgiwyl"
+    },
+    {
+      "name": "moveobjects",
+      "url": "https://robertsspaceindustries.com/en/citizens/moveobjects"
+    },
+    {
+      "name": "boolprop",
+      "url": "https://robertsspaceindustries.com/en/citizens/boolprop"
+    },
+    {
+      "name": "robin",
+      "url": "https://robertsspaceindustries.com/en/citizens/robin"
+    },
+    {
+      "name": "scbw",
+      "url": "https://robertsspaceindustries.com/en/citizens/scbw"
+    },
+    {
+      "name": "noglues",
+      "url": "https://robertsspaceindustries.com/en/citizens/noglues"
+    },
+    {
+      "name": "somebodyset",
+      "url": "https://robertsspaceindustries.com/en/citizens/somebodyset"
+    },
+    {
+      "name": "griefing",
+      "url": "https://robertsspaceindustries.com/en/citizens/griefing"
+    },
+    {
+      "name": "ganking",
+      "url": "https://robertsspaceindustries.com/en/citizens/ganking"
+    },
+    {
+      "name": "feeding",
+      "url": "https://robertsspaceindustries.com/en/citizens/feeding"
+    },
+    {
+      "name": "gibbed",
+      "url": "https://robertsspaceindustries.com/en/citizens/gibbed"
+    },
+    {
+      "name": "deranked",
+      "url": "https://robertsspaceindustries.com/en/citizens/deranked"
+    },
+    {
+      "name": "afk",
+      "url": "https://robertsspaceindustries.com/en/citizens/afk"
+    },
+    {
+      "name": "redeemer",
+      "url": "https://robertsspaceindustries.com/en/citizens/redeemer"
+    },
+    {
+      "name": "udamage",
+      "url": "https://robertsspaceindustries.com/en/citizens/udamage"
+    },
+    {
+      "name": "trimmed",
+      "url": "https://robertsspaceindustries.com/en/citizens/trimmed"
+    },
+    {
+      "name": "firecape",
+      "url": "https://robertsspaceindustries.com/en/citizens/firecape"
+    },
+    {
+      "name": "tokkul",
+      "url": "https://robertsspaceindustries.com/en/citizens/tokkul"
+    },
+    {
+      "name": "skillcape",
+      "url": "https://robertsspaceindustries.com/en/citizens/skillcape"
+    },
+    {
+      "name": "zamorak",
+      "url": "https://robertsspaceindustries.com/en/citizens/zamorak"
+    },
+    {
+      "name": "fileplanet",
+      "url": "https://robertsspaceindustries.com/en/citizens/fileplanet"
+    },
+    {
+      "name": "bearshare",
+      "url": "https://robertsspaceindustries.com/en/citizens/bearshare"
+    },
+    {
+      "name": "lagfest",
+      "url": "https://robertsspaceindustries.com/en/citizens/lagfest"
+    },
+    {
+      "name": "clanbase",
+      "url": "https://robertsspaceindustries.com/en/citizens/clanbase"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "iddqd",
+      "url": "https://robertsspaceindustries.com/en/citizens/iddqd"
+    },
+    {
+      "name": "idkfa",
+      "url": "https://robertsspaceindustries.com/en/citizens/idkfa"
+    },
+    {
+      "name": "idspispopd",
+      "url": "https://robertsspaceindustries.com/en/citizens/idspispopd"
+    },
+    {
+      "name": "idbeholds",
+      "url": "https://robertsspaceindustries.com/en/citizens/idbeholds"
+    },
+    {
+      "name": "hesoyam",
+      "url": "https://robertsspaceindustries.com/en/citizens/hesoyam"
+    },
+    {
+      "name": "rocketman",
+      "url": "https://robertsspaceindustries.com/en/citizens/rocketman"
+    },
+    {
+      "name": "motherlode",
+      "url": "https://robertsspaceindustries.com/en/citizens/motherlode"
+    },
+    {
+      "name": "rosebud",
+      "url": "https://robertsspaceindustries.com/en/citizens/rosebud"
+    },
+    {
+      "name": "klapaucius",
+      "url": "https://robertsspaceindustries.com/en/citizens/klapaucius"
+    },
+    {
+      "name": "wololo",
+      "url": "https://robertsspaceindustries.com/en/citizens/wololo"
+    },
+    {
+      "name": "bigdaddy",
+      "url": "https://robertsspaceindustries.com/en/citizens/bigdaddy"
+    },
+    {
+      "name": "photonman",
+      "url": "https://robertsspaceindustries.com/en/citizens/photonman"
+    },
+    {
+      "name": "diediedie",
+      "url": "https://robertsspaceindustries.com/en/citizens/diediedie"
+    },
+    {
+      "name": "coinage",
+      "url": "https://robertsspaceindustries.com/en/citizens/coinage"
+    },
+    {
+      "name": "aegis",
+      "url": "https://robertsspaceindustries.com/en/citizens/aegis"
+    },
+    {
+      "name": "pepperoni",
+      "url": "https://robertsspaceindustries.com/en/citizens/pepperoni"
+    },
+    {
+      "name": "woodstock",
+      "url": "https://robertsspaceindustries.com/en/citizens/woodstock"
+    },
+    {
+      "name": "lumberjack",
+      "url": "https://robertsspaceindustries.com/en/citizens/lumberjack"
+    },
+    {
+      "name": "robinhood",
+      "url": "https://robertsspaceindustries.com/en/citizens/robinhood"
+    },
+    {
+      "name": "zergrush",
+      "url": "https://robertsspaceindustries.com/en/citizens/zergrush"
+    },
+    {
+      "name": "kekeke",
+      "url": "https://robertsspaceindustries.com/en/citizens/kekeke"
+    },
+    {
+      "name": "terran",
+      "url": "https://robertsspaceindustries.com/en/citizens/terran"
+    },
+    {
+      "name": "protoss",
+      "url": "https://robertsspaceindustries.com/en/citizens/protoss"
+    },
+    {
+      "name": "broodwar",
+      "url": "https://robertsspaceindustries.com/en/citizens/broodwar"
+    },
+    {
+      "name": "ophelia",
+      "url": "https://robertsspaceindustries.com/en/citizens/ophelia"
+    },
+    {
+      "name": "stickyrice",
+      "url": "https://robertsspaceindustries.com/en/citizens/stickyrice"
+    },
+    {
+      "name": "allurbase",
+      "url": "https://robertsspaceindustries.com/en/citizens/allurbase"
+    },
+    {
+      "name": "zerowing",
+      "url": "https://robertsspaceindustries.com/en/citizens/zerowing"
+    },
+    {
+      "name": "movezig",
+      "url": "https://robertsspaceindustries.com/en/citizens/movezig"
+    },
+    {
+      "name": "1337",
+      "url": "https://robertsspaceindustries.com/en/citizens/1337"
+    },
+    {
+      "name": "leet",
+      "url": "https://robertsspaceindustries.com/en/citizens/leet"
+    },
+    {
+      "name": "haxxor",
+      "url": "https://robertsspaceindustries.com/en/citizens/haxxor"
+    },
+    {
+      "name": "h4x0r",
+      "url": "https://robertsspaceindustries.com/en/citizens/h4x0r"
+    },
+    {
+      "name": "w00t",
+      "url": "https://robertsspaceindustries.com/en/citizens/w00t"
+    },
+    {
+      "name": "woot",
+      "url": "https://robertsspaceindustries.com/en/citizens/woot"
+    },
+    {
+      "name": "roflmao",
+      "url": "https://robertsspaceindustries.com/en/citizens/roflmao"
+    },
+    {
+      "name": "lulz",
+      "url": "https://robertsspaceindustries.com/en/citizens/lulz"
+    },
+    {
+      "name": "ownage",
+      "url": "https://robertsspaceindustries.com/en/citizens/ownage"
+    },
+    {
+      "name": "ragequit",
+      "url": "https://robertsspaceindustries.com/en/citizens/ragequit"
+    },
+    {
+      "name": "tryhard",
+      "url": "https://robertsspaceindustries.com/en/citizens/tryhard"
+    },
+    {
+      "name": "smurfing",
+      "url": "https://robertsspaceindustries.com/en/citizens/smurfing"
+    },
+    {
+      "name": "ganked",
+      "url": "https://robertsspaceindustries.com/en/citizens/ganked"
+    },
+    {
+      "name": "killsteal",
+      "url": "https://robertsspaceindustries.com/en/citizens/killsteal"
+    },
+    {
+      "name": "fragged",
+      "url": "https://robertsspaceindustries.com/en/citizens/fragged"
+    },
+    {
+      "name": "respawned",
+      "url": "https://robertsspaceindustries.com/en/citizens/respawned"
+    },
+    {
+      "name": "camping",
+      "url": "https://robertsspaceindustries.com/en/citizens/camping"
+    },
+    {
+      "name": "smurf",
+      "url": "https://robertsspaceindustries.com/en/citizens/smurf"
+    },
+    {
+      "name": "salty",
+      "url": "https://robertsspaceindustries.com/en/citizens/salty"
+    },
+    {
+      "name": "tilted",
+      "url": "https://robertsspaceindustries.com/en/citizens/tilted"
+    },
+    {
+      "name": "ggez",
+      "url": "https://robertsspaceindustries.com/en/citizens/ggez"
+    },
+    {
+      "name": "glhf",
+      "url": "https://robertsspaceindustries.com/en/citizens/glhf"
+    },
+    {
+      "name": "ggwp",
+      "url": "https://robertsspaceindustries.com/en/citizens/ggwp"
+    },
+    {
+      "name": "brb",
+      "url": "https://robertsspaceindustries.com/en/citizens/brb"
+    },
+    {
+      "name": "ftw",
+      "url": "https://robertsspaceindustries.com/en/citizens/ftw"
+    },
+    {
+      "name": "kek",
+      "url": "https://robertsspaceindustries.com/en/citizens/kek"
+    },
+    {
+      "name": "kekw",
+      "url": "https://robertsspaceindustries.com/en/citizens/kekw"
+    },
+    {
+      "name": "quad",
+      "url": "https://robertsspaceindustries.com/en/citizens/quad"
+    },
+    {
+      "name": "gibs",
+      "url": "https://robertsspaceindustries.com/en/citizens/gibs"
+    },
+    {
+      "name": "instagib",
+      "url": "https://robertsspaceindustries.com/en/citizens/instagib"
+    },
+    {
+      "name": "railgun",
+      "url": "https://robertsspaceindustries.com/en/citizens/railgun"
+    },
+    {
+      "name": "rocketjump",
+      "url": "https://robertsspaceindustries.com/en/citizens/rocketjump"
+    },
+    {
+      "name": "flakcannon",
+      "url": "https://robertsspaceindustries.com/en/citizens/flakcannon"
+    },
+    {
+      "name": "phat",
+      "url": "https://robertsspaceindustries.com/en/citizens/phat"
+    },
+    {
+      "name": "partyhat",
+      "url": "https://robertsspaceindustries.com/en/citizens/partyhat"
+    },
+    {
+      "name": "barrows",
+      "url": "https://robertsspaceindustries.com/en/citizens/barrows"
+    },
+    {
+      "name": "wildy",
+      "url": "https://robertsspaceindustries.com/en/citizens/wildy"
+    },
+    {
+      "name": "varrock",
+      "url": "https://robertsspaceindustries.com/en/citizens/varrock"
+    },
+    {
+      "name": "lumbridge",
+      "url": "https://robertsspaceindustries.com/en/citizens/lumbridge"
+    },
+    {
+      "name": "edgeville",
+      "url": "https://robertsspaceindustries.com/en/citizens/edgeville"
+    },
+    {
+      "name": "rune",
+      "url": "https://robertsspaceindustries.com/en/citizens/rune"
+    },
+    {
+      "name": "whip",
+      "url": "https://robertsspaceindustries.com/en/citizens/whip"
+    },
+    {
+      "name": "scimitar",
+      "url": "https://robertsspaceindustries.com/en/citizens/scimitar"
+    },
+    {
+      "name": "lobster",
+      "url": "https://robertsspaceindustries.com/en/citizens/lobster"
+    },
+    {
+      "name": "dds",
+      "url": "https://robertsspaceindustries.com/en/citizens/dds"
+    },
+    {
+      "name": "falador",
+      "url": "https://robertsspaceindustries.com/en/citizens/falador"
+    },
+    {
+      "name": "guthix",
+      "url": "https://robertsspaceindustries.com/en/citizens/guthix"
+    },
+    {
+      "name": "saradomin",
+      "url": "https://robertsspaceindustries.com/en/citizens/saradomin"
+    },
+    {
+      "name": "kazaa",
+      "url": "https://robertsspaceindustries.com/en/citizens/kazaa"
+    },
+    {
+      "name": "napster",
+      "url": "https://robertsspaceindustries.com/en/citizens/napster"
+    },
+    {
+      "name": "limewire",
+      "url": "https://robertsspaceindustries.com/en/citizens/limewire"
+    },
+    {
+      "name": "gotfrag",
+      "url": "https://robertsspaceindustries.com/en/citizens/gotfrag"
+    },
+    {
+      "name": "gamespy",
+      "url": "https://robertsspaceindustries.com/en/citizens/gamespy"
+    },
+    {
+      "name": "leeroy",
+      "url": "https://robertsspaceindustries.com/en/citizens/leeroy"
+    },
+    {
+      "name": "jenkins",
+      "url": "https://robertsspaceindustries.com/en/citizens/jenkins"
+    },
+    {
+      "name": "lagswitch",
+      "url": "https://robertsspaceindustries.com/en/citizens/lagswitch"
+    },
+    {
+      "name": "packetloss",
+      "url": "https://robertsspaceindustries.com/en/citizens/packetloss"
+    },
+    {
+      "name": "dialup",
+      "url": "https://robertsspaceindustries.com/en/citizens/dialup"
+    },
+    {
+      "name": "esreality",
+      "url": "https://robertsspaceindustries.com/en/citizens/esreality"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,397 @@
+{
+  "checked_at": "2026-06-30T12:04:42.482128Z",
+  "total": 97,
+  "available": [
+    {
+      "name": "QuakeWorld",
+      "url": "https://robertsspaceindustries.com/en/citizens/QuakeWorld"
+    },
+    {
+      "name": "Counterstrike",
+      "url": "https://robertsspaceindustries.com/en/citizens/Counterstrike"
+    },
+    {
+      "name": "Dusttwo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dusttwo"
+    },
+    {
+      "name": "WarcraftThree",
+      "url": "https://robertsspaceindustries.com/en/citizens/WarcraftThree"
+    },
+    {
+      "name": "EverQuest",
+      "url": "https://robertsspaceindustries.com/en/citizens/EverQuest"
+    },
+    {
+      "name": "UltimaOnline",
+      "url": "https://robertsspaceindustries.com/en/citizens/UltimaOnline"
+    },
+    {
+      "name": "AgeOfEmpires",
+      "url": "https://robertsspaceindustries.com/en/citizens/AgeOfEmpires"
+    },
+    {
+      "name": "CommandAndConquer",
+      "url": "https://robertsspaceindustries.com/en/citizens/CommandAndConquer"
+    },
+    {
+      "name": "Baldursgate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Baldursgate"
+    },
+    {
+      "name": "UT99",
+      "url": "https://robertsspaceindustries.com/en/citizens/UT99"
+    },
+    {
+      "name": "TotalAnnihilation",
+      "url": "https://robertsspaceindustries.com/en/citizens/TotalAnnihilation"
+    },
+    {
+      "name": "LANParty",
+      "url": "https://robertsspaceindustries.com/en/citizens/LANParty"
+    },
+    {
+      "name": "Newgrounds",
+      "url": "https://robertsspaceindustries.com/en/citizens/Newgrounds"
+    },
+    {
+      "name": "Fileplanet",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fileplanet"
+    },
+    {
+      "name": "HLTV",
+      "url": "https://robertsspaceindustries.com/en/citizens/HLTV"
+    },
+    {
+      "name": "Ping",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ping"
+    },
+    {
+      "name": "GG",
+      "url": "https://robertsspaceindustries.com/en/citizens/GG"
+    },
+    {
+      "name": "CircleStrafe",
+      "url": "https://robertsspaceindustries.com/en/citizens/CircleStrafe"
+    },
+    {
+      "name": "StrafejJump",
+      "url": "https://robertsspaceindustries.com/en/citizens/StrafejJump"
+    },
+    {
+      "name": "Gibbed",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gibbed"
+    },
+    {
+      "name": "PubStomper",
+      "url": "https://robertsspaceindustries.com/en/citizens/PubStomper"
+    },
+    {
+      "name": "ClipThrough",
+      "url": "https://robertsspaceindustries.com/en/citizens/ClipThrough"
+    },
+    {
+      "name": "LagComp",
+      "url": "https://robertsspaceindustries.com/en/citizens/LagComp"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Quake",
+      "url": "https://robertsspaceindustries.com/en/citizens/Quake"
+    },
+    {
+      "name": "Unreal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Unreal"
+    },
+    {
+      "name": "Halflife",
+      "url": "https://robertsspaceindustries.com/en/citizens/Halflife"
+    },
+    {
+      "name": "Starcraft",
+      "url": "https://robertsspaceindustries.com/en/citizens/Starcraft"
+    },
+    {
+      "name": "BroodWar",
+      "url": "https://robertsspaceindustries.com/en/citizens/BroodWar"
+    },
+    {
+      "name": "ZergRush",
+      "url": "https://robertsspaceindustries.com/en/citizens/ZergRush"
+    },
+    {
+      "name": "DotA",
+      "url": "https://robertsspaceindustries.com/en/citizens/DotA"
+    },
+    {
+      "name": "Diablo2",
+      "url": "https://robertsspaceindustries.com/en/citizens/Diablo2"
+    },
+    {
+      "name": "RedAlert",
+      "url": "https://robertsspaceindustries.com/en/citizens/RedAlert"
+    },
+    {
+      "name": "MaxPayne",
+      "url": "https://robertsspaceindustries.com/en/citizens/MaxPayne"
+    },
+    {
+      "name": "DeusEx",
+      "url": "https://robertsspaceindustries.com/en/citizens/DeusEx"
+    },
+    {
+      "name": "SystemShock",
+      "url": "https://robertsspaceindustries.com/en/citizens/SystemShock"
+    },
+    {
+      "name": "Morrowind",
+      "url": "https://robertsspaceindustries.com/en/citizens/Morrowind"
+    },
+    {
+      "name": "Runescape",
+      "url": "https://robertsspaceindustries.com/en/citizens/Runescape"
+    },
+    {
+      "name": "Freespace",
+      "url": "https://robertsspaceindustries.com/en/citizens/Freespace"
+    },
+    {
+      "name": "Tribes",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tribes"
+    },
+    {
+      "name": "Homeworld",
+      "url": "https://robertsspaceindustries.com/en/citizens/Homeworld"
+    },
+    {
+      "name": "GMAN",
+      "url": "https://robertsspaceindustries.com/en/citizens/GMAN"
+    },
+    {
+      "name": "Vortigaunt",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vortigaunt"
+    },
+    {
+      "name": "Headcrab",
+      "url": "https://robertsspaceindustries.com/en/citizens/Headcrab"
+    },
+    {
+      "name": "Kerrigan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kerrigan"
+    },
+    {
+      "name": "DeckardCain",
+      "url": "https://robertsspaceindustries.com/en/citizens/DeckardCain"
+    },
+    {
+      "name": "Shodan",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shodan"
+    },
+    {
+      "name": "Tommy",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tommy"
+    },
+    {
+      "name": "Rayne",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rayne"
+    },
+    {
+      "name": "JCDenton",
+      "url": "https://robertsspaceindustries.com/en/citizens/JCDenton"
+    },
+    {
+      "name": "Pudge",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pudge"
+    },
+    {
+      "name": "Invoker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Invoker"
+    },
+    {
+      "name": "Fatality",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fatality"
+    },
+    {
+      "name": "Thresh",
+      "url": "https://robertsspaceindustries.com/en/citizens/Thresh"
+    },
+    {
+      "name": "Battlenet",
+      "url": "https://robertsspaceindustries.com/en/citizens/Battlenet"
+    },
+    {
+      "name": "GameSpy",
+      "url": "https://robertsspaceindustries.com/en/citizens/GameSpy"
+    },
+    {
+      "name": "Ventrilo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ventrilo"
+    },
+    {
+      "name": "TeamSpeak",
+      "url": "https://robertsspaceindustries.com/en/citizens/TeamSpeak"
+    },
+    {
+      "name": "mIRC",
+      "url": "https://robertsspaceindustries.com/en/citizens/mIRC"
+    },
+    {
+      "name": "ICQ",
+      "url": "https://robertsspaceindustries.com/en/citizens/ICQ"
+    },
+    {
+      "name": "WinAMP",
+      "url": "https://robertsspaceindustries.com/en/citizens/WinAMP"
+    },
+    {
+      "name": "Napster",
+      "url": "https://robertsspaceindustries.com/en/citizens/Napster"
+    },
+    {
+      "name": "Kazaa",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kazaa"
+    },
+    {
+      "name": "Voodoo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Voodoo"
+    },
+    {
+      "name": "Pentium",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pentium"
+    },
+    {
+      "name": "DirectX",
+      "url": "https://robertsspaceindustries.com/en/citizens/DirectX"
+    },
+    {
+      "name": "Xfire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Xfire"
+    },
+    {
+      "name": "WON",
+      "url": "https://robertsspaceindustries.com/en/citizens/WON"
+    },
+    {
+      "name": "CDKey",
+      "url": "https://robertsspaceindustries.com/en/citizens/CDKey"
+    },
+    {
+      "name": "LeeroyJenkins",
+      "url": "https://robertsspaceindustries.com/en/citizens/LeeroyJenkins"
+    },
+    {
+      "name": "AllYourBase",
+      "url": "https://robertsspaceindustries.com/en/citizens/AllYourBase"
+    },
+    {
+      "name": "AYBABTU",
+      "url": "https://robertsspaceindustries.com/en/citizens/AYBABTU"
+    },
+    {
+      "name": "Wololo",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wololo"
+    },
+    {
+      "name": "L33t",
+      "url": "https://robertsspaceindustries.com/en/citizens/L33t"
+    },
+    {
+      "name": "Warez",
+      "url": "https://robertsspaceindustries.com/en/citizens/Warez"
+    },
+    {
+      "name": "RocketJump",
+      "url": "https://robertsspaceindustries.com/en/citizens/RocketJump"
+    },
+    {
+      "name": "BunnyHop",
+      "url": "https://robertsspaceindustries.com/en/citizens/BunnyHop"
+    },
+    {
+      "name": "RailGun",
+      "url": "https://robertsspaceindustries.com/en/citizens/RailGun"
+    },
+    {
+      "name": "QuadDamage",
+      "url": "https://robertsspaceindustries.com/en/citizens/QuadDamage"
+    },
+    {
+      "name": "Frag",
+      "url": "https://robertsspaceindustries.com/en/citizens/Frag"
+    },
+    {
+      "name": "Gib",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gib"
+    },
+    {
+      "name": "Spawn",
+      "url": "https://robertsspaceindustries.com/en/citizens/Spawn"
+    },
+    {
+      "name": "Camper",
+      "url": "https://robertsspaceindustries.com/en/citizens/Camper"
+    },
+    {
+      "name": "Lagger",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lagger"
+    },
+    {
+      "name": "ROFL",
+      "url": "https://robertsspaceindustries.com/en/citizens/ROFL"
+    },
+    {
+      "name": "StayAwhile",
+      "url": "https://robertsspaceindustries.com/en/citizens/StayAwhile"
+    },
+    {
+      "name": "GLHF",
+      "url": "https://robertsspaceindustries.com/en/citizens/GLHF"
+    },
+    {
+      "name": "Smurf",
+      "url": "https://robertsspaceindustries.com/en/citizens/Smurf"
+    },
+    {
+      "name": "Zerg",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zerg"
+    },
+    {
+      "name": "Rush",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rush"
+    },
+    {
+      "name": "Ninja",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ninja"
+    },
+    {
+      "name": "Grief",
+      "url": "https://robertsspaceindustries.com/en/citizens/Grief"
+    },
+    {
+      "name": "Gank",
+      "url": "https://robertsspaceindustries.com/en/citizens/Gank"
+    },
+    {
+      "name": "WallHack",
+      "url": "https://robertsspaceindustries.com/en/citizens/WallHack"
+    },
+    {
+      "name": "Defrag",
+      "url": "https://robertsspaceindustries.com/en/citizens/Defrag"
+    },
+    {
+      "name": "Telefrag",
+      "url": "https://robertsspaceindustries.com/en/citizens/Telefrag"
+    },
+    {
+      "name": "Respawned",
+      "url": "https://robertsspaceindustries.com/en/citizens/Respawned"
+    },
+    {
+      "name": "Fragged",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fragged"
+    }
+  ],
+  "errors": []
+}

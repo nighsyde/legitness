@@ -1,0 +1,353 @@
+{
+  "checked_at": "2026-07-01T23:45:02.696719Z",
+  "total": 86,
+  "available": [
+    {
+      "name": "Toxjq",
+      "url": "https://robertsspaceindustries.com/en/citizens/Toxjq"
+    },
+    {
+      "name": "Strenx",
+      "url": "https://robertsspaceindustries.com/en/citizens/Strenx"
+    },
+    {
+      "name": "Vo0",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vo0"
+    },
+    {
+      "name": "Bloodrun",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bloodrun"
+    },
+    {
+      "name": "Campgrounds",
+      "url": "https://robertsspaceindustries.com/en/citizens/Campgrounds"
+    },
+    {
+      "name": "Longestyard",
+      "url": "https://robertsspaceindustries.com/en/citizens/Longestyard"
+    },
+    {
+      "name": "ShockCombo",
+      "url": "https://robertsspaceindustries.com/en/citizens/ShockCombo"
+    },
+    {
+      "name": "Translocator",
+      "url": "https://robertsspaceindustries.com/en/citizens/Translocator"
+    },
+    {
+      "name": "Deck16",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deck16"
+    },
+    {
+      "name": "Biolauncher",
+      "url": "https://robertsspaceindustries.com/en/citizens/Biolauncher"
+    },
+    {
+      "name": "Pulsegun",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pulsegun"
+    },
+    {
+      "name": "Archvile",
+      "url": "https://robertsspaceindustries.com/en/citizens/Archvile"
+    },
+    {
+      "name": "Chaingunner",
+      "url": "https://robertsspaceindustries.com/en/citizens/Chaingunner"
+    },
+    {
+      "name": "Painelemental",
+      "url": "https://robertsspaceindustries.com/en/citizens/Painelemental"
+    },
+    {
+      "name": "Skiing",
+      "url": "https://robertsspaceindustries.com/en/citizens/Skiing"
+    },
+    {
+      "name": "Flagcapper",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flagcapper"
+    },
+    {
+      "name": "BF1942",
+      "url": "https://robertsspaceindustries.com/en/citizens/BF1942"
+    },
+    {
+      "name": "Ticketbleed",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ticketbleed"
+    },
+    {
+      "name": "WakeIsland",
+      "url": "https://robertsspaceindustries.com/en/citizens/WakeIsland"
+    },
+    {
+      "name": "Guadalcanal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Guadalcanal"
+    },
+    {
+      "name": "DayofDefeat",
+      "url": "https://robertsspaceindustries.com/en/citizens/DayofDefeat"
+    },
+    {
+      "name": "AmericasArmy",
+      "url": "https://robertsspaceindustries.com/en/citizens/AmericasArmy"
+    },
+    {
+      "name": "SFQualify",
+      "url": "https://robertsspaceindustries.com/en/citizens/SFQualify"
+    },
+    {
+      "name": "cstrikesource",
+      "url": "https://robertsspaceindustries.com/en/citizens/cstrikesource"
+    },
+    {
+      "name": "cssource",
+      "url": "https://robertsspaceindustries.com/en/citizens/cssource"
+    },
+    {
+      "name": "surfmap",
+      "url": "https://robertsspaceindustries.com/en/citizens/surfmap"
+    },
+    {
+      "name": "bhopping",
+      "url": "https://robertsspaceindustries.com/en/citizens/bhopping"
+    },
+    {
+      "name": "Strafe50",
+      "url": "https://robertsspaceindustries.com/en/citizens/Strafe50"
+    },
+    {
+      "name": "AirStrafe",
+      "url": "https://robertsspaceindustries.com/en/citizens/AirStrafe"
+    },
+    {
+      "name": "WallStrafe",
+      "url": "https://robertsspaceindustries.com/en/citizens/WallStrafe"
+    },
+    {
+      "name": "Bhopchain",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bhopchain"
+    },
+    {
+      "name": "Walljumping",
+      "url": "https://robertsspaceindustries.com/en/citizens/Walljumping"
+    },
+    {
+      "name": "PerfectStrafe",
+      "url": "https://robertsspaceindustries.com/en/citizens/PerfectStrafe"
+    },
+    {
+      "name": "Flicking",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flicking"
+    },
+    {
+      "name": "Prefiring",
+      "url": "https://robertsspaceindustries.com/en/citizens/Prefiring"
+    },
+    {
+      "name": "Elemenoopy",
+      "url": "https://robertsspaceindustries.com/en/citizens/Elemenoopy"
+    },
+    {
+      "name": "Compexity",
+      "url": "https://robertsspaceindustries.com/en/citizens/Compexity"
+    },
+    {
+      "name": "EvilGeniuses",
+      "url": "https://robertsspaceindustries.com/en/citizens/EvilGeniuses"
+    },
+    {
+      "name": "mousesports",
+      "url": "https://robertsspaceindustries.com/en/citizens/mousesports"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Cooller",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cooller"
+    },
+    {
+      "name": "Cypher",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cypher"
+    },
+    {
+      "name": "ZeRo4",
+      "url": "https://robertsspaceindustries.com/en/citizens/ZeRo4"
+    },
+    {
+      "name": "Rapha",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rapha"
+    },
+    {
+      "name": "Socrates",
+      "url": "https://robertsspaceindustries.com/en/citizens/Socrates"
+    },
+    {
+      "name": "Aerowalk",
+      "url": "https://robertsspaceindustries.com/en/citizens/Aerowalk"
+    },
+    {
+      "name": "Phrantic",
+      "url": "https://robertsspaceindustries.com/en/citizens/Phrantic"
+    },
+    {
+      "name": "ShockRifle",
+      "url": "https://robertsspaceindustries.com/en/citizens/ShockRifle"
+    },
+    {
+      "name": "LinkGun",
+      "url": "https://robertsspaceindustries.com/en/citizens/LinkGun"
+    },
+    {
+      "name": "FacingWorlds",
+      "url": "https://robertsspaceindustries.com/en/citizens/FacingWorlds"
+    },
+    {
+      "name": "Morpheus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Morpheus"
+    },
+    {
+      "name": "Phobos2",
+      "url": "https://robertsspaceindustries.com/en/citizens/Phobos2"
+    },
+    {
+      "name": "Ripper",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ripper"
+    },
+    {
+      "name": "Revenant",
+      "url": "https://robertsspaceindustries.com/en/citizens/Revenant"
+    },
+    {
+      "name": "Cacodemon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cacodemon"
+    },
+    {
+      "name": "Mancubus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mancubus"
+    },
+    {
+      "name": "Cyberdemon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cyberdemon"
+    },
+    {
+      "name": "Arachnotron",
+      "url": "https://robertsspaceindustries.com/en/citizens/Arachnotron"
+    },
+    {
+      "name": "Hellknight",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hellknight"
+    },
+    {
+      "name": "Spinfusor",
+      "url": "https://robertsspaceindustries.com/en/citizens/Spinfusor"
+    },
+    {
+      "name": "Bioderm",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bioderm"
+    },
+    {
+      "name": "Elf",
+      "url": "https://robertsspaceindustries.com/en/citizens/Elf"
+    },
+    {
+      "name": "Pathfinder",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pathfinder"
+    },
+    {
+      "name": "Conquest",
+      "url": "https://robertsspaceindustries.com/en/citizens/Conquest"
+    },
+    {
+      "name": "ElAlamein",
+      "url": "https://robertsspaceindustries.com/en/citizens/ElAlamein"
+    },
+    {
+      "name": "Omaha",
+      "url": "https://robertsspaceindustries.com/en/citizens/Omaha"
+    },
+    {
+      "name": "MOHAA",
+      "url": "https://robertsspaceindustries.com/en/citizens/MOHAA"
+    },
+    {
+      "name": "OmahaBeach",
+      "url": "https://robertsspaceindustries.com/en/citizens/OmahaBeach"
+    },
+    {
+      "name": "Spearhead",
+      "url": "https://robertsspaceindustries.com/en/citizens/Spearhead"
+    },
+    {
+      "name": "DoD",
+      "url": "https://robertsspaceindustries.com/en/citizens/DoD"
+    },
+    {
+      "name": "Avalanche",
+      "url": "https://robertsspaceindustries.com/en/citizens/Avalanche"
+    },
+    {
+      "name": "Anzio",
+      "url": "https://robertsspaceindustries.com/en/citizens/Anzio"
+    },
+    {
+      "name": "RainbowSix",
+      "url": "https://robertsspaceindustries.com/en/citizens/RainbowSix"
+    },
+    {
+      "name": "RogueSpear",
+      "url": "https://robertsspaceindustries.com/en/citizens/RogueSpear"
+    },
+    {
+      "name": "Flashpoint",
+      "url": "https://robertsspaceindustries.com/en/citizens/Flashpoint"
+    },
+    {
+      "name": "Resistance",
+      "url": "https://robertsspaceindustries.com/en/citizens/Resistance"
+    },
+    {
+      "name": "Doubletap",
+      "url": "https://robertsspaceindustries.com/en/citizens/Doubletap"
+    },
+    {
+      "name": "SpawN",
+      "url": "https://robertsspaceindustries.com/en/citizens/SpawN"
+    },
+    {
+      "name": "Fisker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fisker"
+    },
+    {
+      "name": "Potti",
+      "url": "https://robertsspaceindustries.com/en/citizens/Potti"
+    },
+    {
+      "name": "cArn",
+      "url": "https://robertsspaceindustries.com/en/citizens/cArn"
+    },
+    {
+      "name": "Walle",
+      "url": "https://robertsspaceindustries.com/en/citizens/Walle"
+    },
+    {
+      "name": "Hyper",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hyper"
+    },
+    {
+      "name": "Ave",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ave"
+    },
+    {
+      "name": "Zonic",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zonic"
+    },
+    {
+      "name": "Fnatic",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fnatic"
+    },
+    {
+      "name": "Virtuspro",
+      "url": "https://robertsspaceindustries.com/en/citizens/Virtuspro"
+    }
+  ],
+  "errors": []
+}

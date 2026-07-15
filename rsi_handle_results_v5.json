@@ -1,0 +1,317 @@
+{
+  "checked_at": "2026-06-30T23:38:41.241951Z",
+  "total": 77,
+  "available": [
+    {
+      "name": "DeDust2",
+      "url": "https://robertsspaceindustries.com/en/citizens/DeDust2"
+    },
+    {
+      "name": "DeDust",
+      "url": "https://robertsspaceindustries.com/en/citizens/DeDust"
+    },
+    {
+      "name": "BombsiteA",
+      "url": "https://robertsspaceindustries.com/en/citizens/BombsiteA"
+    },
+    {
+      "name": "BombsiteB",
+      "url": "https://robertsspaceindustries.com/en/citizens/BombsiteB"
+    },
+    {
+      "name": "MidDoors",
+      "url": "https://robertsspaceindustries.com/en/citizens/MidDoors"
+    },
+    {
+      "name": "LongDoors",
+      "url": "https://robertsspaceindustries.com/en/citizens/LongDoors"
+    },
+    {
+      "name": "UpperTunnel",
+      "url": "https://robertsspaceindustries.com/en/citizens/UpperTunnel"
+    },
+    {
+      "name": "LowerTunnel",
+      "url": "https://robertsspaceindustries.com/en/citizens/LowerTunnel"
+    },
+    {
+      "name": "CTSpawn",
+      "url": "https://robertsspaceindustries.com/en/citizens/CTSpawn"
+    },
+    {
+      "name": "BananaInfoerno",
+      "url": "https://robertsspaceindustries.com/en/citizens/BananaInfoerno"
+    },
+    {
+      "name": "Pindleskin",
+      "url": "https://robertsspaceindustries.com/en/citizens/Pindleskin"
+    },
+    {
+      "name": "Travincal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Travincal"
+    },
+    {
+      "name": "ChaosSanctuary",
+      "url": "https://robertsspaceindustries.com/en/citizens/ChaosSanctuary"
+    },
+    {
+      "name": "MaggotLair",
+      "url": "https://robertsspaceindustries.com/en/citizens/MaggotLair"
+    },
+    {
+      "name": "DuranceOfHate",
+      "url": "https://robertsspaceindustries.com/en/citizens/DuranceOfHate"
+    },
+    {
+      "name": "CowLevel",
+      "url": "https://robertsspaceindustries.com/en/citizens/CowLevel"
+    },
+    {
+      "name": "SecretCowLevel",
+      "url": "https://robertsspaceindustries.com/en/citizens/SecretCowLevel"
+    },
+    {
+      "name": "Harrogath",
+      "url": "https://robertsspaceindustries.com/en/citizens/Harrogath"
+    },
+    {
+      "name": "Fishymancer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Fishymancer"
+    },
+    {
+      "name": "Bowazon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bowazon"
+    },
+    {
+      "name": "Javazon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Javazon"
+    },
+    {
+      "name": "MFSorc",
+      "url": "https://robertsspaceindustries.com/en/citizens/MFSorc"
+    },
+    {
+      "name": "StoneOfJordan",
+      "url": "https://robertsspaceindustries.com/en/citizens/StoneOfJordan"
+    },
+    {
+      "name": "BerRune",
+      "url": "https://robertsspaceindustries.com/en/citizens/BerRune"
+    },
+    {
+      "name": "ZodRune",
+      "url": "https://robertsspaceindustries.com/en/citizens/ZodRune"
+    },
+    {
+      "name": "BaalRun",
+      "url": "https://robertsspaceindustries.com/en/citizens/BaalRun"
+    },
+    {
+      "name": "MephRun",
+      "url": "https://robertsspaceindustries.com/en/citizens/MephRun"
+    },
+    {
+      "name": "CowRun",
+      "url": "https://robertsspaceindustries.com/en/citizens/CowRun"
+    },
+    {
+      "name": "Rushme",
+      "url": "https://robertsspaceindustries.com/en/citizens/Rushme"
+    },
+    {
+      "name": "LadderReset",
+      "url": "https://robertsspaceindustries.com/en/citizens/LadderReset"
+    },
+    {
+      "name": "HCDied",
+      "url": "https://robertsspaceindustries.com/en/citizens/HCDied"
+    },
+    {
+      "name": "OpenBnet",
+      "url": "https://robertsspaceindustries.com/en/citizens/OpenBnet"
+    },
+    {
+      "name": "SojTrade",
+      "url": "https://robertsspaceindustries.com/en/citizens/SojTrade"
+    },
+    {
+      "name": "PacketTeleport",
+      "url": "https://robertsspaceindustries.com/en/citizens/PacketTeleport"
+    },
+    {
+      "name": "TheMuler",
+      "url": "https://robertsspaceindustries.com/en/citizens/TheMuler"
+    },
+    {
+      "name": "HostileMe",
+      "url": "https://robertsspaceindustries.com/en/citizens/HostileMe"
+    },
+    {
+      "name": "PinLe",
+      "url": "https://robertsspaceindustries.com/en/citizens/PinLe"
+    },
+    {
+      "name": "GrandCharm",
+      "url": "https://robertsspaceindustries.com/en/citizens/GrandCharm"
+    },
+    {
+      "name": "PerfectGem",
+      "url": "https://robertsspaceindustries.com/en/citizens/PerfectGem"
+    },
+    {
+      "name": "HoradricCube",
+      "url": "https://robertsspaceindustries.com/en/citizens/HoradricCube"
+    },
+    {
+      "name": "Transmute",
+      "url": "https://robertsspaceindustries.com/en/citizens/Transmute"
+    },
+    {
+      "name": "ThreePerfect",
+      "url": "https://robertsspaceindustries.com/en/citizens/ThreePerfect"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Dust2",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dust2"
+    },
+    {
+      "name": "LongA",
+      "url": "https://robertsspaceindustries.com/en/citizens/LongA"
+    },
+    {
+      "name": "ShortA",
+      "url": "https://robertsspaceindustries.com/en/citizens/ShortA"
+    },
+    {
+      "name": "Tunnels",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tunnels"
+    },
+    {
+      "name": "Catwalk",
+      "url": "https://robertsspaceindustries.com/en/citizens/Catwalk"
+    },
+    {
+      "name": "Goose",
+      "url": "https://robertsspaceindustries.com/en/citizens/Goose"
+    },
+    {
+      "name": "Xbox",
+      "url": "https://robertsspaceindustries.com/en/citizens/Xbox"
+    },
+    {
+      "name": "TSpawn",
+      "url": "https://robertsspaceindustries.com/en/citizens/TSpawn"
+    },
+    {
+      "name": "Mephisto",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mephisto"
+    },
+    {
+      "name": "Baal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Baal"
+    },
+    {
+      "name": "Andariel",
+      "url": "https://robertsspaceindustries.com/en/citizens/Andariel"
+    },
+    {
+      "name": "Duriel",
+      "url": "https://robertsspaceindustries.com/en/citizens/Duriel"
+    },
+    {
+      "name": "Tyrael",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tyrael"
+    },
+    {
+      "name": "Izual",
+      "url": "https://robertsspaceindustries.com/en/citizens/Izual"
+    },
+    {
+      "name": "Diablo2",
+      "url": "https://robertsspaceindustries.com/en/citizens/Diablo2"
+    },
+    {
+      "name": "MooMooFarm",
+      "url": "https://robertsspaceindustries.com/en/citizens/MooMooFarm"
+    },
+    {
+      "name": "TalRasha",
+      "url": "https://robertsspaceindustries.com/en/citizens/TalRasha"
+    },
+    {
+      "name": "Worldstone",
+      "url": "https://robertsspaceindustries.com/en/citizens/Worldstone"
+    },
+    {
+      "name": "Hammerdin",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hammerdin"
+    },
+    {
+      "name": "Necromancer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Necromancer"
+    },
+    {
+      "name": "Sorceress",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sorceress"
+    },
+    {
+      "name": "Whirlwind",
+      "url": "https://robertsspaceindustries.com/en/citizens/Whirlwind"
+    },
+    {
+      "name": "Smiter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Smiter"
+    },
+    {
+      "name": "Enigma",
+      "url": "https://robertsspaceindustries.com/en/citizens/Enigma"
+    },
+    {
+      "name": "Shako",
+      "url": "https://robertsspaceindustries.com/en/citizens/Shako"
+    },
+    {
+      "name": "Annihilus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Annihilus"
+    },
+    {
+      "name": "Windforce",
+      "url": "https://robertsspaceindustries.com/en/citizens/Windforce"
+    },
+    {
+      "name": "Zod",
+      "url": "https://robertsspaceindustries.com/en/citizens/Zod"
+    },
+    {
+      "name": "Hellfire",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hellfire"
+    },
+    {
+      "name": "Stormshield",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stormshield"
+    },
+    {
+      "name": "Oculus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Oculus"
+    },
+    {
+      "name": "Thunderstroke",
+      "url": "https://robertsspaceindustries.com/en/citizens/Thunderstroke"
+    },
+    {
+      "name": "Hardcore",
+      "url": "https://robertsspaceindustries.com/en/citizens/Hardcore"
+    },
+    {
+      "name": "Softcore",
+      "url": "https://robertsspaceindustries.com/en/citizens/Softcore"
+    },
+    {
+      "name": "NineLives",
+      "url": "https://robertsspaceindustries.com/en/citizens/NineLives"
+    }
+  ],
+  "errors": []
+}

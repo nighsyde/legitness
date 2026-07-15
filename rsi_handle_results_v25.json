@@ -1,0 +1,345 @@
+{
+  "checked_at": "2026-07-09T21:00:55.942600Z",
+  "total": 84,
+  "available": [
+    {
+      "name": "LordDigital",
+      "url": "https://robertsspaceindustries.com/en/citizens/LordDigital"
+    },
+    {
+      "name": "PhibOptik",
+      "url": "https://robertsspaceindustries.com/en/citizens/PhibOptik"
+    },
+    {
+      "name": "Daemon9",
+      "url": "https://robertsspaceindustries.com/en/citizens/Daemon9"
+    },
+    {
+      "name": "CrimeOfCuriosity",
+      "url": "https://robertsspaceindustries.com/en/citizens/CrimeOfCuriosity"
+    },
+    {
+      "name": "OutsmartYou",
+      "url": "https://robertsspaceindustries.com/en/citizens/OutsmartYou"
+    },
+    {
+      "name": "WeAreAlike",
+      "url": "https://robertsspaceindustries.com/en/citizens/WeAreAlike"
+    },
+    {
+      "name": "EnterMyWorld",
+      "url": "https://robertsspaceindustries.com/en/citizens/EnterMyWorld"
+    },
+    {
+      "name": "BeautyOfBaud",
+      "url": "https://robertsspaceindustries.com/en/citizens/BeautyOfBaud"
+    },
+    {
+      "name": "WorldElectron",
+      "url": "https://robertsspaceindustries.com/en/citizens/WorldElectron"
+    },
+    {
+      "name": "YouCallUsCriminals",
+      "url": "https://robertsspaceindustries.com/en/citizens/YouCallUsCriminals"
+    },
+    {
+      "name": "CannotStopUs",
+      "url": "https://robertsspaceindustries.com/en/citizens/CannotStopUs"
+    },
+    {
+      "name": "Enciphered",
+      "url": "https://robertsspaceindustries.com/en/citizens/Enciphered"
+    },
+    {
+      "name": "Interstitial",
+      "url": "https://robertsspaceindustries.com/en/citizens/Interstitial"
+    },
+    {
+      "name": "Oblique",
+      "url": "https://robertsspaceindustries.com/en/citizens/Oblique"
+    },
+    {
+      "name": "Vectored",
+      "url": "https://robertsspaceindustries.com/en/citizens/Vectored"
+    },
+    {
+      "name": "Steganography",
+      "url": "https://robertsspaceindustries.com/en/citizens/Steganography"
+    },
+    {
+      "name": "Logarithm",
+      "url": "https://robertsspaceindustries.com/en/citizens/Logarithm"
+    },
+    {
+      "name": "Grayzone",
+      "url": "https://robertsspaceindustries.com/en/citizens/Grayzone"
+    }
+  ],
+  "unavailable": [
+    {
+      "name": "Terminus",
+      "url": "https://robertsspaceindustries.com/en/citizens/Terminus"
+    },
+    {
+      "name": "Marauder",
+      "url": "https://robertsspaceindustries.com/en/citizens/Marauder"
+    },
+    {
+      "name": "Mentor",
+      "url": "https://robertsspaceindustries.com/en/citizens/Mentor"
+    },
+    {
+      "name": "Bloodaxe",
+      "url": "https://robertsspaceindustries.com/en/citizens/Bloodaxe"
+    },
+    {
+      "name": "Deadlord",
+      "url": "https://robertsspaceindustries.com/en/citizens/Deadlord"
+    },
+    {
+      "name": "Kinison",
+      "url": "https://robertsspaceindustries.com/en/citizens/Kinison"
+    },
+    {
+      "name": "Leftist",
+      "url": "https://robertsspaceindustries.com/en/citizens/Leftist"
+    },
+    {
+      "name": "Nightstalker",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nightstalker"
+    },
+    {
+      "name": "AcidPhreak",
+      "url": "https://robertsspaceindustries.com/en/citizens/AcidPhreak"
+    },
+    {
+      "name": "AlephOne",
+      "url": "https://robertsspaceindustries.com/en/citizens/AlephOne"
+    },
+    {
+      "name": "ReDragon",
+      "url": "https://robertsspaceindustries.com/en/citizens/ReDragon"
+    },
+    {
+      "name": "TheMentor",
+      "url": "https://robertsspaceindustries.com/en/citizens/TheMentor"
+    },
+    {
+      "name": "Clandestine",
+      "url": "https://robertsspaceindustries.com/en/citizens/Clandestine"
+    },
+    {
+      "name": "Subterranean",
+      "url": "https://robertsspaceindustries.com/en/citizens/Subterranean"
+    },
+    {
+      "name": "Specter",
+      "url": "https://robertsspaceindustries.com/en/citizens/Specter"
+    },
+    {
+      "name": "Chimera",
+      "url": "https://robertsspaceindustries.com/en/citizens/Chimera"
+    },
+    {
+      "name": "Wraith",
+      "url": "https://robertsspaceindustries.com/en/citizens/Wraith"
+    },
+    {
+      "name": "Umbra",
+      "url": "https://robertsspaceindustries.com/en/citizens/Umbra"
+    },
+    {
+      "name": "Obscura",
+      "url": "https://robertsspaceindustries.com/en/citizens/Obscura"
+    },
+    {
+      "name": "Penumbra",
+      "url": "https://robertsspaceindustries.com/en/citizens/Penumbra"
+    },
+    {
+      "name": "Silhouette",
+      "url": "https://robertsspaceindustries.com/en/citizens/Silhouette"
+    },
+    {
+      "name": "Sigil",
+      "url": "https://robertsspaceindustries.com/en/citizens/Sigil"
+    },
+    {
+      "name": "Glyph",
+      "url": "https://robertsspaceindustries.com/en/citizens/Glyph"
+    },
+    {
+      "name": "Cipher",
+      "url": "https://robertsspaceindustries.com/en/citizens/Cipher"
+    },
+    {
+      "name": "Redacted",
+      "url": "https://robertsspaceindustries.com/en/citizens/Redacted"
+    },
+    {
+      "name": "Expunged",
+      "url": "https://robertsspaceindustries.com/en/citizens/Expunged"
+    },
+    {
+      "name": "Stricken",
+      "url": "https://robertsspaceindustries.com/en/citizens/Stricken"
+    },
+    {
+      "name": "Nullified",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nullified"
+    },
+    {
+      "name": "Phantom",
+      "url": "https://robertsspaceindustries.com/en/citizens/Phantom"
+    },
+    {
+      "name": "Revenant",
+      "url": "https://robertsspaceindustries.com/en/citizens/Revenant"
+    },
+    {
+      "name": "Latency",
+      "url": "https://robertsspaceindustries.com/en/citizens/Latency"
+    },
+    {
+      "name": "Liminal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Liminal"
+    },
+    {
+      "name": "Periphery",
+      "url": "https://robertsspaceindustries.com/en/citizens/Periphery"
+    },
+    {
+      "name": "Tangential",
+      "url": "https://robertsspaceindustries.com/en/citizens/Tangential"
+    },
+    {
+      "name": "Adjacent",
+      "url": "https://robertsspaceindustries.com/en/citizens/Adjacent"
+    },
+    {
+      "name": "Lateral",
+      "url": "https://robertsspaceindustries.com/en/citizens/Lateral"
+    },
+    {
+      "name": "Proximate",
+      "url": "https://robertsspaceindustries.com/en/citizens/Proximate"
+    },
+    {
+      "name": "Distal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Distal"
+    },
+    {
+      "name": "Remote",
+      "url": "https://robertsspaceindustries.com/en/citizens/Remote"
+    },
+    {
+      "name": "Ingress",
+      "url": "https://robertsspaceindustries.com/en/citizens/Ingress"
+    },
+    {
+      "name": "Egress",
+      "url": "https://robertsspaceindustries.com/en/citizens/Egress"
+    },
+    {
+      "name": "Siphon",
+      "url": "https://robertsspaceindustries.com/en/citizens/Siphon"
+    },
+    {
+      "name": "Intercept",
+      "url": "https://robertsspaceindustries.com/en/citizens/Intercept"
+    },
+    {
+      "name": "Skimmer",
+      "url": "https://robertsspaceindustries.com/en/citizens/Skimmer"
+    },
+    {
+      "name": "Resonance",
+      "url": "https://robertsspaceindustries.com/en/citizens/Resonance"
+    },
+    {
+      "name": "Frequency",
+      "url": "https://robertsspaceindustries.com/en/citizens/Frequency"
+    },
+    {
+      "name": "Carrier",
+      "url": "https://robertsspaceindustries.com/en/citizens/Carrier"
+    },
+    {
+      "name": "Steg",
+      "url": "https://robertsspaceindustries.com/en/citizens/Steg"
+    },
+    {
+      "name": "Covert",
+      "url": "https://robertsspaceindustries.com/en/citizens/Covert"
+    },
+    {
+      "name": "Subliminal",
+      "url": "https://robertsspaceindustries.com/en/citizens/Subliminal"
+    },
+    {
+      "name": "Exponent",
+      "url": "https://robertsspaceindustries.com/en/citizens/Exponent"
+    },
+    {
+      "name": "Algorithm",
+      "url": "https://robertsspaceindustries.com/en/citizens/Algorithm"
+    },
+    {
+      "name": "Recursion",
+      "url": "https://robertsspaceindustries.com/en/citizens/Recursion"
+    },
+    {
+      "name": "LordChaos",
+      "url": "https://robertsspaceindustries.com/en/citizens/LordChaos"
+    },
+    {
+      "name": "DarkPrince",
+      "url": "https://robertsspaceindustries.com/en/citizens/DarkPrince"
+    },
+    {
+      "name": "SilverSpy",
+      "url": "https://robertsspaceindustries.com/en/citizens/SilverSpy"
+    },
+    {
+      "name": "IronLungs",
+      "url": "https://robertsspaceindustries.com/en/citizens/IronLungs"
+    },
+    {
+      "name": "Nightcrawler",
+      "url": "https://robertsspaceindustries.com/en/citizens/Nightcrawler"
+    },
+    {
+      "name": "Darkforce",
+      "url": "https://robertsspaceindustries.com/en/citizens/Darkforce"
+    },
+    {
+      "name": "Blacklung",
+      "url": "https://robertsspaceindustries.com/en/citizens/Blacklung"
+    },
+    {
+      "name": "Duskfall",
+      "url": "https://robertsspaceindustries.com/en/citizens/Duskfall"
+    },
+    {
+      "name": "Coldlight",
+      "url": "https://robertsspaceindustries.com/en/citizens/Coldlight"
+    },
+    {
+      "name": "Halflife",
+      "url": "https://robertsspaceindustries.com/en/citizens/Halflife"
+    },
+    {
+      "name": "Halflight",
+      "url": "https://robertsspaceindustries.com/en/citizens/Halflight"
+    },
+    {
+      "name": "Twilight",
+      "url": "https://robertsspaceindustries.com/en/citizens/Twilight"
+    },
+    {
+      "name": "Dusk",
+      "url": "https://robertsspaceindustries.com/en/citizens/Dusk"
+    }
+  ],
+  "errors": []
+}
